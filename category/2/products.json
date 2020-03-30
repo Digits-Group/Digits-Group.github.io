@@ -1,0 +1,2243 @@
+[
+    {
+      "SKU": "F6S74RX-ZX",
+      "Product": "P84594-y000hf ",
+      "Description": "E2-7110, 4x 180GHz ",
+      "CategoryID": 2,
+      "Price": 435.95,
+      "Stock": 196
+    },
+    {
+      "SKU": "L2S55RX-ZX",
+      "Product": "K84220-ab105hf",
+      "Description": "A10-8780P, 4x 200GHz ",
+      "CategoryID": 2,
+      "Price": 722.62,
+      "Stock": 16
+    },
+    {
+      "SKU": "L2X02RX-ZX",
+      "Product": "5-K40355hf",
+      "Description": "A8-7410, 4x 220GHz ",
+      "CategoryID": 2,
+      "Price": 640.1,
+      "Stock": 40
+    },
+    {
+      "SKU": "L2X06RX-ZX",
+      "Product": "O98409-p103hf ",
+      "Description": "E1-6010, 2x 135GHz ",
+      "CategoryID": 2,
+      "Price": 327.51,
+      "Stock": 93
+    },
+    {
+      "SKU": "L4K32UW-ZX",
+      "Product": "LBook RevolK87208140 D3",
+      "Description": "Core i5-5300U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 2299.51,
+      "Stock": 85
+    },
+    {
+      "SKU": "M0K20RX-ZX",
+      "Product": "M2310-f122hf",
+      "Description": "Core i3-5010U, 2x 210GHz ",
+      "CategoryID": 2,
+      "Price": 464.23,
+      "Stock": 41
+    },
+    {
+      "SKU": "M2P37RX-ZX",
+      "Product": "H68654-ae001na",
+      "Description": "Core i5-5200U, 2x 220GHz ",
+      "CategoryID": 2,
+      "Price": 1075.44,
+      "Stock": 34
+    },
+    {
+      "SKU": "M4R47RX-ZX",
+      "Product": "JBook 6959835u D3",
+      "Description": "Core i7-5500U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 2763.14,
+      "Stock": 32
+    },
+    {
+      "SKU": "M4R63RX-ZX",
+      "Product": "JBook 038185 D6",
+      "Description": "Core i7-4810MQ, 4x 280GHz ",
+      "CategoryID": 2,
+      "Price": 3370.27,
+      "Stock": 73
+    },
+    {
+      "SKU": "M4R64RX-ZX",
+      "Product": "JBook 785855 D5",
+      "Description": "Core i7-4910MQ, 4x 290GHz ",
+      "CategoryID": 2,
+      "Price": 4153.98,
+      "Stock": 0
+    },
+    {
+      "SKU": "M4R67RX-ZX",
+      "Product": "JBook 9825331 D7",
+      "Description": "Core i7-4710MQ, 4x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1932.34,
+      "Stock": 176
+    },
+    {
+      "SKU": "M4R70RX-ZX",
+      "Product": "JBook 6322381 D6",
+      "Description": "Core i7-4810MQ, 4x 280GHz ",
+      "CategoryID": 2,
+      "Price": 3768.12,
+      "Stock": 0
+    },
+    {
+      "SKU": "M4R72RX-ZX",
+      "Product": "JBook O445011 D0",
+      "Description": "Core i7-4810MQ, 4x 280GHz ",
+      "CategoryID": 2,
+      "Price": 4823.24,
+      "Stock": 0
+    },
+    {
+      "SKU": "M4R75RX-ZX",
+      "Product": "JBook 2153621 D1",
+      "Description": "Core i7-4910MQ, 4x 290GHz ",
+      "CategoryID": 2,
+      "Price": 6259.86,
+      "Stock": 0
+    },
+    {
+      "SKU": "M4R78RX-ZX",
+      "Product": "JBook 8783741 D7",
+      "Description": "Core i7-4710MQ, 4x 250GHz ",
+      "CategoryID": 2,
+      "Price": 2986.59,
+      "Stock": 14
+    },
+    {
+      "SKU": "M6U35UW-ZX",
+      "Product": "LBook 95760130 D1",
+      "Description": "Core i5-5300U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 2192.21,
+      "Stock": 131
+    },
+    {
+      "SKU": "M9S56RX-ZX",
+      "Product": "I22820 D0",
+      "Description": "Core i3-4005U, 2x 170GHz ",
+      "CategoryID": 2,
+      "Price": 414.15,
+      "Stock": 160
+    },
+    {
+      "SKU": "M9S89RX",
+      "Product": "O270040 D6",
+      "Description": "Core i5-5200U, 2x 220GHz ",
+      "CategoryID": 2,
+      "Price": 423.47,
+      "Stock": 131
+    },
+    {
+      "SKU": "N0P75RX-ZX",
+      "Product": "P42105 D6",
+      "Description": "A6-6310, 4x 180GHz ",
+      "CategoryID": 2,
+      "Price": 508.67,
+      "Stock": 79
+    },
+    {
+      "SKU": "N0P81RX",
+      "Product": "O463490 D3",
+      "Description": "Celeron N3050, 2x 160GHz ",
+      "CategoryID": 2,
+      "Price": 296.65,
+      "Stock": 27
+    },
+    {
+      "SKU": "N0P91RX-ZX",
+      "Product": "O258710 D3",
+      "Description": "Core i3-5005U, 2x 200GHz ",
+      "CategoryID": 2,
+      "Price": 547.94,
+      "Stock": 101
+    },
+    {
+      "SKU": "N1U36RX-ZX",
+      "Product": "O703630 340 D0",
+      "Description": "Pentium N3700, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 685.57,
+      "Stock": 55
+    },
+    {
+      "SKU": "N6Q12RX-ZX",
+      "Product": "LBook O8620840 D4",
+      "Description": "Core i5-5200U, 2x 220GHz ",
+      "CategoryID": 2,
+      "Price": 1061.2,
+      "Stock": 89
+    },
+    {
+      "SKU": "N6Q25RX-ZX",
+      "Product": "LBook PaM699670030 D7",
+      "Description": "Core i5-5200U, 2x 220GHz ",
+      "CategoryID": 2,
+      "Price": 1555.59,
+      "Stock": 0
+    },
+    {
+      "SKU": "N6Q58RX-ZX",
+      "Product": "N3747 LBook 340 D2",
+      "Description": "Core i5-4210M, 2x 260GHz ",
+      "CategoryID": 2,
+      "Price": 1324.34,
+      "Stock": 57
+    },
+    {
+      "SKU": "N9P95UU-ZX",
+      "Product": "mO51311 Mobile Thin Client",
+      "Description": "A8 PRO-8600B, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 1167.85,
+      "Stock": 7
+    },
+    {
+      "SKU": "N9R55RX-ZX",
+      "Product": "I356-ac101hf ",
+      "Description": "Pentium N3700, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 411.91,
+      "Stock": 187
+    },
+    {
+      "SKU": "N9R63RX-ZX",
+      "Product": "I37625-ac105hf grau",
+      "Description": "Core i3-5005U, 2x 200GHz ",
+      "CategoryID": 2,
+      "Price": 530.94,
+      "Stock": 66
+    },
+    {
+      "SKU": "P0U00UU-ZX",
+      "Product": "K7648911 Mobile Thin Client",
+      "Description": "A8 PRO-8600B, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 1255.59,
+      "Stock": 157
+    },
+    {
+      "SKU": "P0U60RX-ZX",
+      "Product": "N1773-g155hf",
+      "Description": "A10-8700P, 4x 180GHz ",
+      "CategoryID": 2,
+      "Price": 682.69,
+      "Stock": 21
+    },
+    {
+      "SKU": "P1C50RX-ZX",
+      "Product": "L3958-ac105hf ",
+      "Description": "Pentium 3825U, 2x 190GHz ",
+      "CategoryID": 2,
+      "Price": 347.62,
+      "Stock": 1
+    },
+    {
+      "SKU": "P1E43RX-ZX",
+      "Product": "H59376-p101hf",
+      "Description": "A6-6310, 4x 180GHz ",
+      "CategoryID": 2,
+      "Price": 426.18,
+      "Stock": 160
+    },
+    {
+      "SKU": "P2Q63RA-ZX",
+      "Product": "M67489 LBook 340 D2",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 660.62,
+      "Stock": 0
+    },
+    {
+      "SKU": "P2U80RX-ZX",
+      "Product": "LBook PaP288445030 D9",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 2094.82,
+      "Stock": 175
+    },
+    {
+      "SKU": "P3Q95RX-ZX",
+      "Product": "M27208-w101hf x530",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 884.97,
+      "Stock": 93
+    },
+    {
+      "SKU": "P3U14RX-ZX",
+      "Product": "L68288-au013hf blau",
+      "Description": "Pentium 4405U, 2x 210GHz ",
+      "CategoryID": 2,
+      "Price": 544.99,
+      "Stock": 61
+    },
+    {
+      "SKU": "P4F93RX-ZX",
+      "Product": "P56455-g110hf",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1089.99,
+      "Stock": 8
+    },
+    {
+      "SKU": "P4GG64RX-ZX",
+      "Product": "Q6870-g155hf",
+      "Description": "A10-8700P, 4x 180GHz ",
+      "CategoryID": 2,
+      "Price": 614.37,
+      "Stock": 137
+    },
+    {
+      "SKU": "P4N86EX-ZXU",
+      "Product": "N412 LBook 350 D5",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 757.23,
+      "Stock": 80
+    },
+    {
+      "SKU": "P4P60RX-ZX",
+      "Product": "L64233 LBook 345 D5",
+      "Description": "A8-7410, 4x 220GHz ",
+      "CategoryID": 2,
+      "Price": 654.64,
+      "Stock": 186
+    },
+    {
+      "SKU": "P4X48RX-ZX",
+      "Product": "LBook 01577314 D5",
+      "Description": "A10 PRO-8700B, 4x 180GHz ",
+      "CategoryID": 2,
+      "Price": 868.46,
+      "Stock": 164
+    },
+    {
+      "SKU": "P5R38RA",
+      "Product": "H944770 D3",
+      "Description": "Celeron N3050, 2x 160GHz ",
+      "CategoryID": 2,
+      "Price": 387.83,
+      "Stock": 120
+    },
+    {
+      "SKU": "P5R65RA-ZX",
+      "Product": "K28268 LBook 340 D0",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 744.34,
+      "Stock": 117
+    },
+    {
+      "SKU": "P5S01RX-ZX",
+      "Product": "P5600 LBook 340 D2",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 781.56,
+      "Stock": 154
+    },
+    {
+      "SKU": "P5S80RA-ZX",
+      "Product": "O946650 D9",
+      "Description": "Celeron N3050, 2x 160GHz ",
+      "CategoryID": 2,
+      "Price": 354.14,
+      "Stock": 129
+    },
+    {
+      "SKU": "P5U08RX-ZX",
+      "Product": "H286340 D7",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 816.3,
+      "Stock": 0
+    },
+    {
+      "SKU": "P5X65RX-ZX",
+      "Product": "LBook booM2147923 D3",
+      "Description": "Celeron N2940, 4x 183GHz ",
+      "CategoryID": 2,
+      "Price": 372.87,
+      "Stock": 128
+    },
+    {
+      "SKU": "P5X65RX-ZXU",
+      "Product": "LBook booN9772583 D8",
+      "Description": "Celeron N2940, 4x 183GHz ",
+      "CategoryID": 2,
+      "Price": 281.69,
+      "Stock": 63
+    },
+    {
+      "SKU": "Q3K07EX-ZX",
+      "Product": "N34120 LBook 340 D5",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1098.76,
+      "Stock": 40
+    },
+    {
+      "SKU": "Q3K07RX-ZX",
+      "Product": "L727 LBook 340 D7",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1122.69,
+      "Stock": 162
+    },
+    {
+      "SKU": "Q3K22EX-ZX",
+      "Product": "L23660 LBook 345 D1",
+      "Description": "A8 PRO-8600B, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 868.17,
+      "Stock": 195
+    },
+    {
+      "SKU": "Q3K22RX-ZX",
+      "Product": "O29693 LBook 345 D2",
+      "Description": "A8 PRO-8600B, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 898.15,
+      "Stock": 163
+    },
+    {
+      "SKU": "Q3K26EX-ZX",
+      "Product": "L63342 LBook 364 D3",
+      "Description": "A10 PRO-8700B, 4x 180GHz ",
+      "CategoryID": 2,
+      "Price": 963.33,
+      "Stock": 198
+    },
+    {
+      "SKU": "Q5K31RX-ZX",
+      "Product": "O89988-ba034hf ",
+      "Description": "A6-7310, 4x 200GHz ",
+      "CategoryID": 2,
+      "Price": 316.09,
+      "Stock": 52
+    },
+    {
+      "SKU": "Q5K36RX-ZX",
+      "Product": "I25769-ba035hf ",
+      "Description": "A10-9600P, 4x 240GHz ",
+      "CategoryID": 2,
+      "Price": 500.32,
+      "Stock": 97
+    },
+    {
+      "SKU": "Q5U20RX-ZX",
+      "Product": "CK93251265-v101hf",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1407.6,
+      "Stock": 117
+    },
+    {
+      "SKU": "Q5X51RX-ZX",
+      "Product": "P855191 Mobile Thin Client",
+      "Description": "A8 PRO-8600B, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 1070.37,
+      "Stock": 194
+    },
+    {
+      "SKU": "Q5X52RX-ZX",
+      "Product": "mJ308291 Mobile Thin Client",
+      "Description": "A8 PRO-8600B, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 1110.12,
+      "Stock": 33
+    },
+    {
+      "SKU": "Q5X66RX-ZX",
+      "Product": "K8247-w101hf",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 1913.93,
+      "Stock": 171
+    },
+    {
+      "SKU": "Q6F43RX-ZX",
+      "Product": "P69398-y030hf ",
+      "Description": "A8-7410, 4x 220GHz ",
+      "CategoryID": 2,
+      "Price": 435.99,
+      "Stock": 126
+    },
+    {
+      "SKU": "Q7W37RX-ZX",
+      "Product": "Q52702-aq101hf x530",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 727.15,
+      "Stock": 188
+    },
+    {
+      "SKU": "Q7W46RX-ZX",
+      "Product": "J44453-ay035hf",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 761.9,
+      "Stock": 68
+    },
+    {
+      "SKU": "Q7W47RX-ZX",
+      "Product": "P9193-ay103hf",
+      "Description": "Core i7-7500U, 2x 270GHz ",
+      "CategoryID": 2,
+      "Price": 869.5,
+      "Stock": 97
+    },
+    {
+      "SKU": "Q7X52RX-ZX",
+      "Product": "1J767703hf",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2056.82,
+      "Stock": 35
+    },
+    {
+      "SKU": "Q8K40RA-ZX",
+      "Product": "I218 LBook 345 D3",
+      "Description": "A6-9210, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 547.17,
+      "Stock": 0
+    },
+    {
+      "SKU": "Q8K41RX-ZX",
+      "Product": "H34966 LBook 345 D6",
+      "Description": "A9-9410, 2x 290GHz ",
+      "CategoryID": 2,
+      "Price": 643.68,
+      "Stock": 59
+    },
+    {
+      "SKU": "Q8K43RX-ZX",
+      "Product": "N71186 LBook 345 D1",
+      "Description": "A10-9600P, 4x 240GHz ",
+      "CategoryID": 2,
+      "Price": 688.67,
+      "Stock": 1
+    },
+    {
+      "SKU": "Q8K44RX-ZX",
+      "Product": "Q75557 LBook 350 D6",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 838.93,
+      "Stock": 134
+    },
+    {
+      "SKU": "Q8K45RX-ZX",
+      "Product": "Q7339 LBook 350 D6",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 885.77,
+      "Stock": 179
+    },
+    {
+      "SKU": "Q8K46RX-ZX",
+      "Product": "H760 LBook 350 D2",
+      "Description": "Core i7-7500U, 2x 270GHz ",
+      "CategoryID": 2,
+      "Price": 939.42,
+      "Stock": 127
+    },
+    {
+      "SKU": "Q8K47RX-ZX",
+      "Product": "H43229 LBook 350 D1",
+      "Description": "Core i7-7500U, 2x 270GHz ",
+      "CategoryID": 2,
+      "Price": 988.46,
+      "Stock": 153
+    },
+    {
+      "SKU": "Q8K49RX-ZX",
+      "Product": "P86571 LBook 340 D1",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 868.17,
+      "Stock": 110
+    },
+    {
+      "SKU": "Q8K50RX-ZX",
+      "Product": "I8147 LBook 350 D3",
+      "Description": "Core i7-7500U, 2x 270GHz ",
+      "CategoryID": 2,
+      "Price": 972.5,
+      "Stock": 0
+    },
+    {
+      "SKU": "Q8K51RX-ZX",
+      "Product": "J9250 LBook 340 D1",
+      "Description": "Core i7-7500U, 2x 270GHz ",
+      "CategoryID": 2,
+      "Price": 1086.72,
+      "Stock": 0
+    },
+    {
+      "SKU": "Q8K53RX-ZX",
+      "Product": "N952 LBook 340 D5",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 768.82,
+      "Stock": 55
+    },
+    {
+      "SKU": "Q8K54RX-ZX",
+      "Product": "M10998 LBook 340 D9",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 801.81,
+      "Stock": 170
+    },
+    {
+      "SKU": "Q8K55RX-ZX",
+      "Product": "O11700 LBook 340 D8",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 888.18,
+      "Stock": 181
+    },
+    {
+      "SKU": "Q8K56RX-ZX",
+      "Product": "P29304 LBook 340 D5",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 859.84,
+      "Stock": 197
+    },
+    {
+      "SKU": "Q8K57RX-ZX",
+      "Product": "J1310 LBook 340 D0",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 920.3,
+      "Stock": 0
+    },
+    {
+      "SKU": "Q8K58RX-ZX",
+      "Product": "O53701 LBook 340 D3",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 988.46,
+      "Stock": 0
+    },
+    {
+      "SKU": "Q8K60RX-ZX",
+      "Product": "I2967 LBook 340 D2",
+      "Description": "Core i7-7500U, 2x 270GHz ",
+      "CategoryID": 2,
+      "Price": 1055.65,
+      "Stock": 30
+    },
+    {
+      "SKU": "Q8K62RX-ZX",
+      "Product": "K6947 LBook 310 D7",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 889.06,
+      "Stock": 109
+    },
+    {
+      "SKU": "Q8K63RX-ZX",
+      "Product": "LBook Q561610 D1",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 938.03,
+      "Stock": 27
+    },
+    {
+      "SKU": "Q8K64RX-ZX",
+      "Product": "K46093 LBook 310 D5",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1037.27,
+      "Stock": 52
+    },
+    {
+      "SKU": "Q8K66RX-ZX",
+      "Product": "P4637 LBook 310 D6",
+      "Description": "Core i7-7500U, 2x 270GHz ",
+      "CategoryID": 2,
+      "Price": 1087.65,
+      "Stock": 167
+    },
+    {
+      "SKU": "Q8K67RA-ZX",
+      "Product": "O22066 LBook 310 D7",
+      "Description": "Core i7-7500U, 2x 270GHz ",
+      "CategoryID": 2,
+      "Price": 1087.43,
+      "Stock": 0
+    },
+    {
+      "SKU": "Q8K68RX-ZX",
+      "Product": "Q96029 LBook 310 D1",
+      "Description": "Core i7-7500U, 2x 270GHz ",
+      "CategoryID": 2,
+      "Price": 1118.37,
+      "Stock": 64
+    },
+    {
+      "SKU": "Q8R13RX-ZX",
+      "Product": "LBook PaQ329179030 D2",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 2305.59,
+      "Stock": 110
+    },
+    {
+      "SKU": "Q8R21RA-ZX",
+      "Product": "Q75432 LBook 340 D8",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1399.57,
+      "Stock": 193
+    },
+    {
+      "SKU": "V0Q78RX-ZX",
+      "Product": "Q11783-ab111hf",
+      "Description": "A10-8780P, 4x 200GHz ",
+      "CategoryID": 2,
+      "Price": 696.96,
+      "Stock": 176
+    },
+    {
+      "SKU": "V0X53RX-ZX",
+      "Product": "P90778-af111hf ",
+      "Description": "A6-5200, 4x 200GHz ",
+      "CategoryID": 2,
+      "Price": 257.13,
+      "Stock": 26
+    },
+    {
+      "SKU": "V1C37RX-ZX",
+      "Product": "LBook PadL596261",
+      "Description": "Core m5-6Y54, 2x 110GHz ",
+      "CategoryID": 2,
+      "Price": 1464.16,
+      "Stock": 37
+    },
+    {
+      "SKU": "V1C39RX-ZX",
+      "Product": "LBook Pad Q50",
+      "Description": "Core m5-6Y54, 2x 110GHz ",
+      "CategoryID": 2,
+      "Price": 1485.34,
+      "Stock": 93
+    },
+    {
+      "SKU": "V1C40RX-ZX",
+      "Product": "LBook PaN9957247",
+      "Description": "Core m5-6Y54, 2x 110GHz ",
+      "CategoryID": 2,
+      "Price": 1314.45,
+      "Stock": 82
+    },
+    {
+      "SKU": "V1K03RX-ZX",
+      "Product": "CAD N374544 x530 D2",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1838.52,
+      "Stock": 139
+    },
+    {
+      "SKU": "V1K10RX-ZX",
+      "Product": "LBook 23406740 D5",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1694.97,
+      "Stock": 0
+    },
+    {
+      "SKU": "V1N29UW-ZX",
+      "Product": "LBook PaQ28903030 D9",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 2278.73,
+      "Stock": 139
+    },
+    {
+      "SKU": "V1U81RX-ZX",
+      "Product": "LBook PadQ9216030 D5",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1408.86,
+      "Stock": 135
+    },
+    {
+      "SKU": "V200UW-ZX",
+      "Product": "JBook 682745 D9",
+      "Description": "Core i7-6820HQ, 4x 270GHz ",
+      "CategoryID": 2,
+      "Price": 3470.55,
+      "Stock": 34
+    },
+    {
+      "SKU": "V219UW-ZX",
+      "Product": "JBook P155321 D1",
+      "Description": "Core i5-6440HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2626.89,
+      "Stock": 117
+    },
+    {
+      "SKU": "V2C98UW-ZX",
+      "Product": "JBook 278005 D7",
+      "Description": "Core i5-6440HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2585.81,
+      "Stock": 70
+    },
+    {
+      "SKU": "V2H43RX-ZX",
+      "Product": "N1622-ac155hf ",
+      "Description": "Pentium N3700, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 488.13,
+      "Stock": 114
+    },
+    {
+      "SKU": "V8R31RX-ZX",
+      "Product": "L40772-ac155hf ",
+      "Description": "Core i3-5005U, 2x 200GHz ",
+      "CategoryID": 2,
+      "Price": 453.68,
+      "Stock": 91
+    },
+    {
+      "SKU": "W0X08RX-ZX",
+      "Product": "P95618-ab113hf",
+      "Description": "A10-8780P, 4x 200GHz ",
+      "CategoryID": 2,
+      "Price": 478.4,
+      "Stock": 180
+    },
+    {
+      "SKU": "W2V80RX-ZX",
+      "Product": "I46973-ac116hf ",
+      "Description": "Celeron N3050, 2x 160GHz ",
+      "CategoryID": 2,
+      "Price": 206.99,
+      "Stock": 124
+    },
+    {
+      "SKU": "W2V95RX-ZX",
+      "Product": "CAD 497030 43-6102hf",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1468.32,
+      "Stock": 114
+    },
+    {
+      "SKU": "W2W94RX-ZX",
+      "Product": "J52225-p112hf ",
+      "Description": "E2-6110, 4x 150GHz ",
+      "CategoryID": 2,
+      "Price": 326.89,
+      "Stock": 100
+    },
+    {
+      "SKU": "W4M19RX-ZX",
+      "Product": "LBook boP1789805 D7",
+      "Description": "Pentium 4405Y, 2x 150GHz ",
+      "CategoryID": 2,
+      "Price": 596.84,
+      "Stock": 154
+    },
+    {
+      "SKU": "W4M72RX-ZX",
+      "Product": "O78320 D8",
+      "Description": "Celeron N3060, 2x 160GHz ",
+      "CategoryID": 2,
+      "Price": 250.59,
+      "Stock": 0
+    },
+    {
+      "SKU": "W4M78RX-ZX",
+      "Product": "H57255 D2",
+      "Description": "E2-7110, 4x 180GHz ",
+      "CategoryID": 2,
+      "Price": 306.68,
+      "Stock": 37
+    },
+    {
+      "SKU": "W4M90RX-ZX",
+      "Product": "Q53550 D1",
+      "Description": "Core i3-5005U, 2x 200GHz ",
+      "CategoryID": 2,
+      "Price": 438.78,
+      "Stock": 130
+    },
+    {
+      "SKU": "W4N13RX-ZX",
+      "Product": "P627750 D1",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 545.68,
+      "Stock": 148
+    },
+    {
+      "SKU": "W4N38RX-ZX",
+      "Product": "I63790 D1",
+      "Description": "Pentium N3710, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 305.83,
+      "Stock": 19
+    },
+    {
+      "SKU": "W4P92UW-ZX",
+      "Product": "LBook H2610430 D6",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1645.86,
+      "Stock": 188
+    },
+    {
+      "SKU": "W4P96UW-ZX",
+      "Product": "LBook I5756230 D8",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1764.92,
+      "Stock": 25
+    },
+    {
+      "SKU": "W4Q15EX-ZX",
+      "Product": "N55683 LBook 340 D4",
+      "Description": "Core i3-6100U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 580.1,
+      "Stock": 154
+    },
+    {
+      "SKU": "W4Q16EX-ZX",
+      "Product": "P5277 LBook 340 D8",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 901.77,
+      "Stock": 78
+    },
+    {
+      "SKU": "W4Q17EX-ZX",
+      "Product": "L32420 LBook 310 D5",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 855.64,
+      "Stock": 60
+    },
+    {
+      "SKU": "W4Q18RX-ZX",
+      "Product": "K303150 D6",
+      "Description": "Core i3-5005U, 2x 200GHz ",
+      "CategoryID": 2,
+      "Price": 471.71,
+      "Stock": 115
+    },
+    {
+      "SKU": "W4X32RX-ZX",
+      "Product": "M86193-ab151hf",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 760.51,
+      "Stock": 158
+    },
+    {
+      "SKU": "W5U00UW-ZX",
+      "Product": "LBook 3308640 D9",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1854.08,
+      "Stock": 0
+    },
+    {
+      "SKU": "W6Q01RX-ZX",
+      "Product": "P6031-y015hf ",
+      "Description": "A8-7410, 4x 220GHz ",
+      "CategoryID": 2,
+      "Price": 346.17,
+      "Stock": 170
+    },
+    {
+      "SKU": "W6Q06RX-ZX",
+      "Product": "H4321-x015hf",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 762.99,
+      "Stock": 25
+    },
+    {
+      "SKU": "W6Q09RX-ZX",
+      "Product": "CAD 69034830 43-6154hf ",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1525.89,
+      "Stock": 75
+    },
+    {
+      "SKU": "W7Q19RX-ZX",
+      "Product": "M58314-au011hf",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 837.11,
+      "Stock": 116
+    },
+    {
+      "SKU": "W7Q21RX-ZX",
+      "Product": "Q86119-au015hf gold",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 858.38,
+      "Stock": 17
+    },
+    {
+      "SKU": "W7Q66RX-ZX",
+      "Product": "M91563-ba005hf grau",
+      "Description": "A10-9600P, 4x 240GHz ",
+      "CategoryID": 2,
+      "Price": 647.23,
+      "Stock": 170
+    },
+    {
+      "SKU": "W7U90RX-ZX",
+      "Product": "Q89250-y005hf ",
+      "Description": "A8-7410, 4x 220GHz ",
+      "CategoryID": 2,
+      "Price": 536.5,
+      "Stock": 79
+    },
+    {
+      "SKU": "W7U91RX-ZX",
+      "Product": "M20780-y003hf ",
+      "Description": "A10-9600P, 4x 240GHz ",
+      "CategoryID": 2,
+      "Price": 604.66,
+      "Stock": 3
+    },
+    {
+      "SKU": "W7X58RX-ZX",
+      "Product": "J92579-ay011hf ",
+      "Description": "Pentium N3710, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 429.43,
+      "Stock": 0
+    },
+    {
+      "SKU": "W8P00RX-ZX",
+      "Product": "Q49965-w002hf",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 1474.29,
+      "Stock": 0
+    },
+    {
+      "SKU": "W8P04RX-ZX",
+      "Product": "N4478-x015hf ",
+      "Description": "Pentium N3710, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 413.77,
+      "Stock": 194
+    },
+    {
+      "SKU": "W8P11RX-ZX",
+      "Product": "J8905-y011hf ",
+      "Description": "A8-7410, 4x 220GHz ",
+      "CategoryID": 2,
+      "Price": 479.59,
+      "Stock": 99
+    },
+    {
+      "SKU": "W8Q42RX-ZX",
+      "Product": "CP72921485-v001hf",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1482.51,
+      "Stock": 59
+    },
+    {
+      "SKU": "W8Q51RX-ZX",
+      "Product": "I34338-as003hf",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1022.11,
+      "Stock": 0
+    },
+    {
+      "SKU": "W8Q53RX-ZX",
+      "Product": "P12867-au015hf",
+      "Description": "Core i3-6100U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 640.38,
+      "Stock": 89
+    },
+    {
+      "SKU": "W8Q67RX-ZX",
+      "Product": "P88001-ay015hf grau",
+      "Description": "Celeron N3060, 2x 160GHz ",
+      "CategoryID": 2,
+      "Price": 301.42,
+      "Stock": 96
+    },
+    {
+      "SKU": "W8Q72RX-ZX",
+      "Product": "L35973-ay015hf",
+      "Description": "Core i3-5005U, 2x 200GHz ",
+      "CategoryID": 2,
+      "Price": 533.99,
+      "Stock": 127
+    },
+    {
+      "SKU": "W8U29RX-ZX",
+      "Product": "CAO564685-v021hf",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1671.41,
+      "Stock": 39
+    },
+    {
+      "SKU": "W9X88RX-ZX",
+      "Product": "P49344-aq001hf x530",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 960.74,
+      "Stock": 50
+    },
+    {
+      "SKU": "X0L81RX-ZX",
+      "Product": "O19748-w011hf",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 1788.29,
+      "Stock": 7
+    },
+    {
+      "SKU": "X0N34RX-ZX",
+      "Product": "J77870 D7",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 706.9,
+      "Stock": 101
+    },
+    {
+      "SKU": "X0N77RA-ZX",
+      "Product": "P181075 D7 ",
+      "Description": "A6-7310, 4x 200GHz ",
+      "CategoryID": 2,
+      "Price": 406.79,
+      "Stock": 0
+    },
+    {
+      "SKU": "X0N78RA-ZX",
+      "Product": "L690400 D5",
+      "Description": "Pentium N3710, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 384.82,
+      "Stock": 135
+    },
+    {
+      "SKU": "X0N79RA-ZX",
+      "Product": "M23060 D9",
+      "Description": "Core i3-5005U, 2x 200GHz ",
+      "CategoryID": 2,
+      "Price": 474.26,
+      "Stock": 117
+    },
+    {
+      "SKU": "X0N80RA-ZX",
+      "Product": "N956220 D3",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 517.32,
+      "Stock": 87
+    },
+    {
+      "SKU": "X0N81RA-ZX",
+      "Product": "J20440 D4",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 576.71,
+      "Stock": 139
+    },
+    {
+      "SKU": "X0N82RA-ZX",
+      "Product": "N56480 D6",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 568.93,
+      "Stock": 51
+    },
+    {
+      "SKU": "X0N83RA-ZX",
+      "Product": "I704650 D0",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 673.24,
+      "Stock": 43
+    },
+    {
+      "SKU": "X0N84RX-ZX",
+      "Product": "J319525 D4 grau",
+      "Description": "A6-7310, 4x 200GHz ",
+      "CategoryID": 2,
+      "Price": 385.74,
+      "Stock": 93
+    },
+    {
+      "SKU": "X0N85RA-ZX",
+      "Product": "Q79718 LBook 340 D5",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 660.52,
+      "Stock": 167
+    },
+    {
+      "SKU": "X0N87RA-ZX",
+      "Product": "Q77692 LBook 310 D4",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1041.8,
+      "Stock": 139
+    },
+    {
+      "SKU": "X0N96RX-ZX",
+      "Product": "LBook boJ20628855 D5",
+      "Description": "Core m5-6Y57, 2x 110GHz ",
+      "CategoryID": 2,
+      "Price": 873.41,
+      "Stock": 31
+    },
+    {
+      "SKU": "X0P07RA-ZX",
+      "Product": "N69060 D5",
+      "Description": "Core i3-5005U, 2x 200GHz ",
+      "CategoryID": 2,
+      "Price": 439.73,
+      "Stock": 26
+    },
+    {
+      "SKU": "X0P09RA-ZX",
+      "Product": "N537640 D5",
+      "Description": "Core i3-5005U, 2x 200GHz ",
+      "CategoryID": 2,
+      "Price": 496.27,
+      "Stock": 172
+    },
+    {
+      "SKU": "X0P10RA-ZX",
+      "Product": "L10500 D1",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 540.17,
+      "Stock": 21
+    },
+    {
+      "SKU": "X0P11RA-ZX",
+      "Product": "L302680 D2",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 582.99,
+      "Stock": 161
+    },
+    {
+      "SKU": "X0P14RA-ZX",
+      "Product": "L416880 D1",
+      "Description": "Pentium N3710, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 398.26,
+      "Stock": 199
+    },
+    {
+      "SKU": "X0P28RA-ZX",
+      "Product": "O863400 D3",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 621.29,
+      "Stock": 118
+    },
+    {
+      "SKU": "X0Q12RA-ZX",
+      "Product": "L137550 D3",
+      "Description": "Core i5-7200U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 584.76,
+      "Stock": 92
+    },
+    {
+      "SKU": "X0Q29RA-ZX",
+      "Product": "K1054 LBook 340 D2",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 651.63,
+      "Stock": 66
+    },
+    {
+      "SKU": "X1E45RX-ZX",
+      "Product": "J8354-ab135hf",
+      "Description": "Core i7-5500U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 928.19,
+      "Stock": 44
+    },
+    {
+      "SKU": "X1F48RX-ZX",
+      "Product": "J3075-ab131hf",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 654.98,
+      "Stock": 133
+    },
+    {
+      "SKU": "X1K73RX-ZX",
+      "Product": "Station SN439195-an000hf",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 980.99,
+      "Stock": 30
+    },
+    {
+      "SKU": "X2F00RX-ZX",
+      "Product": "CAD M17658 45 D0",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1624.09,
+      "Stock": 199
+    },
+    {
+      "SKU": "X2F03RX-ZX",
+      "Product": "LBook 242876050 D2",
+      "Description": "Core m7-6Y75, 2x 120GHz ",
+      "CategoryID": 2,
+      "Price": 2034.67,
+      "Stock": 191
+    },
+    {
+      "SKU": "X2F05RX-ZX",
+      "Product": "LBook 443744050 D9",
+      "Description": "Core m5-6Y57, 2x 110GHz ",
+      "CategoryID": 2,
+      "Price": 1499.31,
+      "Stock": 179
+    },
+    {
+      "SKU": "X2F21RX-ZX",
+      "Product": "LBook 494417050 D6",
+      "Description": "Core m5-6Y54, 2x 110GHz ",
+      "CategoryID": 2,
+      "Price": 1613.19,
+      "Stock": 172
+    },
+    {
+      "SKU": "X2F46RX-ZX",
+      "Product": "LBook Pad J5473",
+      "Description": "Core m5-6Y54, 2x 110GHz ",
+      "CategoryID": 2,
+      "Price": 1813.96,
+      "Stock": 98
+    },
+    {
+      "SKU": "X2F49RX-ZX",
+      "Product": "LBook PadK879856",
+      "Description": "Core m7-6Y75, 2x 120GHz ",
+      "CategoryID": 2,
+      "Price": 2090.78,
+      "Stock": 72
+    },
+    {
+      "SKU": "X2F50RX-ZX",
+      "Product": "LBook 88939830 D6",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1771.11,
+      "Stock": 52
+    },
+    {
+      "SKU": "X2F51RX-ZX",
+      "Product": "LBook 12103330 D8",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1667.66,
+      "Stock": 78
+    },
+    {
+      "SKU": "X2F52RX-ZX",
+      "Product": "LBook 123830 D2",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1574.04,
+      "Stock": 179
+    },
+    {
+      "SKU": "X3N97RX-ZX",
+      "Product": "O817-ba015hf ",
+      "Description": "A8-7410, 4x 220GHz ",
+      "CategoryID": 2,
+      "Price": 358.6,
+      "Stock": 97
+    },
+    {
+      "SKU": "X3U10UW-ZX",
+      "Product": "JBook Studio oL809097",
+      "Description": "Core i7-6820HQ, 4x 270GHz ",
+      "CategoryID": 2,
+      "Price": 3164.26,
+      "Stock": 147
+    },
+    {
+      "SKU": "X3W47UW-ZX",
+      "Product": "JBook 4062511 D6",
+      "Description": "Core i7-6820HQ, 4x 270GHz ",
+      "CategoryID": 2,
+      "Price": 3587.18,
+      "Stock": 87
+    },
+    {
+      "SKU": "X3W49UW-ZX",
+      "Product": "JBook 2357295u D3",
+      "Description": "Core i5-6440HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2458.07,
+      "Stock": 101
+    },
+    {
+      "SKU": "X3W51UW-ZX",
+      "Product": "JBook 9621465 D4",
+      "Description": "Core i7-6820HQ, 4x 270GHz ",
+      "CategoryID": 2,
+      "Price": 3179.52,
+      "Stock": 180
+    },
+    {
+      "SKU": "X3X16UW-ZX",
+      "Product": "JBook Studio H6930894",
+      "Description": "Core i7-6820HQ, 4x 270GHz ",
+      "CategoryID": 2,
+      "Price": 3046.54,
+      "Stock": 194
+    },
+    {
+      "SKU": "X3X18UW-ZX",
+      "Product": "JBook Studio I905277",
+      "Description": "Xeon E3-1505M v5, 4x 280GHz ",
+      "CategoryID": 2,
+      "Price": 3446.57,
+      "Stock": 57
+    },
+    {
+      "SKU": "X4GG06EX-ZX",
+      "Product": "I3620 LBook 340 D7",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 848.23,
+      "Stock": 161
+    },
+    {
+      "SKU": "X4GG10RX-ZX",
+      "Product": "Q7288 LBook 340 D0",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1125.96,
+      "Stock": 146
+    },
+    {
+      "SKU": "X4H57RX-ZX",
+      "Product": "LBook 55164714 D1",
+      "Description": "A12 PRO-8800B, 4x 210GHz ",
+      "CategoryID": 2,
+      "Price": 1338.73,
+      "Stock": 0
+    },
+    {
+      "SKU": "X4H60RX-ZX",
+      "Product": "LBook 7606345 D5",
+      "Description": "A12 PRO-8800B, 4x 210GHz ",
+      "CategoryID": 2,
+      "Price": 1224.46,
+      "Stock": 29
+    },
+    {
+      "SKU": "X5C46RX-ZX",
+      "Product": "P92446-x035hf ",
+      "Description": "Pentium N3710, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 537.03,
+      "Stock": 48
+    },
+    {
+      "SKU": "X5C58RX-ZX",
+      "Product": "CAO684690730 43-6155hf",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1450.78,
+      "Stock": 59
+    },
+    {
+      "SKU": "X5E36UW-ZX",
+      "Product": "JBook 7742355u D8",
+      "Description": "Core i5-6440HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 1990.44,
+      "Stock": 140
+    },
+    {
+      "SKU": "X5E38UW-ZX",
+      "Product": "JBook L608225u D6",
+      "Description": "Core i7-6600U, 2x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2478.06,
+      "Stock": 101
+    },
+    {
+      "SKU": "X5K50RX-ZX",
+      "Product": "I24740-ab003hf",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 1175.15,
+      "Stock": 85
+    },
+    {
+      "SKU": "X5K63RX-ZX",
+      "Product": "CAD 83408830 43-6104hf ",
+      "Description": "Core i7-6560U, 2x 220GHz ",
+      "CategoryID": 2,
+      "Price": 1620.43,
+      "Stock": 184
+    },
+    {
+      "SKU": "X5W76RX-ZX",
+      "Product": "N19663-x015hf grau",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 870.9,
+      "Stock": 107
+    },
+    {
+      "SKU": "X5X49RX-ZX",
+      "Product": "L683-x035hf ",
+      "Description": "Pentium N3710, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 307.87,
+      "Stock": 161
+    },
+    {
+      "SKU": "X6N53RX-ZXU",
+      "Product": "M832920 D5",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 661.96,
+      "Stock": 196
+    },
+    {
+      "SKU": "X6N55RX-ZX",
+      "Product": "K561090 D6",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 475.6,
+      "Stock": 83
+    },
+    {
+      "SKU": "X6P03RA",
+      "Product": "O542810 D7",
+      "Description": "Pentium 3825U, 2x 190GHz ",
+      "CategoryID": 2,
+      "Price": 329.1,
+      "Stock": 13
+    },
+    {
+      "SKU": "X6P65RX-ZX",
+      "Product": "M878080 D8",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 528.94,
+      "Stock": 59
+    },
+    {
+      "SKU": "X6Q27RA-ZX",
+      "Product": "Q87804 LBook 340 D9",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 862.91,
+      "Stock": 76
+    },
+    {
+      "SKU": "X6Q29RA-ZX",
+      "Product": "Q17653 LBook 340 D6",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1006.18,
+      "Stock": 119
+    },
+    {
+      "SKU": "X6Q40EX-ZX",
+      "Product": "M7143 LBook 350 D8",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 697.97,
+      "Stock": 155
+    },
+    {
+      "SKU": "X6Q41EX-ZX",
+      "Product": "Q98316 LBook 350 D1",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 725.92,
+      "Stock": 175
+    },
+    {
+      "SKU": "X6Q43EX-ZX",
+      "Product": "O28955 LBook 340 D0",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 671.75,
+      "Stock": 191
+    },
+    {
+      "SKU": "X6Q44EX-ZX",
+      "Product": "O89736 LBook 340 D6",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 979.9,
+      "Stock": 0
+    },
+    {
+      "SKU": "X6Q45EX-ZX",
+      "Product": "O35480 LBook 340 D1",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 674.36,
+      "Stock": 34
+    },
+    {
+      "SKU": "X6Q47EX-ZX",
+      "Product": "N56858 LBook 340 D2",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 897.21,
+      "Stock": 123
+    },
+    {
+      "SKU": "X6Q48EX-ZX",
+      "Product": "K372 LBook 310 D2",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 733.31,
+      "Stock": 133
+    },
+    {
+      "SKU": "X6Q49EX-ZX",
+      "Product": "J26094 LBook 310 D8",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1080.57,
+      "Stock": 74
+    },
+    {
+      "SKU": "X6Q50EX-ZX",
+      "Product": "Q5040 LBook 310 D1",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1018.52,
+      "Stock": 39
+    },
+    {
+      "SKU": "X6Q53EX-ZX",
+      "Product": "P15742 LBook 340 D5",
+      "Description": "Core i3-6100U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 671.75,
+      "Stock": 8
+    },
+    {
+      "SKU": "X6Q54EX-ZX",
+      "Product": "J50003 LBook 340 D1",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 819.77,
+      "Stock": 66
+    },
+    {
+      "SKU": "X6R24RA-ZX",
+      "Product": "M3594 LBook 340 D2",
+      "Description": "Core i3-6100U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 664.2,
+      "Stock": 102
+    },
+    {
+      "SKU": "X6R25RA-ZX",
+      "Product": "I18872 LBook 340 D9",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1006.76,
+      "Stock": 62
+    },
+    {
+      "SKU": "X6R48RX-ZX",
+      "Product": "LBook booP239085 D9",
+      "Description": "Core m3-6Y30, 2x 900MHz ",
+      "CategoryID": 2,
+      "Price": 693.75,
+      "Stock": 65
+    },
+    {
+      "SKU": "X7F58RX-ZX",
+      "Product": "H1275-ba015hf ",
+      "Description": "E2-7110, 4x 180GHz ",
+      "CategoryID": 2,
+      "Price": 261.59,
+      "Stock": 51
+    },
+    {
+      "SKU": "X7F67RX-ZX",
+      "Product": "N36555-x050hf ",
+      "Description": "Pentium N3710, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 377.82,
+      "Stock": 172
+    },
+    {
+      "SKU": "X7H69RX-ZX",
+      "Product": "M2168-d101hf",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 813.4,
+      "Stock": 164
+    },
+    {
+      "SKU": "X7N23UW-ZX",
+      "Product": "LBook 98713030 D8",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1682.39,
+      "Stock": 87
+    },
+    {
+      "SKU": "X7N25UW-ZX",
+      "Product": "LBook J199230 D4",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1205.18,
+      "Stock": 23
+    },
+    {
+      "SKU": "X7N25UW-ZXU",
+      "Product": "LBook Q929130 D0",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1205.18,
+      "Stock": 0
+    },
+    {
+      "SKU": "X7N76UW-ZX",
+      "Product": "LBook 61047710 D8",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1782.36,
+      "Stock": 41
+    },
+    {
+      "SKU": "X7U87UW-ZX",
+      "Product": "LBook 45297940 D5",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1809.39,
+      "Stock": 0
+    },
+    {
+      "SKU": "X7V50RX-ZX",
+      "Product": "JBook 9348775 D7",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2245.88,
+      "Stock": 117
+    },
+    {
+      "SKU": "X7V51EX-ZX",
+      "Product": "JBook 242965 D4",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 1915.82,
+      "Stock": 151
+    },
+    {
+      "SKU": "X7V51RX-ZX",
+      "Product": "JBook 995945 D6",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2483.61,
+      "Stock": 38
+    },
+    {
+      "SKU": "X7V52EX-ZX",
+      "Product": "JBook 2813335 D8",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 1917.18,
+      "Stock": 95
+    },
+    {
+      "SKU": "X7V52RX-ZX",
+      "Product": "JBook 178755 D7",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2164.62,
+      "Stock": 12
+    },
+    {
+      "SKU": "X7V53RX-ZX",
+      "Product": "JBook 9964615 D8",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 1706.89,
+      "Stock": 0
+    },
+    {
+      "SKU": "X7V54RX-ZX",
+      "Product": "JBook 826025 D4",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 3042.4,
+      "Stock": 95
+    },
+    {
+      "SKU": "X7V56RX-ZX",
+      "Product": "JBook Studio oJ418291",
+      "Description": "Xeon E3-1505M v5, 4x 280GHz ",
+      "CategoryID": 2,
+      "Price": 3418.45,
+      "Stock": 110
+    },
+    {
+      "SKU": "X7V58EX-ZX",
+      "Product": "JBook 7672235 D2",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2548.79,
+      "Stock": 0
+    },
+    {
+      "SKU": "X7V60RX-ZX",
+      "Product": "JBook 1580251 D2",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2546.88,
+      "Stock": 136
+    },
+    {
+      "SKU": "X7V61EX-ZX",
+      "Product": "JBook Q909761 D4",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2108.78,
+      "Stock": 69
+    },
+    {
+      "SKU": "X7V61RX-ZX",
+      "Product": "JBook 7185771 D5",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2707.77,
+      "Stock": 185
+    },
+    {
+      "SKU": "X7V62EX-ZX",
+      "Product": "JBook 31161 D8",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2358.37,
+      "Stock": 113
+    },
+    {
+      "SKU": "X7V62RX-ZX",
+      "Product": "JBook J767621 D5",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 3067.79,
+      "Stock": 148
+    },
+    {
+      "SKU": "X7V63RX-ZX",
+      "Product": "JBook 588491 D0",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2600.52,
+      "Stock": 4
+    },
+    {
+      "SKU": "X7V64RX-ZX",
+      "Product": "JBook 885171 D5",
+      "Description": "Core i7-6820HQ, 4x 270GHz ",
+      "CategoryID": 2,
+      "Price": 3051.13,
+      "Stock": 4
+    },
+    {
+      "SKU": "X7V65RX-ZX",
+      "Product": "JBook 6866581 D1",
+      "Description": "Xeon E3-1535M v5, 4x 290GHz ",
+      "CategoryID": 2,
+      "Price": 4110.6,
+      "Stock": 161
+    },
+    {
+      "SKU": "X7W00EX-ZX",
+      "Product": "JBook Studio N1050217",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2620,
+      "Stock": 38
+    },
+    {
+      "SKU": "X7W00RX-ZX",
+      "Product": "JBook Studio 13417511",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2634.52,
+      "Stock": 14
+    },
+    {
+      "SKU": "X7W01EX-ZXU",
+      "Product": "JBook Studio P7255557",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2485.86,
+      "Stock": 27
+    },
+    {
+      "SKU": "X7W01RX-ZX",
+      "Product": "JBook Studio oH206437",
+      "Description": "Core i7-6700HQ, 4x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2191.87,
+      "Stock": 99
+    },
+    {
+      "SKU": "X7W02RX-ZX",
+      "Product": "JBook Studio L95824",
+      "Description": "Core i7-6820HQ, 4x 270GHz ",
+      "CategoryID": 2,
+      "Price": 3389.89,
+      "Stock": 28
+    },
+    {
+      "SKU": "X7W03RX-ZX",
+      "Product": "JBook Studio O850",
+      "Description": "Core i7-6820HQ, 4x 270GHz ",
+      "CategoryID": 2,
+      "Price": 3756.13,
+      "Stock": 92
+    },
+    {
+      "SKU": "X7W10EX-ZX",
+      "Product": "JBook 77825u D2",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1250.62,
+      "Stock": 151
+    },
+    {
+      "SKU": "X7W10RX-ZX",
+      "Product": "JBook 0842855u D1",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1882.42,
+      "Stock": 130
+    },
+    {
+      "SKU": "X7W11RX-ZX",
+      "Product": "JBook 2324215u D5",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 2115.91,
+      "Stock": 43
+    },
+    {
+      "SKU": "X7W12EX-ZX",
+      "Product": "JBook 4612135u D6",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1453.73,
+      "Stock": 9
+    },
+    {
+      "SKU": "X7W12RX-ZX",
+      "Product": "JBook J542315u D5",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 2386.93,
+      "Stock": 30
+    },
+    {
+      "SKU": "X7W15RX-ZX",
+      "Product": "JBook 5454205u D6",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 2788.21,
+      "Stock": 159
+    },
+    {
+      "SKU": "X7W16RX-ZX",
+      "Product": "JBook Q726015u D0",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 2746.79,
+      "Stock": 132
+    },
+    {
+      "SKU": "X7W17RX-ZX",
+      "Product": "JBook L56985u D6",
+      "Description": "Core i7-6600U, 2x 260GHz ",
+      "CategoryID": 2,
+      "Price": 3407.33,
+      "Stock": 124
+    },
+    {
+      "SKU": "X8R81UW-ZX",
+      "Product": "JBook N280335u D2",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 2109.29,
+      "Stock": 154
+    },
+    {
+      "SKU": "X8R83UW-ZX",
+      "Product": "JBook 9268415u D4",
+      "Description": "Core i7-6600U, 2x 260GHz ",
+      "CategoryID": 2,
+      "Price": 2726.87,
+      "Stock": 145
+    },
+    {
+      "SKU": "X993UW-ZX",
+      "Product": "O98029 LBook 360 D4",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1242.62,
+      "Stock": 120
+    },
+    {
+      "SKU": "X9E25UW-ZX",
+      "Product": "M29986 LBook 340 D8",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1252.4,
+      "Stock": 198
+    },
+    {
+      "SKU": "X9E28UW-ZX",
+      "Product": "N2604 LBook 340 D5",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1349.41,
+      "Stock": 161
+    },
+    {
+      "SKU": "X9Q81RX-ZX",
+      "Product": "H56841-ab102hf rosa",
+      "Description": "A6-6310, 4x 180GHz ",
+      "CategoryID": 2,
+      "Price": 542.14,
+      "Stock": 55
+    },
+    {
+      "SKU": "X9X09EX-ZX",
+      "Product": "I74144 LBook 345 D0",
+      "Description": "A8 PRO-8600B, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 854.54,
+      "Stock": 70
+    },
+    {
+      "SKU": "X9X09RX-ZX",
+      "Product": "I27752 LBook 345 D6",
+      "Description": "A8 PRO-8600B, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 916.68,
+      "Stock": 37
+    },
+    {
+      "SKU": "X9X14EX-ZX",
+      "Product": "K95189 LBook 364 D5",
+      "Description": "A10 PRO-8700B, 4x 180GHz ",
+      "CategoryID": 2,
+      "Price": 951.5,
+      "Stock": 199
+    },
+    {
+      "SKU": "X9X14RX-ZX",
+      "Product": "P86657 LBook 364 D7",
+      "Description": "A10 PRO-8700B, 4x 180GHz ",
+      "CategoryID": 2,
+      "Price": 947.13,
+      "Stock": 78
+    },
+    {
+      "SKU": "X9X18EX-ZX",
+      "Product": "LBook 16784040 D6 ",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1050.3,
+      "Stock": 81
+    },
+    {
+      "SKU": "X9X20RX-ZX",
+      "Product": "LBook 56684530 D4",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1782.14,
+      "Stock": 84
+    },
+    {
+      "SKU": "X9X22RX-ZX",
+      "Product": "LBook K7447730 D2",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1229.01,
+      "Stock": 0
+    },
+    {
+      "SKU": "X9X34RX-ZX",
+      "Product": "LBook Q425240 D7",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1941.66,
+      "Stock": 185
+    },
+    {
+      "SKU": "X9X34RX-ZXU",
+      "Product": "LBook 5411940 D7",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1942.37,
+      "Stock": 10
+    },
+    {
+      "SKU": "X9X36RX-ZX",
+      "Product": "LBook 88719640 D9",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 1783.36,
+      "Stock": 27
+    },
+    {
+      "SKU": "X9X40RX-ZX",
+      "Product": "LBook M4851110 D9",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1485.66,
+      "Stock": 59
+    },
+    {
+      "SKU": "X9X43EX-ZX",
+      "Product": "LBook 28946410 D9",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1461.52,
+      "Stock": 0
+    },
+    {
+      "SKU": "X9X43RX-ZX",
+      "Product": "LBook 42845910 D0",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1917.3,
+      "Stock": 187
+    },
+    {
+      "SKU": "X9X46RX-ZX",
+      "Product": "LBook K5196710 D0",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 2030.66,
+      "Stock": 196
+    },
+    {
+      "SKU": "X9X46RX-ZXU",
+      "Product": "LBook 9181510 D5",
+      "Description": "Core i7-6500U, 2x 250GHz ",
+      "CategoryID": 2,
+      "Price": 2030.66,
+      "Stock": 187
+    },
+    {
+      "SKU": "X9X55RX-ZXU",
+      "Product": "LBook 21692430 D8",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1310.49,
+      "Stock": 181
+    },
+    {
+      "SKU": "X9X60EX-ZX",
+      "Product": "N843 LBook 360 D0",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1264.62,
+      "Stock": 100
+    },
+    {
+      "SKU": "X9X61EX-ZX",
+      "Product": "M97345 LBook 340 D4",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1079.74,
+      "Stock": 12
+    },
+    {
+      "SKU": "X9X61RX-ZX",
+      "Product": "K76051 LBook 340 D1",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1190.27,
+      "Stock": 192
+    },
+    {
+      "SKU": "X9X62EX-ZX",
+      "Product": "I51943 LBook 360 D7",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 873.19,
+      "Stock": 106
+    },
+    {
+      "SKU": "X9X62RX-ZX",
+      "Product": "I46621 LBook 360 D1",
+      "Description": "Core i5-6200U, 2x 230GHz ",
+      "CategoryID": 2,
+      "Price": 1091.08,
+      "Stock": 103
+    },
+    {
+      "SKU": "X9X77EX-ZX",
+      "Product": "LBook P1643240 D2 ",
+      "Description": "Core i5-6300U, 2x 240GHz ",
+      "CategoryID": 2,
+      "Price": 1526.83,
+      "Stock": 157
+    },
+    {
+      "SKU": "X9X77RX-ZX",
+      "Product": "LBook K6952245 D6",
+      "Description": "A8 PRO-8600B, 4x 160GHz ",
+      "CategoryID": 2,
+      "Price": 1201.34,
+      "Stock": 89
+    }
+   ]
+   

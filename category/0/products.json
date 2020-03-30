@@ -1,0 +1,1698 @@
+[
+ {
+   "SKU": "765819-421",
+   "Product": "L40240 ML540 Gen3",
+   "Description": "1x  Xeon E5-2609 v3, 6x 190GHz ",
+   "CategoryID": 0,
+   "Price": 1556.55,
+   "Stock": 117
+ },
+ {
+   "SKU": "777160-421",
+   "Product": "J4904 ML410 Gen3",
+   "Description": "1x  Xeon E5-2603 v3, 6x 160GHz ",
+   "CategoryID": 0,
+   "Price": 916.35,
+   "Stock": 125
+ },
+ {
+   "SKU": "824379-421",
+   "Product": "Enterprise 233385 ML50 Gen3",
+   "Description": "Xeon E3-1220 v5, 4x 300GHz ",
+   "CategoryID": 0,
+   "Price": 830.34,
+   "Stock": 83
+ },
+ {
+   "SKU": "830893-421",
+   "Product": "Enterprise N57882 ML50 Gen3",
+   "Description": "Xeon E3-1240 v5, 4x 350GHz ",
+   "CategoryID": 0,
+   "Price": 1293.26,
+   "Stock": 107
+ },
+ {
+   "SKU": "835264-421",
+   "Product": "H65208 ML540 Gen3",
+   "Description": "1x  Xeon E5-2630 v4, 10x 220GHz ",
+   "CategoryID": 0,
+   "Price": 3727.75,
+   "Stock": 2
+ },
+ {
+   "SKU": "835847-425",
+   "Product": "K1043 ML540 Gen3",
+   "Description": "1x  Xeon E5-2620 v4, 8x 210GHz ",
+   "CategoryID": 0,
+   "Price": 2129.97,
+   "Stock": 27
+ },
+ {
+   "SKU": "837826-421",
+   "Product": "L91690 ML40 Gen3",
+   "Description": "Pentium G4400, 2x 330GHz ",
+   "CategoryID": 0,
+   "Price": 261.62,
+   "Stock": 91
+ },
+ {
+   "SKU": "837829-421",
+   "Product": "O85714 ML40 Gen3",
+   "Description": "Xeon E3-1225 v5, 4x 330GHz ",
+   "CategoryID": 0,
+   "Price": 412.92,
+   "Stock": 179
+ },
+ {
+   "SKU": "838123-425",
+   "Product": "J8371 ML40 Gen3",
+   "Description": "Xeon E3-1225 v5, 4x 330GHz ",
+   "CategoryID": 0,
+   "Price": 645.26,
+   "Stock": 26
+ },
+ {
+   "SKU": "838124-425",
+   "Product": "L4856 ML40 Gen3",
+   "Description": "Xeon E3-1225 v5, 4x 330GHz ",
+   "CategoryID": 0,
+   "Price": 565.6,
+   "Stock": 114
+ },
+ {
+   "SKU": "838502-421",
+   "Product": "N12201 ML410 Gen3",
+   "Description": "1x  Xeon E5-2603 v4, 6x 170GHz ",
+   "CategoryID": 0,
+   "Price": 992.96,
+   "Stock": 87
+ },
+ {
+   "SKU": "838503-421",
+   "Product": "Q4663 ML410 Gen3",
+   "Description": "1x  Xeon E5-2620 v4, 8x 210GHz ",
+   "CategoryID": 0,
+   "Price": 1317.49,
+   "Stock": 166
+ },
+ {
+   "SKU": "F7U17RX-ZX",
+   "Product": "RH40291 7200 POS-System",
+   "Description": "Celeron G540, 2x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1855.17,
+   "Stock": 14
+ },
+ {
+   "SKU": "G1X61RX-ZXK",
+   "Product": "DiskStation Q31168660",
+   "Description": "1x  Xeon E5-2630 v3, 8x 240GHz ",
+   "CategoryID": 0,
+   "Price": 3448.95,
+   "Stock": 130
+ },
+ {
+   "SKU": "G1X73RX-ZX",
+   "Product": "Sprout L21642 All-in-One",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 2841.27,
+   "Stock": 16
+ },
+ {
+   "SKU": "GG0F18RX-ZXU",
+   "Product": "SQ989278400 D5 All-in-One",
+   "Description": "Core i5-4590S, 4x 300GHz ",
+   "CategoryID": 0,
+   "Price": 1569.7,
+   "Stock": 10
+ },
+ {
+   "SKU": "GG2V34RX-ZX",
+   "Product": "N471999 5250 POS-System",
+   "Description": "Core i5-4570S, 4x 290GHz ",
+   "CategoryID": 0,
+   "Price": 1374.02,
+   "Stock": 34
+ },
+ {
+   "SKU": "GG2V34RX-ZXU",
+   "Product": "RK578 5250 POS-System",
+   "Description": "Core i5-4570S, 4x 290GHz ",
+   "CategoryID": 0,
+   "Price": 1374.02,
+   "Stock": 9
+ },
+ {
+   "SKU": "GG9C04EX-ZX",
+   "Product": "DiskStation N9093730 CMT",
+   "Description": "Core i5-6600, 4x 330GHz ",
+   "CategoryID": 0,
+   "Price": 805.5,
+   "Stock": 29
+ },
+ {
+   "SKU": "GG9C06EX-ZX",
+   "Product": "DiskStation L640130 CMT",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 1672.83,
+   "Stock": 149
+ },
+ {
+   "SKU": "GG9C11EX-ZX",
+   "Product": "DiskStation L71230 CMT",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 748.25,
+   "Stock": 148
+ },
+ {
+   "SKU": "GG9C12EX-ZXU",
+   "Product": "DiskStation K9587630 CMT",
+   "Description": "Xeon E3-1225 v5, 4x 330GHz ",
+   "CategoryID": 0,
+   "Price": 1141.45,
+   "Stock": 118
+ },
+ {
+   "SKU": "GG9C13RX-ZX",
+   "Product": "DiskStation L69785730 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 1217.01,
+   "Stock": 1
+ },
+ {
+   "SKU": "GG9C14RX-ZX",
+   "Product": "DiskStation I69396830 SFF",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 1456.41,
+   "Stock": 158
+ },
+ {
+   "SKU": "GG9C18RX-ZX",
+   "Product": "DiskStation P9438230 CMT",
+   "Description": "Xeon E3-1225 v5, 4x 330GHz ",
+   "CategoryID": 0,
+   "Price": 1418.62,
+   "Stock": 0
+ },
+ {
+   "SKU": "GG9C19RX-ZX",
+   "Product": "DiskStation O1509330 CMT",
+   "Description": "Xeon E3-1245 v5, 4x 350GHz ",
+   "CategoryID": 0,
+   "Price": 2308.12,
+   "Stock": 115
+ },
+ {
+   "SKU": "GG9C74RX-ZX",
+   "Product": "O928996 2000 POS-System",
+   "Description": "Celeron J1900, 4x 200GHz ",
+   "CategoryID": 0,
+   "Price": 1540.16,
+   "Stock": 111
+ },
+ {
+   "SKU": "M5V03RX-ZX",
+   "Product": "K656042 2050 POS-System",
+   "Description": "Pentium J2900, 4x 241GHz ",
+   "CategoryID": 0,
+   "Price": 1140.13,
+   "Stock": 85
+ },
+ {
+   "SKU": "M5V05RX-ZX",
+   "Product": "I760831 2050 POS-System",
+   "Description": "Pentium J2900, 4x 241GHz ",
+   "CategoryID": 0,
+   "Price": 1670.96,
+   "Stock": 167
+ },
+ {
+   "SKU": "M5V07RX-ZX",
+   "Product": "P75438 2050 POS-System",
+   "Description": "Pentium J2900, 4x 241GHz ",
+   "CategoryID": 0,
+   "Price": 1716.74,
+   "Stock": 92
+ },
+ {
+   "SKU": "M5V14RX-ZX",
+   "Product": "J973524 7200 POS-System",
+   "Description": "Celeron G540, 2x 250GHz ",
+   "CategoryID": 0,
+   "Price": 2371.83,
+   "Stock": 95
+ },
+ {
+   "SKU": "M5V15RX-ZX",
+   "Product": "N178781 7200 POS-System",
+   "Description": "Celeron G540, 2x 250GHz ",
+   "CategoryID": 0,
+   "Price": 2238.85,
+   "Stock": 141
+ },
+ {
+   "SKU": "M9K17EX",
+   "Product": "Desk 17778804 D8 SFF",
+   "Description": "A8 PRO-8650B, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 534.82,
+   "Stock": 148
+ },
+ {
+   "SKU": "M9K18RX-ZXU",
+   "Product": "Desk 83060604 D1 MT",
+   "Description": "A8 PRO-8650B, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 869.83,
+   "Stock": 60
+ },
+ {
+   "SKU": "N001RX-ZX",
+   "Product": "M19391 Desk 350 D2 MT",
+   "Description": "Core i7-4790, 4x 360GHz ",
+   "CategoryID": 0,
+   "Price": 980.93,
+   "Stock": 33
+ },
+ {
+   "SKU": "N3X45UW-ZX",
+   "Product": "AQ J327573200 POS-System",
+   "Description": "Pentium G850, 2x 290GHz ",
+   "CategoryID": 0,
+   "Price": 1252.4,
+   "Stock": 149
+ },
+ {
+   "SKU": "N3X46UW-ZX",
+   "Product": "AQ N2232356200 POS-System",
+   "Description": "Core i3-2120, 2x 330GHz ",
+   "CategoryID": 0,
+   "Price": 1379.93,
+   "Stock": 102
+ },
+ {
+   "SKU": "N8P75RX-ZX",
+   "Product": "N59352-q242hf All-in-One",
+   "Description": "Core i5-6400T, 4x 220GHz ",
+   "CategoryID": 0,
+   "Price": 909.17,
+   "Stock": 64
+ },
+ {
+   "SKU": "N8P76RX",
+   "Product": "J36533-n245hf",
+   "Description": "Core i5-6400T, 4x 220GHz ",
+   "CategoryID": 0,
+   "Price": 1041.48,
+   "Stock": 186
+ },
+ {
+   "SKU": "P0K31RX",
+   "Product": "H566990-p056hf",
+   "Description": "Core i5-6400, 4x 270GHz ",
+   "CategoryID": 0,
+   "Price": 761.92,
+   "Stock": 20
+ },
+ {
+   "SKU": "P1G36EX-ZXU",
+   "Product": "Desk 9915300 D7 USFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 777.73,
+   "Stock": 160
+ },
+ {
+   "SKU": "P1G41RX-ZXU",
+   "Product": "Desk J8105500 D6 TWR",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 1004.7,
+   "Stock": 51
+ },
+ {
+   "SKU": "P1G42RX-ZXU",
+   "Product": "Desk O6995500 D1 TWR",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 1340.12,
+   "Stock": 171
+ },
+ {
+   "SKU": "P1K48RX-ZX",
+   "Product": "PhoeniI97524130-000hf",
+   "Description": "Core i5-6600K, 4x 350GHz ",
+   "CategoryID": 0,
+   "Price": 1663.15,
+   "Stock": 0
+ },
+ {
+   "SKU": "P2GG43RX-ZX",
+   "Product": "K1632 Desk 350 D6 MT",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 913.41,
+   "Stock": 65
+ },
+ {
+   "SKU": "P2GG57RA-ZX",
+   "Product": "Q23646 Desk 300 D7 MT",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 653.93,
+   "Stock": 127
+ },
+ {
+   "SKU": "P2GG58RA-ZX",
+   "Product": "L5433 Desk 300 D2 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 641.66,
+   "Stock": 18
+ },
+ {
+   "SKU": "P2GG59RA-ZX",
+   "Product": "K49725 Desk 300 D6 USFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 627.92,
+   "Stock": 71
+ },
+ {
+   "SKU": "P3GG44RX",
+   "Product": "M4990-510hf rot",
+   "Description": "Core i5-6400, 4x 270GHz ",
+   "CategoryID": 0,
+   "Price": 534.09,
+   "Stock": 67
+ },
+ {
+   "SKU": "P4Q42RX-ZX",
+   "Product": "M67670-552hf",
+   "Description": "Core i5-6400, 4x 270GHz ",
+   "CategoryID": 0,
+   "Price": 395.56,
+   "Stock": 175
+ },
+ {
+   "SKU": "P4Q50UW-ZX",
+   "Product": "Q756562 5250 POS-System",
+   "Description": "Pentium G3420, 2x 320GHz ",
+   "CategoryID": 0,
+   "Price": 1163.02,
+   "Stock": 135
+ },
+ {
+   "SKU": "P4Q51UW-ZX",
+   "Product": "RL84003 5250 POS-System",
+   "Description": "Core i3-4150, 2x 350GHz ",
+   "CategoryID": 0,
+   "Price": 1275.28,
+   "Stock": 27
+ },
+ {
+   "SKU": "P4Q52UW-ZX",
+   "Product": "J194728 5250 POS-System",
+   "Description": "Core i5-4570S, 4x 290GHz ",
+   "CategoryID": 0,
+   "Price": 1428.98,
+   "Stock": 62
+ },
+ {
+   "SKU": "P5K00EX",
+   "Product": "L7653 Desk 300 D3 MT",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 513.78,
+   "Stock": 19
+ },
+ {
+   "SKU": "P6S25UW",
+   "Product": "Desk 9207104 D6 MT",
+   "Description": "A4 PRO-8350B, 2x 350GHz ",
+   "CategoryID": 0,
+   "Price": 768.44,
+   "Stock": 0
+ },
+ {
+   "SKU": "P6S26UW",
+   "Product": "Desk 51842404 D1 MT",
+   "Description": "A4 PRO-8350B, 2x 350GHz ",
+   "CategoryID": 0,
+   "Price": 756.72,
+   "Stock": 109
+ },
+ {
+   "SKU": "P6S27UW-ZX",
+   "Product": "Desk N3986804 D7 SFF",
+   "Description": "A4 PRO-8350B, 2x 350GHz ",
+   "CategoryID": 0,
+   "Price": 772.08,
+   "Stock": 108
+ },
+ {
+   "SKU": "P6S29UW",
+   "Product": "Desk 9078804 D5 SFF",
+   "Description": "A4 PRO-8350B, 2x 350GHz ",
+   "CategoryID": 0,
+   "Price": 685.15,
+   "Stock": 86
+ },
+ {
+   "SKU": "P6S30UW",
+   "Product": "Desk 14114404 D1 SFF",
+   "Description": "A8 PRO-8650B, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 796.57,
+   "Stock": 161
+ },
+ {
+   "SKU": "P9H90U",
+   "Product": "Enterprise 5330824 ML50 Gen3",
+   "Description": "Xeon E3-1220 v5, 4x 300GHz ",
+   "CategoryID": 0,
+   "Price": 809.86,
+   "Stock": 0
+ },
+ {
+   "SKU": "P9K70U",
+   "Product": "Q94566 MicroServer Gen4",
+   "Description": "Core i3-3240, 2x 340GHz ",
+   "CategoryID": 0,
+   "Price": 625.55,
+   "Stock": 38
+ },
+ {
+   "SKU": "Q0Q04RX-ZX",
+   "Product": "PCK6718210-031hf",
+   "Description": "Core i7-6700K, 4x 400GHz ",
+   "CategoryID": 0,
+   "Price": 1882.78,
+   "Stock": 184
+ },
+ {
+   "SKU": "Q0X51RX-ZX",
+   "Product": "L181060-531hf",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 528.54,
+   "Stock": 73
+ },
+ {
+   "SKU": "Q0X58RX-ZX",
+   "Product": "PQ076610-w053hf",
+   "Description": "Core i5-6400, 4x 270GHz ",
+   "CategoryID": 0,
+   "Price": 1352.73,
+   "Stock": 180
+ },
+ {
+   "SKU": "Q156RX-ZX",
+   "Product": "I45785600-000hf",
+   "Description": "Core i7-6700K, 4x 400GHz ",
+   "CategoryID": 0,
+   "Price": 4685.9,
+   "Stock": 85
+ },
+ {
+   "SKU": "Q3Q19RA",
+   "Product": "DiskStation I46410430 CMT",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 963.33,
+   "Stock": 59
+ },
+ {
+   "SKU": "Q3Q20EX-ZX",
+   "Product": "DiskStation I6610730 CMT",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 959.96,
+   "Stock": 31
+ },
+ {
+   "SKU": "Q3Q24EX-ZX",
+   "Product": "DiskStation P51284430 CMT",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 1112.33,
+   "Stock": 100
+ },
+ {
+   "SKU": "Q3Q25EX-ZX",
+   "Product": "DiskStation J785376430 CMT",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 1169.56,
+   "Stock": 0
+ },
+ {
+   "SKU": "Q3Q27EX-ZX",
+   "Product": "DiskStation L4847230 CMT",
+   "Description": "Xeon E3-1225 v5, 4x 330GHz ",
+   "CategoryID": 0,
+   "Price": 1219.23,
+   "Stock": 94
+ },
+ {
+   "SKU": "Q3Q34EX-ZX",
+   "Product": "DiskStation P56666230 SFF",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 1129.23,
+   "Stock": 174
+ },
+ {
+   "SKU": "Q3Q42EX-ZX",
+   "Product": "DiskStation I73860",
+   "Description": "1x  Xeon E5-2630 v4, 10x 220GHz ",
+   "CategoryID": 0,
+   "Price": 3071.61,
+   "Stock": 24
+ },
+ {
+   "SKU": "Q3Q46RA-ZX",
+   "Product": "DiskStation H3700440",
+   "Description": "Xeon E5-1620 v4, 4x 350GHz ",
+   "CategoryID": 0,
+   "Price": 1400.44,
+   "Stock": 169
+ },
+ {
+   "SKU": "Q4C11UW-ZX",
+   "Product": "Slice I128970 USFF",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 934.09,
+   "Stock": 0
+ },
+ {
+   "SKU": "Q4U10RX-ZX",
+   "Product": "Desk 42194004 D5 MT",
+   "Description": "A12-9800, 4x 380GHz ",
+   "CategoryID": 0,
+   "Price": 676.55,
+   "Stock": 81
+ },
+ {
+   "SKU": "Q4U11RX-ZX",
+   "Product": "Desk 5492704 D4 MT",
+   "Description": "A10-9700, 4x 350GHz ",
+   "CategoryID": 0,
+   "Price": 585.12,
+   "Stock": 180
+ },
+ {
+   "SKU": "Q4U43RX-ZX",
+   "Product": "Slice 937635 USFF",
+   "Description": "Core i7-6700T, 4x 280GHz ",
+   "CategoryID": 0,
+   "Price": 1094.35,
+   "Stock": 20
+ },
+ {
+   "SKU": "Q4U60RX-ZX",
+   "Product": "Desk N8997404 D6 Nano",
+   "Description": "A12 PRO-9800E, 4x 310GHz ",
+   "CategoryID": 0,
+   "Price": 656.96,
+   "Stock": 84
+ },
+ {
+   "SKU": "Q4U96RX-ZX",
+   "Product": "Slice 9973598 USFF",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 983.16,
+   "Stock": 69
+ },
+ {
+   "SKU": "Q5W04UW-ZX",
+   "Product": "Desk 90649804 D6 MT",
+   "Description": "A6-9500, 2x 350GHz ",
+   "CategoryID": 0,
+   "Price": 747.33,
+   "Stock": 156
+ },
+ {
+   "SKU": "Q5W05UW-ZX",
+   "Product": "Desk 83205904 D0 SFF",
+   "Description": "A10-9700, 4x 350GHz ",
+   "CategoryID": 0,
+   "Price": 802.47,
+   "Stock": 149
+ },
+ {
+   "SKU": "Q5W06UW-ZX",
+   "Product": "DQ9113163504 D5 SFF",
+   "Description": "A6-9500, 2x 350GHz ",
+   "CategoryID": 0,
+   "Price": 682.8,
+   "Stock": 0
+ },
+ {
+   "SKU": "Q6W72RX-ZX",
+   "Product": "PCK8803310-455hf",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 1607.59,
+   "Stock": 157
+ },
+ {
+   "SKU": "Q6X14RX-ZX",
+   "Product": "P48589500-045hf",
+   "Description": "Core i7-6700K, 4x 400GHz ",
+   "CategoryID": 0,
+   "Price": 3141.16,
+   "Stock": 84
+ },
+ {
+   "SKU": "Q6X42RX-ZX",
+   "Product": "H74757300-049hf",
+   "Description": "Core i7-6700K, 4x 400GHz ",
+   "CategoryID": 0,
+   "Price": 3922.9,
+   "Stock": 192
+ },
+ {
+   "SKU": "V2F27RX",
+   "Product": "M392810-155hf",
+   "Description": "A10-7800, 4x 350GHz ",
+   "CategoryID": 0,
+   "Price": 585.82,
+   "Stock": 74
+ },
+ {
+   "SKU": "V2F33RX",
+   "Product": "H247790-152hf",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 985.58,
+   "Stock": 23
+ },
+ {
+   "SKU": "V2F34RX-ZX",
+   "Product": "I850550-155hf",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 974.59,
+   "Stock": 45
+ },
+ {
+   "SKU": "V6K89RX-ZX",
+   "Product": "Desk 8131900 D3 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 1340.56,
+   "Stock": 128
+ },
+ {
+   "SKU": "V6L20RX-ZX",
+   "Product": "Desk 62621304 D1 MT",
+   "Description": "A10 PRO-8750B, 4x 360GHz ",
+   "CategoryID": 0,
+   "Price": 611.28,
+   "Stock": 98
+ },
+ {
+   "SKU": "V7Q63RX-ZX",
+   "Product": "O62786 53 Ad All-in-One",
+   "Description": "Core i7-6700T, 4x 280GHz ",
+   "CategoryID": 0,
+   "Price": 2917.3,
+   "Stock": 53
+ },
+ {
+   "SKU": "V7Q81RX-ZX",
+   "Product": "O767820 D7",
+   "Description": "Pentium G4400, 2x 330GHz ",
+   "CategoryID": 0,
+   "Price": 368.78,
+   "Stock": 128
+ },
+ {
+   "SKU": "V7Q81RX-ZXU",
+   "Product": "O93230 D3",
+   "Description": "Pentium G4400, 2x 330GHz ",
+   "CategoryID": 0,
+   "Price": 378.58,
+   "Stock": 167
+ },
+ {
+   "SKU": "V7R41RX",
+   "Product": "Q75611 Sen 300 D6 AiO",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1016.98,
+   "Stock": 179
+ },
+ {
+   "SKU": "V7R49RX",
+   "Product": "N84358 Desk 300 D7 MT",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 590.88,
+   "Stock": 5
+ },
+ {
+   "SKU": "V7R50RX-ZX",
+   "Product": "Q32988 Desk 300 D4 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 590.88,
+   "Stock": 120
+ },
+ {
+   "SKU": "V8L63RX-ZX",
+   "Product": "RO74528 9045 D5 POS-System",
+   "Description": "Celeron G3900T, 2x 260GHz ",
+   "CategoryID": 0,
+   "Price": 1755.98,
+   "Stock": 20
+ },
+ {
+   "SKU": "V8L64RX-ZX",
+   "Product": "H195713 9045 D5 POS-System",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 2537.51,
+   "Stock": 24
+ },
+ {
+   "SKU": "V8L65RX-ZX",
+   "Product": "RI93255 9045 D9 POS-System",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 2224.68,
+   "Stock": 176
+ },
+ {
+   "SKU": "V8L66RX-ZX",
+   "Product": "N934994 9045 D3 POS-System",
+   "Description": "Pentium G4400, 2x 330GHz ",
+   "CategoryID": 0,
+   "Price": 1975.07,
+   "Stock": 131
+ },
+ {
+   "SKU": "V8L70RX-ZX",
+   "Product": "J213134 9045 D1 POS-System",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 2156.01,
+   "Stock": 61
+ },
+ {
+   "SKU": "V8L71RX-ZX",
+   "Product": "I39864 9045 D2 POS-System",
+   "Description": "Pentium G4400, 2x 330GHz ",
+   "CategoryID": 0,
+   "Price": 2141.84,
+   "Stock": 103
+ },
+ {
+   "SKU": "V8L72RX-ZX",
+   "Product": "J743819 9045 D3 POS-System",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 2016.49,
+   "Stock": 109
+ },
+ {
+   "SKU": "V8L73RX-ZX",
+   "Product": "RP2197 9045 D2 POS-System",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 2029.57,
+   "Stock": 4
+ },
+ {
+   "SKU": "V8L77RX-ZX",
+   "Product": "RJ46594 9045 D1 POS-System",
+   "Description": "Pentium G4400, 2x 330GHz ",
+   "CategoryID": 0,
+   "Price": 1788.68,
+   "Stock": 160
+ },
+ {
+   "SKU": "V9H83UW-ZX",
+   "Product": "Desk K5798300 D3 USFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 1091.87,
+   "Stock": 8
+ },
+ {
+   "SKU": "W109RX-ZX",
+   "Product": "L460430-153hf",
+   "Description": "A10-8750, 4x 360GHz ",
+   "CategoryID": 0,
+   "Price": 587.84,
+   "Stock": 7
+ },
+ {
+   "SKU": "W1E47RX-ZX",
+   "Product": "H388260-112hf",
+   "Description": "Core i5-6400, 4x 270GHz ",
+   "CategoryID": 0,
+   "Price": 653.99,
+   "Stock": 94
+ },
+ {
+   "SKU": "W1E48RX-ZX",
+   "Product": "N23230-115hf",
+   "Description": "Core i5-6400, 4x 270GHz ",
+   "CategoryID": 0,
+   "Price": 762.99,
+   "Stock": 197
+ },
+ {
+   "SKU": "W3M13EX-ZX",
+   "Product": "N80684 Desk 300 D4 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 715.03,
+   "Stock": 143
+ },
+ {
+   "SKU": "W3M14EX-ZX",
+   "Product": "I8352 Desk 300 D3 TWR",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 918,
+   "Stock": 109
+ },
+ {
+   "SKU": "W3P92RX",
+   "Product": "M2905 Desk 300 D5 MT",
+   "Description": "Pentium G4400, 2x 330GHz ",
+   "CategoryID": 0,
+   "Price": 374.95,
+   "Stock": 52
+ },
+ {
+   "SKU": "W4U51RX-ZX",
+   "Product": "N2792 D3 DM",
+   "Description": "Core i3-6100U, 2x 230GHz ",
+   "CategoryID": 0,
+   "Price": 392.35,
+   "Stock": 0
+ },
+ {
+   "SKU": "W4U51RX-ZXU",
+   "Product": "N55750 D8 DM",
+   "Description": "Core i3-6100U, 2x 230GHz ",
+   "CategoryID": 0,
+   "Price": 405.17,
+   "Stock": 149
+ },
+ {
+   "SKU": "W4U54RX-ZXU",
+   "Product": "I21360 D2 DM",
+   "Description": "Pentium 4405U, 2x 210GHz ",
+   "CategoryID": 0,
+   "Price": 388.09,
+   "Stock": 111
+ },
+ {
+   "SKU": "W4U87RX-ZX",
+   "Product": "J51116 Desk 300 D1 USFF",
+   "Description": "Core i3-6100T, 2x 320GHz ",
+   "CategoryID": 0,
+   "Price": 558.93,
+   "Stock": 104
+ },
+ {
+   "SKU": "W4U88RX-ZX",
+   "Product": "N5362 Desk 300 D2 USFF",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 636.89,
+   "Stock": 92
+ },
+ {
+   "SKU": "W4U89RX-ZX",
+   "Product": "Q49178 Desk 300 D0 SFF",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 558.93,
+   "Stock": 154
+ },
+ {
+   "SKU": "W4U90RX-ZX",
+   "Product": "K56131 Desk 300 D5 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 636.89,
+   "Stock": 119
+ },
+ {
+   "SKU": "X0E92RX-ZX",
+   "Product": "RQ49931 7200 POS-System",
+   "Description": "Celeron G540, 2x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1516.18,
+   "Stock": 5
+ },
+ {
+   "SKU": "X0E93RX-ZX",
+   "Product": "I615546 7200 POS-System",
+   "Description": "Celeron G540, 2x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1887.87,
+   "Stock": 152
+ },
+ {
+   "SKU": "X0E94RX-ZX",
+   "Product": "Q190888 7200 POS-System",
+   "Description": "Celeron G540, 2x 250GHz ",
+   "CategoryID": 0,
+   "Price": 2364.2,
+   "Stock": 88
+ },
+ {
+   "SKU": "X0E95RX-ZX",
+   "Product": "L444126 7200 POS-System",
+   "Description": "Pentium G850, 2x 290GHz ",
+   "CategoryID": 0,
+   "Price": 1771.24,
+   "Stock": 163
+ },
+ {
+   "SKU": "X0E96RX-ZX",
+   "Product": "J635856 7200 POS-System",
+   "Description": "Pentium G850, 2x 290GHz ",
+   "CategoryID": 0,
+   "Price": 2098.24,
+   "Stock": 145
+ },
+ {
+   "SKU": "X0E98RX-ZX",
+   "Product": "RK25034 7200 POS-System",
+   "Description": "Core i3-2120, 2x 330GHz ",
+   "CategoryID": 0,
+   "Price": 2068.81,
+   "Stock": 120
+ },
+ {
+   "SKU": "X0E99RX-ZX",
+   "Product": "M888288 7200 POS-System",
+   "Description": "Core i5-2400S, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 2486.28,
+   "Stock": 120
+ },
+ {
+   "SKU": "X0F00RX-ZX",
+   "Product": "J915603 7200 POS-System",
+   "Description": "Core i5-2400S, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 2212.69,
+   "Stock": 62
+ },
+ {
+   "SKU": "X0F01RX-ZX",
+   "Product": "L958269 7200 POS-System",
+   "Description": "Celeron G540, 2x 250GHz ",
+   "CategoryID": 0,
+   "Price": 2018.67,
+   "Stock": 136
+ },
+ {
+   "SKU": "X0F02RX-ZX",
+   "Product": "L207644 7200 POS-System",
+   "Description": "Core i3-2120, 2x 330GHz ",
+   "CategoryID": 0,
+   "Price": 1765.24,
+   "Stock": 99
+ },
+ {
+   "SKU": "X0F03RX-ZX",
+   "Product": "RK45600 7200 POS-System",
+   "Description": "Celeron G540, 2x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1317.8,
+   "Stock": 58
+ },
+ {
+   "SKU": "X0F06RX",
+   "Product": "I767384 7200 POS-System",
+   "Description": "Celeron G540, 2x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1618.64,
+   "Stock": 140
+ },
+ {
+   "SKU": "X0F07RX-ZX",
+   "Product": "H908794 7200 POS-System",
+   "Description": "Celeron G540, 2x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1767.97,
+   "Stock": 0
+ },
+ {
+   "SKU": "X0F08RX-ZX",
+   "Product": "RO4092 7200 POS-System",
+   "Description": "Core i5-2400S, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 2175.52,
+   "Stock": 151
+ },
+ {
+   "SKU": "X0F09RX-ZX",
+   "Product": "RM62179 7200 POS-System",
+   "Description": "Core i5-2400S, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 3048.72,
+   "Stock": 147
+ },
+ {
+   "SKU": "X0F11RX-ZX",
+   "Product": "RP2000 5250 POS-System",
+   "Description": "Core i3-4330, 2x 350GHz ",
+   "CategoryID": 0,
+   "Price": 1222.97,
+   "Stock": 0
+ },
+ {
+   "SKU": "X0F12RX-ZX",
+   "Product": "Q90925 9042 D0 POS-System",
+   "Description": "Pentium G4400, 2x 330GHz ",
+   "CategoryID": 0,
+   "Price": 2160.37,
+   "Stock": 166
+ },
+ {
+   "SKU": "X0F13RX-ZX",
+   "Product": "RQ67140 9042 D2 POS-System",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 2537.51,
+   "Stock": 68
+ },
+ {
+   "SKU": "X0F14RX-ZX",
+   "Product": "M512580 9042 D6 POS-System",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 2132.03,
+   "Stock": 0
+ },
+ {
+   "SKU": "X1G83RX-ZX",
+   "Product": "N76660-510hf",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 980.95,
+   "Stock": 44
+ },
+ {
+   "SKU": "X3GG02EX-ZX",
+   "Product": "P13083 Desk 300 D1 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 853.71,
+   "Stock": 128
+ },
+ {
+   "SKU": "X3GG05RX-ZX",
+   "Product": "Desk 4160900 D0 Nano Desktop",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 867.18,
+   "Stock": 33
+ },
+ {
+   "SKU": "X3GG07RX-ZX",
+   "Product": "H31513 Sen 300 D4 AiO",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 1172.62,
+   "Stock": 166
+ },
+ {
+   "SKU": "X3GG08RX-ZX",
+   "Product": "J26975 Sen 300 D2 AiO",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 1400.87,
+   "Stock": 0
+ },
+ {
+   "SKU": "X3GG10EX-ZX",
+   "Product": "Desk P2451100 D7 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 905.71,
+   "Stock": 95
+ },
+ {
+   "SKU": "X3GG11EX-ZX",
+   "Product": "Desk 11780200 D6 TWR",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 899.54,
+   "Stock": 161
+ },
+ {
+   "SKU": "X3GG12EX-ZX",
+   "Product": "Desk 44715500 D0 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 874.58,
+   "Stock": 152
+ },
+ {
+   "SKU": "X3GG14EX-ZX",
+   "Product": "Desk 36519900 D6 TWR",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 1021.74,
+   "Stock": 2
+ },
+ {
+   "SKU": "X3GG15RX-ZX",
+   "Product": "SeH89324200 D8 All-in-One",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 1289.78,
+   "Stock": 140
+ },
+ {
+   "SKU": "X3GG16RX-ZX",
+   "Product": "Desk 79755700 D5 USFF",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 1034.89,
+   "Stock": 114
+ },
+ {
+   "SKU": "X3GG17RX-ZX",
+   "Product": "Desk M4067300 D0 USFF",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 848.51,
+   "Stock": 112
+ },
+ {
+   "SKU": "X3GG18RX-ZX",
+   "Product": "Desk P2720800 D3 TWR",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 1565.08,
+   "Stock": 4
+ },
+ {
+   "SKU": "X3GG19RX-ZX",
+   "Product": "Desk 9519700 D5 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 879.84,
+   "Stock": 39
+ },
+ {
+   "SKU": "X3K09RX",
+   "Product": "O48245 Desk 300 D6 MT",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 558.93,
+   "Stock": 156
+ },
+ {
+   "SKU": "X3K10RX",
+   "Product": "O930 Desk 300 D7 MT",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 636.89,
+   "Stock": 150
+ },
+ {
+   "SKU": "X3K11RX-ZX",
+   "Product": "I5227 Desk 350 D9 MT",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 722.13,
+   "Stock": 0
+ },
+ {
+   "SKU": "X3K12RX-ZX",
+   "Product": "N88493 Sen 300 D4 AiO",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 912.42,
+   "Stock": 192
+ },
+ {
+   "SKU": "X3K57RX-ZX",
+   "Product": "M82986 Desk 350 D4 MT",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 815.39,
+   "Stock": 3
+ },
+ {
+   "SKU": "X3K59RX-ZX",
+   "Product": "H8265 Desk 350 D9 MT",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 850.57,
+   "Stock": 151
+ },
+ {
+   "SKU": "X3K75RA-ZX",
+   "Product": "O2731 Desk 300 D6 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 539.54,
+   "Stock": 122
+ },
+ {
+   "SKU": "X3K76RA-ZX",
+   "Product": "P290 D9",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 504.57,
+   "Stock": 173
+ },
+ {
+   "SKU": "X4GG23RX-ZX",
+   "Product": "Desk 3581900 D8 TWR",
+   "Description": "Core i7-6700, 4x 340GHz ",
+   "CategoryID": 0,
+   "Price": 1682.85,
+   "Stock": 25
+ },
+ {
+   "SKU": "X4GG52EX-ZXU",
+   "Product": "J20706 Desk 300 D2 SFF",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 871.3,
+   "Stock": 192
+ },
+ {
+   "SKU": "X4K26RX-ZX",
+   "Product": "DiskStation Q6463140",
+   "Description": "Xeon E5-1620 v3, 4x 350GHz ",
+   "CategoryID": 0,
+   "Price": 1761.52,
+   "Stock": 14
+ },
+ {
+   "SKU": "X4K28RX-ZX",
+   "Product": "DiskStation M71101840",
+   "Description": "Xeon E5-1650 v3, 6x 350GHz ",
+   "CategoryID": 0,
+   "Price": 2885.22,
+   "Stock": 102
+ },
+ {
+   "SKU": "X4K29RX-ZX",
+   "Product": "DiskStation P325581260",
+   "Description": "1x  Xeon E5-2620 v3, 6x 240GHz ",
+   "CategoryID": 0,
+   "Price": 2530.26,
+   "Stock": 117
+ },
+ {
+   "SKU": "X4K31RX-ZX",
+   "Product": "DiskStation L96584030",
+   "Description": "1x  Xeon E5-2620 v3, 6x 240GHz ",
+   "CategoryID": 0,
+   "Price": 2968.06,
+   "Stock": 187
+ },
+ {
+   "SKU": "X4K32RX-ZX",
+   "Product": "DiskStation M6126330",
+   "Description": "1x  Xeon E5-2680 v3, 12x 250GHz ",
+   "CategoryID": 0,
+   "Price": 6325.26,
+   "Stock": 77
+ },
+ {
+   "SKU": "X4K41RA-ZX",
+   "Product": "DiskStation N941236730 CMT",
+   "Description": "Xeon E3-1225 v5, 4x 330GHz ",
+   "CategoryID": 0,
+   "Price": 879.58,
+   "Stock": 161
+ },
+ {
+   "SKU": "X4K60EX-ZXK",
+   "Product": "DiskStation Q328066560",
+   "Description": "1x  Xeon E5-2620 v4, 8x 210GHz ",
+   "CategoryID": 0,
+   "Price": 2344.03,
+   "Stock": 139
+ },
+ {
+   "SKU": "X4K63EX-ZX",
+   "Product": "DiskStation I21859030",
+   "Description": "1x  Xeon E5-2620 v4, 8x 210GHz ",
+   "CategoryID": 0,
+   "Price": 2757.14,
+   "Stock": 159
+ },
+ {
+   "SKU": "X4K70RX",
+   "Product": "DiskStation K7630214 D5",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 1808.22,
+   "Stock": 52
+ },
+ {
+   "SKU": "X4K76EX-ZX",
+   "Product": "DiskStation P50125440",
+   "Description": "Xeon E5-1603 v4, 4x 280GHz ",
+   "CategoryID": 0,
+   "Price": 1476.73,
+   "Stock": 107
+ },
+ {
+   "SKU": "X4K77EX-ZX",
+   "Product": "DiskStation J4727240",
+   "Description": "Xeon E5-1620 v4, 4x 350GHz ",
+   "CategoryID": 0,
+   "Price": 1730.63,
+   "Stock": 152
+ },
+ {
+   "SKU": "X4K78EX-ZX",
+   "Product": "DiskStation M57547340",
+   "Description": "Xeon E5-1620 v4, 4x 350GHz ",
+   "CategoryID": 0,
+   "Price": 1780.61,
+   "Stock": 192
+ },
+ {
+   "SKU": "X4K81EX-ZX",
+   "Product": "DiskStation I1273640",
+   "Description": "Xeon E5-1650 v4, 6x 360GHz ",
+   "CategoryID": 0,
+   "Price": 2246.38,
+   "Stock": 144
+ },
+ {
+   "SKU": "X4P55UW-ZX",
+   "Product": "Desk 93613000 D8 USFF",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1115.29,
+   "Stock": 62
+ },
+ {
+   "SKU": "X4P56UW-ZX",
+   "Product": "Desk 76587100 D7 USFF",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1114.11,
+   "Stock": 85
+ },
+ {
+   "SKU": "X4P57UW-ZX",
+   "Product": "Desk 2545700 D5 USFF",
+   "Description": "Core i7-6700T, 4x 280GHz ",
+   "CategoryID": 0,
+   "Price": 1364.56,
+   "Stock": 80
+ },
+ {
+   "SKU": "X4P58UW-ZX",
+   "Product": "Desk 41602500 D1 USFF",
+   "Description": "Core i7-6700T, 4x 280GHz ",
+   "CategoryID": 0,
+   "Price": 1363.38,
+   "Stock": 0
+ },
+ {
+   "SKU": "X4R06RX-ZXU",
+   "Product": "H32445 Sen 300 D6 AiO",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 955.79,
+   "Stock": 111
+ },
+ {
+   "SKU": "X4R07RX-ZXU",
+   "Product": "I48923 Sen 300 D8 AiO",
+   "Description": "Core i3-6100T, 2x 320GHz ",
+   "CategoryID": 0,
+   "Price": 753.02,
+   "Stock": 162
+ },
+ {
+   "SKU": "X4R68RX",
+   "Product": "M20948 Desk 300 D6 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 631.96,
+   "Stock": 39
+ },
+ {
+   "SKU": "X4R69EX-ZXU",
+   "Product": "L33507 Desk 300 D2 SFF",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 459.52,
+   "Stock": 142
+ },
+ {
+   "SKU": "X4R69RX",
+   "Product": "P4685 Desk 300 D2 SFF",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 555.89,
+   "Stock": 66
+ },
+ {
+   "SKU": "X4R70EX-ZXU",
+   "Product": "M9928 Desk 300 D0 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 532.77,
+   "Stock": 183
+ },
+ {
+   "SKU": "X4R70RX",
+   "Product": "Q10526 Desk 300 D6 SFF",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 631.1,
+   "Stock": 87
+ },
+ {
+   "SKU": "X4R73RX",
+   "Product": "N6498 Desk 300 D6 SFF",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 653.89,
+   "Stock": 0
+ },
+ {
+   "SKU": "X4R74RX",
+   "Product": "O90801 Desk 300 D6 SFF",
+   "Description": "Pentium G4400, 2x 330GHz ",
+   "CategoryID": 0,
+   "Price": 468.98,
+   "Stock": 173
+ },
+ {
+   "SKU": "X6Q54RX",
+   "Product": "L163470-136hf blau",
+   "Description": "Core i5-6400, 4x 270GHz ",
+   "CategoryID": 0,
+   "Price": 973.51,
+   "Stock": 39
+ },
+ {
+   "SKU": "X6Q59RX",
+   "Product": "N73330-131hf",
+   "Description": "Core i5-6400, 4x 270GHz ",
+   "CategoryID": 0,
+   "Price": 650.46,
+   "Stock": 0
+ },
+ {
+   "SKU": "X6X39RA-ZX",
+   "Product": "Q69395 Desk 300 D2 TWR",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 660.14,
+   "Stock": 145
+ },
+ {
+   "SKU": "X6X93RX-ZX",
+   "Product": "Slice L946145 USFF",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 848.01,
+   "Stock": 147
+ },
+ {
+   "SKU": "X9K56UW-ZX",
+   "Product": "O2577 Desk 300 D3 Nano Desktop",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 923.32,
+   "Stock": 105
+ },
+ {
+   "SKU": "X9K57UW-ZX",
+   "Product": "O19778 Desk 300 D1 Nano Desktop",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 960.85,
+   "Stock": 172
+ },
+ {
+   "SKU": "X9K58UW-ZX",
+   "Product": "Q80267 Desk 300 D8 Nano Desktop",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 960.85,
+   "Stock": 51
+ },
+ {
+   "SKU": "X9K59UW-ZX",
+   "Product": "H50459 Desk 300 D7 Nano Desktop",
+   "Description": "Core i7-6700T, 4x 280GHz ",
+   "CategoryID": 0,
+   "Price": 1118.9,
+   "Stock": 27
+ },
+ {
+   "SKU": "X9K60UW-ZX",
+   "Product": "P1979 Desk 300 D3 Nano Desktop",
+   "Description": "Core i7-6700T, 4x 280GHz ",
+   "CategoryID": 0,
+   "Price": 1134.01,
+   "Stock": 20
+ },
+ {
+   "SKU": "X9K73RX-ZX",
+   "Product": "MN38200 D7 POS-System",
+   "Description": "Core i3-6100T, 2x 320GHz ",
+   "CategoryID": 0,
+   "Price": 1043.12,
+   "Stock": 66
+ },
+ {
+   "SKU": "X9K74RX-ZX",
+   "Product": "ML91389 D7 POS-System",
+   "Description": "Core i3-6100T, 2x 320GHz ",
+   "CategoryID": 0,
+   "Price": 1036.58,
+   "Stock": 6
+ },
+ {
+   "SKU": "X9K76RX-ZX",
+   "Product": "H63244 D9 POS-System",
+   "Description": "Core i3-6100T, 2x 320GHz ",
+   "CategoryID": 0,
+   "Price": 1023.5,
+   "Stock": 79
+ },
+ {
+   "SKU": "X9K77RX-ZX",
+   "Product": "M918393 D7 POS-System",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1306.9,
+   "Stock": 103
+ },
+ {
+   "SKU": "X9K78RX-ZX",
+   "Product": "N607195 D2 POS-System",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1066.01,
+   "Stock": 174
+ },
+ {
+   "SKU": "X9K79RX-ZX",
+   "Product": "Q425111 D1 POS-System",
+   "Description": "Celeron G3900T, 2x 260GHz ",
+   "CategoryID": 0,
+   "Price": 601.67,
+   "Stock": 169
+ },
+ {
+   "SKU": "X9K80RX-ZX",
+   "Product": "P857963 D5 POS-System",
+   "Description": "Pentium G4400T, 2x 290GHz ",
+   "CategoryID": 0,
+   "Price": 820.75,
+   "Stock": 36
+ },
+ {
+   "SKU": "X9K81RX-ZX",
+   "Product": "H688484 D3 POS-System",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1156.48,
+   "Stock": 191
+ },
+ {
+   "SKU": "X9K82RX-ZX",
+   "Product": "J496866 D3 POS-System",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1147.79,
+   "Stock": 189
+ },
+ {
+   "SKU": "X9K83RX-ZX",
+   "Product": "N403220 D4 POS-System",
+   "Description": "Core i5-6500T, 4x 250GHz ",
+   "CategoryID": 0,
+   "Price": 1328.7,
+   "Stock": 176
+ },
+ {
+   "SKU": "X9K84RX-ZX",
+   "Product": "N421876 9042 D5 POS-System",
+   "Description": "Core i3-6100, 2x 370GHz ",
+   "CategoryID": 0,
+   "Price": 1791.95,
+   "Stock": 192
+ },
+ {
+   "SKU": "X9K85RX-ZX",
+   "Product": "M88702 9042 D2 POS-System",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 1977.79,
+   "Stock": 20
+ },
+ {
+   "SKU": "X9K86RX-ZX",
+   "Product": "M97475 9042 D9 POS-System",
+   "Description": "Pentium G4400, 2x 330GHz ",
+   "CategoryID": 0,
+   "Price": 2350.03,
+   "Stock": 171
+ },
+ {
+   "SKU": "X9S94RX",
+   "Product": "J66106 Sen 300 D3 AiO",
+   "Description": "Core i3-6100T, 2x 320GHz ",
+   "CategoryID": 0,
+   "Price": 852.99,
+   "Stock": 0
+ },
+ {
+   "SKU": "X9X08RX",
+   "Product": "H33815 Desk 300 D6 MT",
+   "Description": "Core i5-6500, 4x 320GHz ",
+   "CategoryID": 0,
+   "Price": 752.93,
+   "Stock": 87
+ }
+]

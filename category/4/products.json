@@ -1,0 +1,123 @@
+[
+    {
+      "SKU": "C0H18U",
+      "Product": "DataMount M7292/2 D6 Autoloader",
+      "Description": "8 Slots ",
+      "CategoryID": 4,
+      "Price": 4912.58,
+      "Stock": 37
+    },
+    {
+      "SKU": "C0L99U",
+      "Product": "DataMount XQ",
+      "Description": "Kapazität 625TB ",
+      "CategoryID": 4,
+      "Price": 3427.95,
+      "Stock": 39
+    },
+    {
+      "SKU": "EH946U",
+      "Product": "DataMount XA",
+      "Description": "Kapazität 16TB ",
+      "CategoryID": 4,
+      "Price": 2605.47,
+      "Stock": 183
+    },
+    {
+      "SKU": "KL532U",
+      "Product": "DataMount H5621720042",
+      "Description": "48 Slots",
+      "CategoryID": 4,
+      "Price": 13623.09,
+      "Stock": 171
+    },
+    {
+      "SKU": "KL541K",
+      "Product": "DataMount 285829/2 D1 Autoloader",
+      "Description": "8 Slots ",
+      "CategoryID": 4,
+      "Price": 4835.29,
+      "Stock": 104
+    },
+    {
+      "SKU": "L4P51U",
+      "Product": "DataMount MI445129042 4",
+      "Description": "Kapazität 300TB ",
+      "CategoryID": 4,
+      "Price": 6706.03,
+      "Stock": 155
+    },
+    {
+      "SKU": "L4P52U",
+      "Product": "DataMount MH651787042 4",
+      "Description": "Kapazität 300TB ",
+      "CategoryID": 4,
+      "Price": 6439.63,
+      "Stock": 0
+    },
+    {
+      "SKU": "L4P53U",
+      "Product": "DataMount MM568188042 1",
+      "Description": "Kapazität 300TB ",
+      "CategoryID": 4,
+      "Price": 8415.78,
+      "Stock": 163
+    },
+    {
+      "SKU": "L4P54U",
+      "Product": "DataMount MP939466042 1",
+      "Description": "Kapazität 300TB ",
+      "CategoryID": 4,
+      "Price": 8224.73,
+      "Stock": 0
+    },
+    {
+      "SKU": "M9U07U",
+      "Product": "DataMount MSQ5728023 2",
+      "Description": "Typ LTO-6 ",
+      "CategoryID": 4,
+      "Price": 6723.39,
+      "Stock": 120
+    },
+    {
+      "SKU": "M9U08U",
+      "Product": "DataMount L7196291023 2",
+      "Description": "Typ LTO-5 ",
+      "CategoryID": 4,
+      "Price": 4841.3,
+      "Stock": 76
+    },
+    {
+      "SKU": "M9U09U",
+      "Product": "DataMount 54153/2 D6",
+      "Description": "Typ LTO-6 ",
+      "CategoryID": 4,
+      "Price": 5038.21,
+      "Stock": 109
+    },
+    {
+      "SKU": "M9U10U",
+      "Product": "DataMount 19724/2 D5",
+      "Description": "Typ LTO-5 ",
+      "CategoryID": 4,
+      "Price": 3880,
+      "Stock": 39
+    },
+    {
+      "SKU": "UE459K",
+      "Product": "DataMount 9542355/5",
+      "Description": "Typ LTO-6 ",
+      "CategoryID": 4,
+      "Price": 422.69,
+      "Stock": 27
+    },
+    {
+      "SKU": "ZX377U",
+      "Product": "DataMount 78697/2 D4 Autoloader",
+      "Description": "8 Slots ",
+      "CategoryID": 4,
+      "Price": 3609.73,
+      "Stock": 106
+    }
+   ]
+   

@@ -1,0 +1,1107 @@
+[
+    {
+      "SKU": "443529-K21",
+      "Product": "K2957 BL320c",
+      "Description": "2x  Xeon MP E7320, 4x 213GHz ",
+      "CategoryID": 3,
+      "Price": 7874.86,
+      "Stock": 55
+    },
+    {
+      "SKU": "470065-650",
+      "Product": "P29010 DL520p Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 2153.79,
+      "Stock": 145
+    },
+    {
+      "SKU": "470065-652",
+      "Product": "Q936 ML540p Gen5",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 2596.79,
+      "Stock": 123
+    },
+    {
+      "SKU": "470065-654",
+      "Product": "Q99699 DL530p Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 2359.8,
+      "Stock": 35
+    },
+    {
+      "SKU": "470065-822",
+      "Product": "Q8064 DL520p Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 3242.42,
+      "Stock": 182
+    },
+    {
+      "SKU": "487502-421",
+      "Product": "Q88067 DL420 D0",
+      "Description": "1x  Xeon DP E5504, 4x 200GHz, Quad-Core Gainestown\" \"",
+      "CategoryID": 3,
+      "Price": 1585.2,
+      "Stock": 33
+    },
+    {
+      "SKU": "490432-421",
+      "Product": "L82078 DL430 D3",
+      "Description": "1x  Xeon DP L5520, 4x 226GHz, Quad-Core Gainestown\" \"",
+      "CategoryID": 3,
+      "Price": 1967.29,
+      "Stock": 199
+    },
+    {
+      "SKU": "490932-421",
+      "Product": "M409 DL420 D3",
+      "Description": "1x  Xeon UP X3450, 4x 266GHz ",
+      "CategoryID": 3,
+      "Price": 936.79,
+      "Stock": 32
+    },
+    {
+      "SKU": "491335-421",
+      "Product": "P462 DL520 D8",
+      "Description": "1x  Xeon DP L5520, 4x 226GHz, Quad-Core Gainestown\" \"",
+      "CategoryID": 3,
+      "Price": 2855.53,
+      "Stock": 0
+    },
+    {
+      "SKU": "491337-K21",
+      "Product": "J55562 BL324c D5",
+      "Description": "2x Opteron 8387, 4x 280GHz / max. 4 Prozessoren ",
+      "CategoryID": 3,
+      "Price": 9331.51,
+      "Stock": 164
+    },
+    {
+      "SKU": "492334-K21",
+      "Product": "M187 BL320c",
+      "Description": "2x  Xeon MP E7450, 6x 240GHz ",
+      "CategoryID": 3,
+      "Price": 1940.15,
+      "Stock": 167
+    },
+    {
+      "SKU": "492335-K21",
+      "Product": "H68934 BL320c",
+      "Description": "2x  Xeon MP E7440, 4x 240GHz ",
+      "CategoryID": 3,
+      "Price": 1552.11,
+      "Stock": 164
+    },
+    {
+      "SKU": "492336-K21",
+      "Product": "M87242 BL320c",
+      "Description": "2x  Xeon MP E7430, 4x 213GHz ",
+      "CategoryID": 3,
+      "Price": 8707.01,
+      "Stock": 41
+    },
+    {
+      "SKU": "492337-K21",
+      "Product": "H8515 BL320c",
+      "Description": "2x  Xeon MP E7420, 4x 213GHz ",
+      "CategoryID": 3,
+      "Price": 1507.42,
+      "Stock": 178
+    },
+    {
+      "SKU": "500041-K21",
+      "Product": "K68835 BL354c",
+      "Description": "1x Opteron 2384, 4x 270GHz / max. 2 Prozessoren ",
+      "CategoryID": 3,
+      "Price": 2732.14,
+      "Stock": 5
+    },
+    {
+      "SKU": "500922-421",
+      "Product": "H65248 DL425 D9",
+      "Description": "1x Opteron 8380, 4x 250GHz ",
+      "CategoryID": 3,
+      "Price": 10088.26,
+      "Stock": 175
+    },
+    {
+      "SKU": "507339-421",
+      "Product": "I60617 DL425 D5",
+      "Description": "1x Opteron 2374 HE, 4x 220GHz / max. 2 Prozessoren ",
+      "CategoryID": 3,
+      "Price": 2150.55,
+      "Stock": 93
+    },
+    {
+      "SKU": "507782-K21",
+      "Product": "I67131 BL360c D1",
+      "Description": "1x  Xeon DP E5520, 4x 226GHz, Quad-Core Gainestown\" \"",
+      "CategoryID": 3,
+      "Price": 2145.51,
+      "Stock": 110
+    },
+    {
+      "SKU": "516256-421",
+      "Product": "N69060 DL425 D1p",
+      "Description": "1x Opteron 2372 HE, 4x 210GHz / max. 2 Prozessoren ",
+      "CategoryID": 3,
+      "Price": 2786.59,
+      "Stock": 87
+    },
+    {
+      "SKU": "518867-K21",
+      "Product": "K89725 BL364c D2",
+      "Description": "1x Opteron 6128, 8x 200GHz ",
+      "CategoryID": 3,
+      "Price": 2774.61,
+      "Stock": 125
+    },
+    {
+      "SKU": "573090-421",
+      "Product": "H66524 DL524 D2",
+      "Description": "1x Opteron 6128 HE, 8x 200GHz ",
+      "CategoryID": 3,
+      "Price": 2639.27,
+      "Stock": 163
+    },
+    {
+      "SKU": "579240-421",
+      "Product": "L73684 DL530 D1",
+      "Description": "1x  Xeon DP E5640, 4x 267GHz ",
+      "CategoryID": 3,
+      "Price": 3413.87,
+      "Stock": 50
+    },
+    {
+      "SKU": "583967-421",
+      "Product": "K91793 DL520 D6",
+      "Description": "1x  Xeon DP E5640, 4x 267GHz / max. 2 Prozessoren ",
+      "CategoryID": 3,
+      "Price": 3658.29,
+      "Stock": 23
+    },
+    {
+      "SKU": "589152-421",
+      "Product": "P8143 DL520 D5",
+      "Description": "1x  Xeon DP E5620, 4x 240GHz / max. 2 Prozessoren ",
+      "CategoryID": 3,
+      "Price": 1541.14,
+      "Stock": 31
+    },
+    {
+      "SKU": "603251-K21",
+      "Product": "K3905 BL360c D7",
+      "Description": "1x  Xeon DP X5670, 6x 293GHz ",
+      "CategoryID": 3,
+      "Price": 4387.49,
+      "Stock": 103
+    },
+    {
+      "SKU": "633405-421",
+      "Product": "M1496 DL520 D9",
+      "Description": "1x  Xeon DP E5649, 6x 253GHz, 2x 3.16GHz ",
+      "CategoryID": 3,
+      "Price": 2127.63,
+      "Stock": 51
+    },
+    {
+      "SKU": "641458-425",
+      "Product": "L75891 DL430 D2",
+      "Description": "1x  Xeon DP E5606, 4x 213GHz ",
+      "CategoryID": 3,
+      "Price": 1140.51,
+      "Stock": 59
+    },
+    {
+      "SKU": "642105-421",
+      "Product": "L51140 DL520p Gen4",
+      "Description": "2x  Xeon E5-2665, 8x 240GHz ",
+      "CategoryID": 3,
+      "Price": 11095.1,
+      "Stock": 149
+    },
+    {
+      "SKU": "642106-421",
+      "Product": "Q5558 DL520p Gen4",
+      "Description": "2x  Xeon E5-2650, 8x 200GHz ",
+      "CategoryID": 3,
+      "Price": 2724.88,
+      "Stock": 78
+    },
+    {
+      "SKU": "642107-421",
+      "Product": "O12128 DL520p Gen4",
+      "Description": "1x  Xeon E5-2640, 6x 250GHz ",
+      "CategoryID": 3,
+      "Price": 2660.64,
+      "Stock": 198
+    },
+    {
+      "SKU": "642119-421",
+      "Product": "L4362 DL520p Gen4",
+      "Description": "1x  Xeon E5-2630, 6x 230GHz ",
+      "CategoryID": 3,
+      "Price": 4053.87,
+      "Stock": 8
+    },
+    {
+      "SKU": "642120-421",
+      "Product": "O101 DL520p Gen4",
+      "Description": "1x  Xeon E5-2620, 6x 200GHz ",
+      "CategoryID": 3,
+      "Price": 2100.38,
+      "Stock": 87
+    },
+    {
+      "SKU": "642121-421",
+      "Product": "J68890 DL520p Gen4",
+      "Description": "1x  Xeon E5-2609, 4x 240GHz ",
+      "CategoryID": 3,
+      "Price": 1904.18,
+      "Stock": 0
+    },
+    {
+      "SKU": "642137-421",
+      "Product": "L20582 DL524p Gen5",
+      "Description": "Chipsatz SR5690 ",
+      "CategoryID": 3,
+      "Price": 3285.22,
+      "Stock": 198
+    },
+    {
+      "SKU": "646675-421",
+      "Product": "P4490 ML530p Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 2124.72,
+      "Stock": 99
+    },
+    {
+      "SKU": "646676-421",
+      "Product": "N22455 ML530p Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 2106.92,
+      "Stock": 16
+    },
+    {
+      "SKU": "646900-421",
+      "Product": "J98822 DL530p Gen4",
+      "Description": "1x  Xeon E5-2603, 4x 180GHz ",
+      "CategoryID": 3,
+      "Price": 2722.7,
+      "Stock": 157
+    },
+    {
+      "SKU": "646902-421",
+      "Product": "O860 DL530p Gen4",
+      "Description": "1x  Xeon E5-2640, 6x 250GHz ",
+      "CategoryID": 3,
+      "Price": 2959.3,
+      "Stock": 24
+    },
+    {
+      "SKU": "646904-421",
+      "Product": "N20452 DL530p Gen4",
+      "Description": "2x  Xeon E5-2650, 8x 200GHz ",
+      "CategoryID": 3,
+      "Price": 4177.92,
+      "Stock": 129
+    },
+    {
+      "SKU": "646905-421",
+      "Product": "H61557 DL530p Gen4",
+      "Description": "2x  Xeon E5-2690, 8x 290GHz ",
+      "CategoryID": 3,
+      "Price": 5375.32,
+      "Stock": 51
+    },
+    {
+      "SKU": "648255-421",
+      "Product": "N65240 DL520e Gen4",
+      "Description": "1x  Xeon E5-2403, 4x 180GHz ",
+      "CategoryID": 3,
+      "Price": 1965.65,
+      "Stock": 40
+    },
+    {
+      "SKU": "648256-421",
+      "Product": "N57618 DL520e Gen4",
+      "Description": "1x  Xeon E5-2403, 4x 180GHz ",
+      "CategoryID": 3,
+      "Price": 1999.75,
+      "Stock": 50
+    },
+    {
+      "SKU": "662082-421",
+      "Product": "N43860 DL430 Gen5",
+      "Description": "1x  Xeon E5-2603, 4x 180GHz ",
+      "CategoryID": 3,
+      "Price": 1492.09,
+      "Stock": 151
+    },
+    {
+      "SKU": "662257-421",
+      "Product": "K3986 DL520p Gen4",
+      "Description": "2x  Xeon E5-2690, 8x 290GHz ",
+      "CategoryID": 3,
+      "Price": 6263.67,
+      "Stock": 190
+    },
+    {
+      "SKU": "666157-K21",
+      "Product": "J21279 BL360c Gen4",
+      "Description": "1x  2x Xeon DP X5670, 6x 293GHz ",
+      "CategoryID": 3,
+      "Price": 4815.57,
+      "Stock": 0
+    },
+    {
+      "SKU": "666158-K21",
+      "Product": "O15182 BL360c Gen4",
+      "Description": "2x  Xeon E5-2660, 8x 220GHz ",
+      "CategoryID": 3,
+      "Price": 9367.47,
+      "Stock": 108
+    },
+    {
+      "SKU": "666159-K21",
+      "Product": "N45776 BL360c Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 3151.14,
+      "Stock": 84
+    },
+    {
+      "SKU": "666160-K21",
+      "Product": "H3348 BL360c Gen4",
+      "Description": "1x  Xeon E5-2640, 6x 250GHz ",
+      "CategoryID": 3,
+      "Price": 3114.08,
+      "Stock": 25
+    },
+    {
+      "SKU": "666161-K21",
+      "Product": "J64960 BL360c Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 2092.75,
+      "Stock": 121
+    },
+    {
+      "SKU": "666163-K21",
+      "Product": "H22801 BL360c Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 4795.12,
+      "Stock": 134
+    },
+    {
+      "SKU": "668357-K21",
+      "Product": "BQ421520c Gen4",
+      "Description": "1x  Xeon E5-2430, 6x 220GHz ",
+      "CategoryID": 3,
+      "Price": 2595.28,
+      "Stock": 140
+    },
+    {
+      "SKU": "668665-421",
+      "Product": "I89928 DL520e Gen4",
+      "Description": "1x  Xeon E5-2407, 4x 220GHz ",
+      "CategoryID": 3,
+      "Price": 2629.61,
+      "Stock": 21
+    },
+    {
+      "SKU": "668666-421",
+      "Product": "K61974 DL520e Gen4",
+      "Description": "1x  Xeon E5-2407, 4x 220GHz ",
+      "CategoryID": 3,
+      "Price": 3067.79,
+      "Stock": 75
+    },
+    {
+      "SKU": "668667-421",
+      "Product": "N67497 DL520e Gen4",
+      "Description": "1x  Xeon E5-2420, 6x 190GHz ",
+      "CategoryID": 3,
+      "Price": 3726.81,
+      "Stock": 191
+    },
+    {
+      "SKU": "668668-421",
+      "Product": "K50768 DL520e Gen4",
+      "Description": "1x  Xeon E5-2420, 6x 190GHz ",
+      "CategoryID": 3,
+      "Price": 4317.65,
+      "Stock": 127
+    },
+    {
+      "SKU": "668813-421",
+      "Product": "I99236 DL530e Gen4",
+      "Description": "1x  Xeon E5-2403, 4x 180GHz ",
+      "CategoryID": 3,
+      "Price": 1961.91,
+      "Stock": 112
+    },
+    {
+      "SKU": "668815-421",
+      "Product": "Q682 DL530e Gen4",
+      "Description": "2x  Xeon E5-2430, 6x 220GHz ",
+      "CategoryID": 3,
+      "Price": 5840.11,
+      "Stock": 175
+    },
+    {
+      "SKU": "675420-421",
+      "Product": "L50737 DL520e Gen4",
+      "Description": "Chipsatz C204 ",
+      "CategoryID": 3,
+      "Price": 790.4,
+      "Stock": 19
+    },
+    {
+      "SKU": "677198-421",
+      "Product": "K93338 DL530p Gen4",
+      "Description": "2x  Xeon E5-2603, 4x 180GHz ",
+      "CategoryID": 3,
+      "Price": 2518.43,
+      "Stock": 153
+    },
+    {
+      "SKU": "677278-421",
+      "Product": "J98451 DL520p Gen4",
+      "Description": "2x  Xeon E5-2630, 6x 230GHz ",
+      "CategoryID": 3,
+      "Price": 6419.66,
+      "Stock": 150
+    },
+    {
+      "SKU": "678237-041",
+      "Product": "M42523 ML540p Gen5",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 6930.95,
+      "Stock": 68
+    },
+    {
+      "SKU": "686134-425",
+      "Product": "K56901 DL520e Gen4",
+      "Description": "Chipsatz C204 ",
+      "CategoryID": 3,
+      "Price": 1232.84,
+      "Stock": 120
+    },
+    {
+      "SKU": "687567-425",
+      "Product": "L16289 DL520e Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 1155.39,
+      "Stock": 52
+    },
+    {
+      "SKU": "703930-421",
+      "Product": "Q82893 DL524p Gen5",
+      "Description": "Chipsatz SR5690 ",
+      "CategoryID": 3,
+      "Price": 3204.14,
+      "Stock": 45
+    },
+    {
+      "SKU": "703931-421",
+      "Product": "I87439 DL524p Gen5",
+      "Description": "Chipsatz SR5690 ",
+      "CategoryID": 3,
+      "Price": 4890.82,
+      "Stock": 186
+    },
+    {
+      "SKU": "704558-421",
+      "Product": "H8906 DL520p Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 5796.57,
+      "Stock": 93
+    },
+    {
+      "SKU": "704559-421",
+      "Product": "J35748 DL520p Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 1852.95,
+      "Stock": 141
+    },
+    {
+      "SKU": "709942-421",
+      "Product": "H4117 DL520p Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 5934.23,
+      "Stock": 0
+    },
+    {
+      "SKU": "710723-421",
+      "Product": "P36712 DL524p Gen5",
+      "Description": "Chipsatz SR5690 ",
+      "CategoryID": 3,
+      "Price": 2333,
+      "Stock": 15
+    },
+    {
+      "SKU": "717170-421",
+      "Product": "K72781 DL520e Gen4 v2",
+      "Description": "Chipsatz C222 ",
+      "CategoryID": 3,
+      "Price": 1121.99,
+      "Stock": 118
+    },
+    {
+      "SKU": "724082-K21",
+      "Product": "L6870 BL360c Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 4913.67,
+      "Stock": 99
+    },
+    {
+      "SKU": "724083-K21",
+      "Product": "H9652 BL360c Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 4448.24,
+      "Stock": 81
+    },
+    {
+      "SKU": "724085-K21",
+      "Product": "H38279 BL360c Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 3010.47,
+      "Stock": 134
+    },
+    {
+      "SKU": "724086-K21",
+      "Product": "M51404 BL360c Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 3059.07,
+      "Stock": 48
+    },
+    {
+      "SKU": "727026-K21",
+      "Product": "M96246 BL360c Gen4",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 2305.88,
+      "Stock": 100
+    },
+    {
+      "SKU": "727027-K21",
+      "Product": "K68938 BL360c Gen4",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1995.99,
+      "Stock": 121
+    },
+    {
+      "SKU": "727028-K21",
+      "Product": "Q89994 BL360c Gen4",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 3048.93,
+      "Stock": 104
+    },
+    {
+      "SKU": "727029-K21",
+      "Product": "I90 BL360c Gen4",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 4331,
+      "Stock": 50
+    },
+    {
+      "SKU": "727030-K21",
+      "Product": "I41673 BL360c Gen4",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 6028.44,
+      "Stock": 0
+    },
+    {
+      "SKU": "727031-K21",
+      "Product": "Q4421 BL360c Gen4",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 7861.61,
+      "Stock": 107
+    },
+    {
+      "SKU": "733644-425",
+      "Product": "P729 DL520p Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 4185.35,
+      "Stock": 12
+    },
+    {
+      "SKU": "733738-421",
+      "Product": "O251 DL530p Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 5340.52,
+      "Stock": 160
+    },
+    {
+      "SKU": "733739-421",
+      "Product": "K2727 DL530p Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 5532.79,
+      "Stock": 59
+    },
+    {
+      "SKU": "737287-425",
+      "Product": "I5518 DL530p Gen4",
+      "Description": "Chipsatz C600 ",
+      "CategoryID": 3,
+      "Price": 2805.82,
+      "Stock": 116
+    },
+    {
+      "SKU": "752686-K21",
+      "Product": "P4653 DL520 Gen3",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 1464.91,
+      "Stock": 12
+    },
+    {
+      "SKU": "752687-K21",
+      "Product": "I6244 DL520 Gen3",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 1984.56,
+      "Stock": 24
+    },
+    {
+      "SKU": "752688-K21",
+      "Product": "K33262 DL520 Gen3",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 2530.93,
+      "Stock": 69
+    },
+    {
+      "SKU": "752689-K21",
+      "Product": "O3034 DL520 Gen3",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 4912.58,
+      "Stock": 119
+    },
+    {
+      "SKU": "755260-K21",
+      "Product": "Enterprise 3170526 DL530p Gen6",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 1077.36,
+      "Stock": 120
+    },
+    {
+      "SKU": "755262-K21",
+      "Product": "Enterprise L296780 DL530p Gen6",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 2194.12,
+      "Stock": 114
+    },
+    {
+      "SKU": "755263-K21",
+      "Product": "Enterprise J67781 DL530p Gen6",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 4583.4,
+      "Stock": 134
+    },
+    {
+      "SKU": "760133-K21",
+      "Product": "H9567 m100 Server",
+      "Description": "Chipsatz C2000 (SoC) ",
+      "CategoryID": 3,
+      "Price": 1309.38,
+      "Stock": 83
+    },
+    {
+      "SKU": "765821-421",
+      "Product": "J82155 ML540 Gen3",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 3408.92,
+      "Stock": 43
+    },
+    {
+      "SKU": "768345-425",
+      "Product": "K43934 DL520 Gen3",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 1890.47,
+      "Stock": 155
+    },
+    {
+      "SKU": "769504-K21",
+      "Product": "I5994 DL430 Gen6",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 2226.99,
+      "Stock": 17
+    },
+    {
+      "SKU": "769505-K21",
+      "Product": "N38209 DL430 Gen6",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 2613.31,
+      "Stock": 50
+    },
+    {
+      "SKU": "769506-K21",
+      "Product": "H1822 DL430 Gen6",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 5283.43,
+      "Stock": 60
+    },
+    {
+      "SKU": "774435-425",
+      "Product": "Enterprise L48569 DL530p Gen6",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 1774.51,
+      "Stock": 195
+    },
+    {
+      "SKU": "776973-425",
+      "Product": "J32343 ML540 Gen3",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 2323.72,
+      "Stock": 0
+    },
+    {
+      "SKU": "777394-K21",
+      "Product": "O99518 DL30 Gen6",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 1315,
+      "Stock": 169
+    },
+    {
+      "SKU": "777424-K21",
+      "Product": "N3341 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1377.64,
+      "Stock": 57
+    },
+    {
+      "SKU": "778452-K21",
+      "Product": "J7347 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1084.21,
+      "Stock": 88
+    },
+    {
+      "SKU": "778453-K21",
+      "Product": "P370 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1856.63,
+      "Stock": 64
+    },
+    {
+      "SKU": "778454-K21",
+      "Product": "O86710 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1339.83,
+      "Stock": 50
+    },
+    {
+      "SKU": "778455-K21",
+      "Product": "Q79649 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1369.14,
+      "Stock": 91
+    },
+    {
+      "SKU": "778456-K21",
+      "Product": "H68887 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 3052.87,
+      "Stock": 46
+    },
+    {
+      "SKU": "778457-K21",
+      "Product": "H23968 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 6996.64,
+      "Stock": 165
+    },
+    {
+      "SKU": "783361-425",
+      "Product": "L48712 DL430 Gen6",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1429.63,
+      "Stock": 71
+    },
+    {
+      "SKU": "783362-425",
+      "Product": "I7229 DL430 Gen6",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1396.76,
+      "Stock": 155
+    },
+    {
+      "SKU": "783363-425",
+      "Product": "L23442 DL430 Gen6",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1864.13,
+      "Stock": 144
+    },
+    {
+      "SKU": "784104-425",
+      "Product": "L9418 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1114.67,
+      "Stock": 154
+    },
+    {
+      "SKU": "784105-425",
+      "Product": "M90922 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1108.31,
+      "Stock": 129
+    },
+    {
+      "SKU": "784106-425",
+      "Product": "K89416 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1172.04,
+      "Stock": 152
+    },
+    {
+      "SKU": "785836-K21",
+      "Product": "N4024 DL30 Gen6",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 1594.11,
+      "Stock": 38
+    },
+    {
+      "SKU": "788078-425",
+      "Product": "O58819 DL30 Gen6",
+      "Description": "1x  Xeon E5-2603 v3, 6x 160GHz ",
+      "CategoryID": 3,
+      "Price": 1076.81,
+      "Stock": 133
+    },
+    {
+      "SKU": "788095-425",
+      "Product": "Q70487 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1250.64,
+      "Stock": 22
+    },
+    {
+      "SKU": "788096-425",
+      "Product": "L75816 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1253.3,
+      "Stock": 142
+    },
+    {
+      "SKU": "788148-425",
+      "Product": "Q19811 DL20 Gen3",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 1037.67,
+      "Stock": 11
+    },
+    {
+      "SKU": "803860-K21",
+      "Product": "K87129 DL520 Gen3",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 8357.14,
+      "Stock": 174
+    },
+    {
+      "SKU": "818208-K21",
+      "Product": "Enterprise 52822 DL530 Gen6",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 2359.8,
+      "Stock": 56
+    },
+    {
+      "SKU": "818209-K21",
+      "Product": "Enterprise H75403 DL530 Gen6",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 4981.25,
+      "Stock": 110
+    },
+    {
+      "SKU": "823559-K21",
+      "Product": "H9596 DL20 Gen3",
+      "Description": "Chipsatz C232 ",
+      "CategoryID": 3,
+      "Price": 1198.97,
+      "Stock": 0
+    },
+    {
+      "SKU": "823562-K21",
+      "Product": "Q97873 DL20 Gen3",
+      "Description": "Chipsatz C232 ",
+      "CategoryID": 3,
+      "Price": 1356.98,
+      "Stock": 127
+    },
+    {
+      "SKU": "830572-K21",
+      "Product": "L50633 DL430 Gen6",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1837.16,
+      "Stock": 0
+    },
+    {
+      "SKU": "830701-425",
+      "Product": "N29376 DL20 Gen3",
+      "Description": "Chipsatz C232 ",
+      "CategoryID": 3,
+      "Price": 687.58,
+      "Stock": 199
+    },
+    {
+      "SKU": "830702-425",
+      "Product": "K5250 DL20 Gen3",
+      "Description": "Chipsatz C232 ",
+      "CategoryID": 3,
+      "Price": 666.97,
+      "Stock": 108
+    },
+    {
+      "SKU": "843374-425",
+      "Product": "Enterprise 3742907 DL530 Gen6",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 1329.69,
+      "Stock": 144
+    },
+    {
+      "SKU": "860070-425",
+      "Product": "O81406 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1127.69,
+      "Stock": 71
+    },
+    {
+      "SKU": "860103-425",
+      "Product": "H72402 DL430 Gen6",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1609.16,
+      "Stock": 123
+    },
+    {
+      "SKU": "860104-425",
+      "Product": "K90317 DL420 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1858.43,
+      "Stock": 96
+    },
+    {
+      "SKU": "M2G21U",
+      "Product": "2O38506120 Gen3",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1343.86,
+      "Stock": 195
+    },
+    {
+      "SKU": "M3G77U",
+      "Product": "H8814 DL520 Gen3",
+      "Description": "Chipsatz C610 ",
+      "CategoryID": 3,
+      "Price": 2504.68,
+      "Stock": 40
+    },
+    {
+      "SKU": "N1W94U",
+      "Product": "K93268 BL360c Gen4",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 1711.25,
+      "Stock": 0
+    },
+    {
+      "SKU": "N2G74U",
+      "Product": "Q68613 BL360c Gen4",
+      "Description": "Chipsatz C612 ",
+      "CategoryID": 3,
+      "Price": 3312.24,
+      "Stock": 102
+    },
+    {
+      "SKU": "P9H89U",
+      "Product": "M83935 DL20 Gen3",
+      "Description": "Chipsatz C232 ",
+      "CategoryID": 3,
+      "Price": 992.34,
+      "Stock": 20
+    },
+    {
+      "SKU": "UM445U",
+      "Product": "M89227 DL520 D1",
+      "Description": "4x  Xeon X6540, 6x 200GHz ",
+      "CategoryID": 3,
+      "Price": 17476.48,
+      "Stock": 183
+    },
+    {
+      "SKU": "UM447U",
+      "Product": "I26472 DL520 D9",
+      "Description": "Chipsatz 7500 ",
+      "CategoryID": 3,
+      "Price": 65553.6,
+      "Stock": 33
+    },
+    {
+      "SKU": "UM448U",
+      "Product": "K83841 DL520 D5",
+      "Description": "Chipsatz 7500 ",
+      "CategoryID": 3,
+      "Price": 52022.91,
+      "Stock": 74
+    }
+   ]
+   

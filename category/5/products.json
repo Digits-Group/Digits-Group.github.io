@@ -1,0 +1,2123 @@
+[
+    {
+      "SKU": "658247-K21",
+      "Product": "L1665615G",
+      "Description": "4x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 974.99,
+      "Stock": 0
+    },
+    {
+      "SKU": "658250-K21",
+      "Product": "K3884715G/XG",
+      "Description": "4x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 2592.55,
+      "Stock": 0
+    },
+    {
+      "SKU": "C8R07U",
+      "Product": "Data J61427 2/13 SAN-Switch",
+      "Description": "24x Fibre Channel 16Gb/s ",
+      "CategoryID": 5,
+      "Price": 8210.65,
+      "Stock": 49
+    },
+    {
+      "SKU": "C8R08U",
+      "Product": "Data N586180 SN3000B 62/14 SAN-Switch",
+      "Description": "48x Fibre Channel 16Gb/s ",
+      "CategoryID": 5,
+      "Price": 22500.31,
+      "Stock": 57
+    },
+    {
+      "SKU": "GG304U",
+      "Product": "P34115400-2 SI",
+      "Description": "8x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 416.35,
+      "Stock": 81
+    },
+    {
+      "SKU": "GG311U",
+      "Product": "H991400 EI Switch",
+      "Description": "8x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 284.2,
+      "Stock": 145
+    },
+    {
+      "SKU": "GG313K",
+      "Product": "K3518600-13-PoE v2",
+      "Description": "24x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 1553.05,
+      "Stock": 0
+    },
+    {
+      "SKU": "GG314U",
+      "Product": "N37455400 EI Switch",
+      "Description": "16x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 782.15,
+      "Stock": 102
+    },
+    {
+      "SKU": "GG315U",
+      "Product": "N78083400 EI Switch",
+      "Description": "24x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 258.96,
+      "Stock": 91
+    },
+    {
+      "SKU": "GG316U",
+      "Product": "O94851400 EI Switch",
+      "Description": "48x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 1054.54,
+      "Stock": 78
+    },
+    {
+      "SKU": "GG318K",
+      "Product": "H6311000-2 v1 EI",
+      "Description": "8x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 393.48,
+      "Stock": 54
+    },
+    {
+      "SKU": "GG318U",
+      "Product": "L36175400 EI Switch",
+      "Description": "48x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 695.25,
+      "Stock": 116
+    },
+    {
+      "SKU": "GG319K",
+      "Product": "M477400-13 v1 EI",
+      "Description": "16x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 751.45,
+      "Stock": 28
+    },
+    {
+      "SKU": "GG319U",
+      "Product": "K79527400 EI Switch",
+      "Description": "16x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 85.8,
+      "Stock": 100
+    },
+    {
+      "SKU": "GG320K",
+      "Product": "Q2752300-13 v2 EI",
+      "Description": "24x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 882.34,
+      "Stock": 133
+    },
+    {
+      "SKU": "GG325U",
+      "Product": "O8157 A5300-26-PoE SI",
+      "Description": "24x 100Base-TX (PoE) ",
+      "CategoryID": 5,
+      "Price": 630.39,
+      "Stock": 99
+    },
+    {
+      "SKU": "GG327U",
+      "Product": "P7273 A5300-26-PoE SI",
+      "Description": "48x 100Base-TX (PoE) ",
+      "CategoryID": 5,
+      "Price": 1721.25,
+      "Stock": 132
+    },
+    {
+      "SKU": "GG329U",
+      "Product": "K505900-16TP SI",
+      "Description": "24x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 739.35,
+      "Stock": 172
+    },
+    {
+      "SKU": "GG330U",
+      "Product": "K26800-16 SI",
+      "Description": "24x 100Base-TX (PoE) ",
+      "CategoryID": 5,
+      "Price": 1599.32,
+      "Stock": 130
+    },
+    {
+      "SKU": "GG332U",
+      "Product": "N1647300-62 SI",
+      "Description": "48x 100Base-TX",
+      "CategoryID": 5,
+      "Price": 374.91,
+      "Stock": 0
+    },
+    {
+      "SKU": "GG333U",
+      "Product": "M7690 A5300-62 EI",
+      "Description": "48x 100Base-TX (PoE) ",
+      "CategoryID": 5,
+      "Price": 652.44,
+      "Stock": 130
+    },
+    {
+      "SKU": "GG334U",
+      "Product": "Q27895 A5300-26-SFP EI",
+      "Description": "24x SFP ",
+      "CategoryID": 5,
+      "Price": 980.89,
+      "Stock": 83
+    },
+    {
+      "SKU": "GG336U",
+      "Product": "L98940340-16-4G",
+      "Description": "24x 100Base-TX",
+      "CategoryID": 5,
+      "Price": 2869.19,
+      "Stock": 93
+    },
+    {
+      "SKU": "GG369U",
+      "Product": "N75949500-13G SI",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 854.15,
+      "Stock": 81
+    },
+    {
+      "SKU": "GG370U",
+      "Product": "O9496500-32G SI",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 3013.84,
+      "Stock": 129
+    },
+    {
+      "SKU": "GG372U",
+      "Product": "N5973500-32G-PoE SI",
+      "Description": "48x 1000Base-T (PoE) ",
+      "CategoryID": 5,
+      "Price": 3332.25,
+      "Stock": 85
+    },
+    {
+      "SKU": "GG374U",
+      "Product": "H39457500-13G-SFP EI",
+      "Description": "8x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 3793.73,
+      "Stock": 45
+    },
+    {
+      "SKU": "GG377U",
+      "Product": "I2741500-13G EI",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 2144.49,
+      "Stock": 77
+    },
+    {
+      "SKU": "GG378U",
+      "Product": "N33351500-13G-PoE EI",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 2956.09,
+      "Stock": 46
+    },
+    {
+      "SKU": "GG8433U",
+      "Product": "L9635 3600cl-6XG",
+      "Description": "6x 10GBase CX4 Slot ",
+      "CategoryID": 5,
+      "Price": 5191.19,
+      "Stock": 125
+    },
+    {
+      "SKU": "GG8474U",
+      "Product": "Q90656 3640cl-6XG",
+      "Description": "6x 10GBase CX4 Slot ",
+      "CategoryID": 5,
+      "Price": 5942.48,
+      "Stock": 121
+    },
+    {
+      "SKU": "GG858U",
+      "Product": "Q725705-16",
+      "Description": "16x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 60.92,
+      "Stock": 3
+    },
+    {
+      "SKU": "GG864U",
+      "Product": "H42808 Switch V4505-10G-PoE",
+      "Description": "10x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 443.61,
+      "Stock": 139
+    },
+    {
+      "SKU": "GG869U",
+      "Product": "L1413605-5G",
+      "Description": "5x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 39.76,
+      "Stock": 0
+    },
+    {
+      "SKU": "GG8772K",
+      "Product": "Switch Q9862202vl-12",
+      "Description": "72x 100Base-TX (3x J8765A) ",
+      "CategoryID": 5,
+      "Price": 2261.74,
+      "Stock": 148
+    },
+    {
+      "SKU": "GG9019K",
+      "Product": "I26079 Switch 2450-23",
+      "Description": "24x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 350.17,
+      "Stock": 106
+    },
+    {
+      "SKU": "GG9064U",
+      "Product": "K43169 Switch 3204vl-42GS",
+      "Description": "44x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 1530.35,
+      "Stock": 0
+    },
+    {
+      "SKU": "GG9086U",
+      "Product": "M53337 Switch 2340-26/12PWR",
+      "Description": "24x 100Base-TX (12x PoE 154W) ",
+      "CategoryID": 5,
+      "Price": 834.04,
+      "Stock": 181
+    },
+    {
+      "SKU": "GG9137U",
+      "Product": "N5823 Switch 2420-2-PoE",
+      "Description": "8x 100Base-TX (PoE)",
+      "CategoryID": 5,
+      "Price": 591.48,
+      "Stock": 98
+    },
+    {
+      "SKU": "GG9145U",
+      "Product": "N21808 Switch 2540al-23G",
+      "Description": "24x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 886.19,
+      "Stock": 165
+    },
+    {
+      "SKU": "GG9146U",
+      "Product": "K6279 Switch 2540al-23G-PWR",
+      "Description": "24x 1000Base-T (PoE)",
+      "CategoryID": 5,
+      "Price": 873.33,
+      "Stock": 70
+    },
+    {
+      "SKU": "GG9147U",
+      "Product": "M87269 Switch 2540al-32G",
+      "Description": "48x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 937.39,
+      "Stock": 47
+    },
+    {
+      "SKU": "GG9263U",
+      "Product": "I34299 Switch 3600-26G",
+      "Description": "24x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 579.87,
+      "Stock": 112
+    },
+    {
+      "SKU": "GG9265U",
+      "Product": "Q6541 Switch 3600-26XG",
+      "Description": "24x SFP ",
+      "CategoryID": 5,
+      "Price": 10850.24,
+      "Stock": 90
+    },
+    {
+      "SKU": "GG9279U",
+      "Product": "L4691 Switch 2450-23G",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 1333.42,
+      "Stock": 0
+    },
+    {
+      "SKU": "GG9310U",
+      "Product": "Q55259 Switch 5400yl-23G-PoE+ yl",
+      "Description": "20x 1000Base-T (24x PoE+) ",
+      "CategoryID": 5,
+      "Price": 1722.19,
+      "Stock": 87
+    },
+    {
+      "SKU": "GG9311U",
+      "Product": "O97287 Switch 5400yl-32G-PWR",
+      "Description": "44x 1000Base-T (48x PoE)",
+      "CategoryID": 5,
+      "Price": 4596.86,
+      "Stock": 40
+    },
+    {
+      "SKU": "GG9448U",
+      "Product": "I46412 Switch 4352zl-56G-PoE+",
+      "Description": "96x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 7233.93,
+      "Stock": 2
+    },
+    {
+      "SKU": "GG9449U",
+      "Product": "M24797 Switch 4210-6G",
+      "Description": "8x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 244.65,
+      "Stock": 32
+    },
+    {
+      "SKU": "GG9452U",
+      "Product": "J38161 3600-62G-4XG",
+      "Description": "48x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 5274.01,
+      "Stock": 84
+    },
+    {
+      "SKU": "GG9470U",
+      "Product": "O24465 5400-23",
+      "Description": "24x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 2295.87,
+      "Stock": 5
+    },
+    {
+      "SKU": "GG9472U",
+      "Product": "Q71494 5400-32",
+      "Description": "40x 100Base-TX",
+      "CategoryID": 5,
+      "Price": 474.14,
+      "Stock": 193
+    },
+    {
+      "SKU": "GG9473U",
+      "Product": "P65638 5400-32-PoE",
+      "Description": "44x 100Base-TX (48x PoE)",
+      "CategoryID": 5,
+      "Price": 4526.19,
+      "Stock": 44
+    },
+    {
+      "SKU": "GG9532U",
+      "Product": "J7532351-52G-PoE+/2XG-SFP+ v2 zl",
+      "Description": "96x 1000Base-T (PoE+)",
+      "CategoryID": 5,
+      "Price": 5604.77,
+      "Stock": 183
+    },
+    {
+      "SKU": "GG9533U",
+      "Product": "O1308306-44G-PoE+/4G-SFP v1 zl",
+      "Description": "44x 1000Base-T (PoE+)",
+      "CategoryID": 5,
+      "Price": 3629.69,
+      "Stock": 79
+    },
+    {
+      "SKU": "GG9539U",
+      "Product": "I29457306-44G-PoE+/4G-SFP v1 zl",
+      "Description": "44x 1000Base-T (PoE+)",
+      "CategoryID": 5,
+      "Price": 3300.51,
+      "Stock": 63
+    },
+    {
+      "SKU": "GG9540U",
+      "Product": "P64337351-52G-PoE+/4G-SFP v2 zl",
+      "Description": "92x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 6717.66,
+      "Stock": 54
+    },
+    {
+      "SKU": "GG9562U",
+      "Product": "Q25171 Switch 2545-2G-PoE",
+      "Description": "8x 1000Base-T (PoE)",
+      "CategoryID": 5,
+      "Price": 673.97,
+      "Stock": 88
+    },
+    {
+      "SKU": "GG9573U",
+      "Product": "P387800-13G-PoE+-2SFP+",
+      "Description": "24x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 2991.11,
+      "Stock": 191
+    },
+    {
+      "SKU": "GG9575U",
+      "Product": "H65371200-13G-2SFP+",
+      "Description": "24x 1000Base-T (PoE)",
+      "CategoryID": 5,
+      "Price": 2886.76,
+      "Stock": 182
+    },
+    {
+      "SKU": "GG9576U",
+      "Product": "H48143200-36G-4SFP+",
+      "Description": "48x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 4056.91,
+      "Stock": 70
+    },
+    {
+      "SKU": "GG9584U",
+      "Product": "N12902200-13SFP-2SFP+",
+      "Description": "24x SFP ",
+      "CategoryID": 5,
+      "Price": 5158.51,
+      "Stock": 136
+    },
+    {
+      "SKU": "GG9585U",
+      "Product": "I47976200-13G-2XG",
+      "Description": "24x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 3313.59,
+      "Stock": 163
+    },
+    {
+      "SKU": "GG9586U",
+      "Product": "M28372200-36G-4XG",
+      "Description": "48x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 5564.44,
+      "Stock": 40
+    },
+    {
+      "SKU": "GG9587U",
+      "Product": "K7651200-13G-PoE+-2XG",
+      "Description": "24x 1000Base-T (PoE+)",
+      "CategoryID": 5,
+      "Price": 2465.14,
+      "Stock": 0
+    },
+    {
+      "SKU": "GG9588U",
+      "Product": "L5423200-36G-PoE+-4XG",
+      "Description": "48x 1000Base-T (PoE+)",
+      "CategoryID": 5,
+      "Price": 3542.49,
+      "Stock": 44
+    },
+    {
+      "SKU": "GG9623U",
+      "Product": "K86312 Switch 2320-26",
+      "Description": "24x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 195.38,
+      "Stock": 85
+    },
+    {
+      "SKU": "GG9624U",
+      "Product": "K5916 Switch 2320-26-PPoE+",
+      "Description": "24x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 424.77,
+      "Stock": 2
+    },
+    {
+      "SKU": "GG9625U",
+      "Product": "Q62067 Switch 2320-26-PoE+",
+      "Description": "24x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 790.14,
+      "Stock": 51
+    },
+    {
+      "SKU": "GG9626U",
+      "Product": "P39850 Switch 2320-62",
+      "Description": "48x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 343.34,
+      "Stock": 65
+    },
+    {
+      "SKU": "GG9627U",
+      "Product": "I16803 Switch 2320-62-PoE+",
+      "Description": "48x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 1031.07,
+      "Stock": 194
+    },
+    {
+      "SKU": "GG9638U",
+      "Product": "H916103-64G-PoE+-2XG v2 zl",
+      "Description": "44x 1000Base-T (PoE+)",
+      "CategoryID": 5,
+      "Price": 5438.54,
+      "Stock": 0
+    },
+    {
+      "SKU": "GG9639U",
+      "Product": "I1143242-52G-PoE+-2XG v2 zl",
+      "Description": "92x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 16670.45,
+      "Stock": 73
+    },
+    {
+      "SKU": "GG9661U",
+      "Product": "Q942810-2",
+      "Description": "8x 100Base-TX",
+      "CategoryID": 5,
+      "Price": 40.22,
+      "Stock": 140
+    },
+    {
+      "SKU": "GG9663U",
+      "Product": "H309210-14",
+      "Description": "24x 100Base-TX",
+      "CategoryID": 5,
+      "Price": 55.23,
+      "Stock": 42
+    },
+    {
+      "SKU": "GG9664U",
+      "Product": "N8648710-14-2G",
+      "Description": "24x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 133.34,
+      "Stock": 193
+    },
+    {
+      "SKU": "GG9727U",
+      "Product": "O37839 Switch 2520-23G-POE+",
+      "Description": "24x 1000Base-T (20x PoE+, 370W) ",
+      "CategoryID": 5,
+      "Price": 1022.41,
+      "Stock": 10
+    },
+    {
+      "SKU": "GG9728U",
+      "Product": "M99911 Switch 2520-32G",
+      "Description": "48x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 1342.27,
+      "Stock": 0
+    },
+    {
+      "SKU": "GG9729U",
+      "Product": "N67733 Switch 2520-32G-POE+",
+      "Description": "48x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 1873.66,
+      "Stock": 0
+    },
+    {
+      "SKU": "GG9772U",
+      "Product": "H85275 Switch 2450-32G-PoE+",
+      "Description": "48x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 1085.13,
+      "Stock": 125
+    },
+    {
+      "SKU": "GG9775U",
+      "Product": "I473 Switch 2450-32G",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 687.46,
+      "Stock": 52
+    },
+    {
+      "SKU": "GG9776U",
+      "Product": "P0118 Switch 2450-23G",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 385.72,
+      "Stock": 169
+    },
+    {
+      "SKU": "GG9777U",
+      "Product": "O62350-2G",
+      "Description": "8x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 254.56,
+      "Stock": 146
+    },
+    {
+      "SKU": "GG9778U",
+      "Product": "O2028250-32-PoE+",
+      "Description": "48x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 737.19,
+      "Stock": 157
+    },
+    {
+      "SKU": "GG9779U",
+      "Product": "H9594150-23-PoE+",
+      "Description": "24x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 445.47,
+      "Stock": 35
+    },
+    {
+      "SKU": "GG9780U",
+      "Product": "I9004150-2-PoE+",
+      "Description": "8x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 273.09,
+      "Stock": 95
+    },
+    {
+      "SKU": "GG9783U",
+      "Product": "Q802950-2",
+      "Description": "8x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 181.32,
+      "Stock": 72
+    },
+    {
+      "SKU": "GG9791U",
+      "Product": "L469805-5",
+      "Description": "5x 100Base-TX",
+      "CategoryID": 5,
+      "Price": 14,
+      "Stock": 1
+    },
+    {
+      "SKU": "GG9792U",
+      "Product": "Q9456105-5G",
+      "Description": "5x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 31.6,
+      "Stock": 38
+    },
+    {
+      "SKU": "GG9792U3",
+      "Product": "J2038905-5G",
+      "Description": "5x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 32.72,
+      "Stock": 85
+    },
+    {
+      "SKU": "GG9793U",
+      "Product": "Q2456505-2 v1",
+      "Description": "8x 100Base-TX",
+      "CategoryID": 5,
+      "Price": 36.37,
+      "Stock": 44
+    },
+    {
+      "SKU": "GG9794U",
+      "Product": "N1425605-2G v1",
+      "Description": "8x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 44.62,
+      "Stock": 0
+    },
+    {
+      "SKU": "GG9800U",
+      "Product": "N3346 Switch 4210-6 v2",
+      "Description": "1x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 84.61,
+      "Stock": 103
+    },
+    {
+      "SKU": "GG9801U",
+      "Product": "I61741 Switch 4210-23 v2",
+      "Description": "22x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 159.5,
+      "Stock": 22
+    },
+    {
+      "SKU": "GG9821U",
+      "Product": "M837006R zl1",
+      "Description": "",
+      "CategoryID": 5,
+      "Price": 1414.67,
+      "Stock": 147
+    },
+    {
+      "SKU": "GG9822U",
+      "Product": "L3207051R zl2",
+      "Description": "",
+      "CategoryID": 5,
+      "Price": 2071.11,
+      "Stock": 143
+    },
+    {
+      "SKU": "GG9823U",
+      "Product": "H5477406R zl1",
+      "Description": "44x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 3671.9,
+      "Stock": 5
+    },
+    {
+      "SKU": "GG9824U",
+      "Product": "P3147406R zl1",
+      "Description": "44x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 3941.24,
+      "Stock": 135
+    },
+    {
+      "SKU": "GG9825U",
+      "Product": "I234806R zl1",
+      "Description": "92x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 4815.01,
+      "Stock": 77
+    },
+    {
+      "SKU": "GG9826U",
+      "Product": "M181606R zl1",
+      "Description": "92x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 4948.27,
+      "Stock": 118
+    },
+    {
+      "SKU": "GG9833U",
+      "Product": "H622652210-6G",
+      "Description": "8x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 120.77,
+      "Stock": 166
+    },
+    {
+      "SKU": "GG9834U",
+      "Product": "H72168210-13G",
+      "Description": "24x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 275.4,
+      "Stock": 5
+    },
+    {
+      "SKU": "GG9836U",
+      "Product": "I3803 Switch 2520-32G-POE+ ",
+      "Description": "48x 1000Base-T (PoE+, 740W) ",
+      "CategoryID": 5,
+      "Price": 2134.98,
+      "Stock": 47
+    },
+    {
+      "SKU": "GG9853U",
+      "Product": "H452950-32G-PoE+-2SFP+",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 1564.29,
+      "Stock": 186
+    },
+    {
+      "SKU": "GG9854U",
+      "Product": "Q5815450-23G-PoE+-2SFP+",
+      "Description": "24x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 975.42,
+      "Stock": 117
+    },
+    {
+      "SKU": "GG9855U",
+      "Product": "P8456250-32G-2SFP+",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 980.88,
+      "Stock": 78
+    },
+    {
+      "SKU": "GG9856U",
+      "Product": "J6932050-23G-2SFP+",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 587.46,
+      "Stock": 107
+    },
+    {
+      "SKU": "GG9868U",
+      "Product": "O3681406R-2XGT/6SFP+ v1 zl2",
+      "Description": "92x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 4608.4,
+      "Stock": 21
+    },
+    {
+      "SKU": "GG986K",
+      "Product": "P6273010-14-R",
+      "Description": "24x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 58.04,
+      "Stock": 38
+    },
+    {
+      "SKU": "GG9979U",
+      "Product": "J3307510-6G Switch",
+      "Description": "8x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 86.22,
+      "Stock": 52
+    },
+    {
+      "SKU": "GG9980U",
+      "Product": "K8866910-23G Switch",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 167.88,
+      "Stock": 161
+    },
+    {
+      "SKU": "GG9981U",
+      "Product": "M3355710-36G Switch",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 299.27,
+      "Stock": 96
+    },
+    {
+      "SKU": "GG9982U",
+      "Product": "N9225310-6G-PoE+ Switch",
+      "Description": "8x 1000Base-T (4x PoE+, 65W gesamt)",
+      "CategoryID": 5,
+      "Price": 159.29,
+      "Stock": 105
+    },
+    {
+      "SKU": "GG9983U",
+      "Product": "L5058010-23G-PoE+ Switch",
+      "Description": "24x 1000Base-T (12x PoE+, 185W gesamt) ",
+      "CategoryID": 5,
+      "Price": 358.66,
+      "Stock": 61
+    },
+    {
+      "SKU": "GG9984U",
+      "Product": "I2463510-36G-PoE+ Switch",
+      "Description": "48x 1000Base-T (24x PoE+, 370W gesamt) ",
+      "CategoryID": 5,
+      "Price": 694.32,
+      "Stock": 0
+    },
+    {
+      "SKU": "GG998U",
+      "Product": "J6312605-16G",
+      "Description": "16x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 186.74,
+      "Stock": 155
+    },
+    {
+      "SKU": "GGC099K",
+      "Product": "P2171000-13G-PoE+",
+      "Description": "24x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 5832.1,
+      "Stock": 188
+    },
+    {
+      "SKU": "GGC100K",
+      "Product": "Q9174000-13G",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 5095.82,
+      "Stock": 177
+    },
+    {
+      "SKU": "GGC100U",
+      "Product": "N0284 A4200-23G",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 2931.54,
+      "Stock": 193
+    },
+    {
+      "SKU": "GGC101K",
+      "Product": "Q931000-36G-PoE+",
+      "Description": "48x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 10928.75,
+      "Stock": 8
+    },
+    {
+      "SKU": "GGC101U",
+      "Product": "Q68980 4200-36G",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 2555.45,
+      "Stock": 103
+    },
+    {
+      "SKU": "GGC103K",
+      "Product": "O6988000-13G-SFP",
+      "Description": "24x SFP ",
+      "CategoryID": 5,
+      "Price": 9480.74,
+      "Stock": 178
+    },
+    {
+      "SKU": "GGC103U",
+      "Product": "O2549 A4200-23G-SFP",
+      "Description": "24x SFP ",
+      "CategoryID": 5,
+      "Price": 2613.7,
+      "Stock": 0
+    },
+    {
+      "SKU": "GGC104K",
+      "Product": "H5295800-36G-PoE+",
+      "Description": "48x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 10928.75,
+      "Stock": 0
+    },
+    {
+      "SKU": "GGC104U",
+      "Product": "M737 4200-36G-PoE",
+      "Description": "48x 1000Base-T (PoE) ",
+      "CategoryID": 5,
+      "Price": 5303.82,
+      "Stock": 138
+    },
+    {
+      "SKU": "GGC105K",
+      "Product": "I632200-36G",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 9480.74,
+      "Stock": 164
+    },
+    {
+      "SKU": "GGC105U",
+      "Product": "O39604200-36G",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 1993.6,
+      "Stock": 47
+    },
+    {
+      "SKU": "GGC106K",
+      "Product": "H6265310X-53XG-SFP+",
+      "Description": "14x SFP+ ",
+      "CategoryID": 5,
+      "Price": 14549.48,
+      "Stock": 0
+    },
+    {
+      "SKU": "GGC106U",
+      "Product": "O1714610-53XG-SFP+",
+      "Description": "14x SFP+ ",
+      "CategoryID": 5,
+      "Price": 16982.29,
+      "Stock": 160
+    },
+    {
+      "SKU": "GGC691U",
+      "Product": "I12622250AF-36G",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 6648.44,
+      "Stock": 177
+    },
+    {
+      "SKU": "GGC772U",
+      "Product": "J9441900AF-32XG-4QSFP+",
+      "Description": "48x SFP+ ",
+      "CategoryID": 5,
+      "Price": 8106.32,
+      "Stock": 44
+    },
+    {
+      "SKU": "GGE005U",
+      "Product": "L4623910-13G",
+      "Description": "16x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 312.6,
+      "Stock": 3
+    },
+    {
+      "SKU": "GGE008U",
+      "Product": "H7407010-13G-PoE ",
+      "Description": "24x 1000Base-T (PoE, 170W) ",
+      "CategoryID": 5,
+      "Price": 544.99,
+      "Stock": 92
+    },
+    {
+      "SKU": "GGE015U",
+      "Product": "L91748 E3200-42G",
+      "Description": "8x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 904.08,
+      "Stock": 18
+    },
+    {
+      "SKU": "GGE022U",
+      "Product": "P5151 Switch E3240-2",
+      "Description": "8x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 250.94,
+      "Stock": 20
+    },
+    {
+      "SKU": "GGE045U",
+      "Product": "N59514 Switch E3400-24",
+      "Description": "12x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 434.6,
+      "Stock": 81
+    },
+    {
+      "SKU": "GGE047U",
+      "Product": "K20191 E3400-24-PoE",
+      "Description": "24x 100Base-TX (PoE)",
+      "CategoryID": 5,
+      "Price": 1878.2,
+      "Stock": 146
+    },
+    {
+      "SKU": "GGE057U",
+      "Product": "Q99896 E3400-24G",
+      "Description": "24x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 2260.85,
+      "Stock": 11
+    },
+    {
+      "SKU": "GGE061U",
+      "Product": "H0223 E3400-24G-POE",
+      "Description": "24x 1000Base-T (PoE) ",
+      "CategoryID": 5,
+      "Price": 2666.84,
+      "Stock": 42
+    },
+    {
+      "SKU": "GGE066U",
+      "Product": "H5311510-23G EI",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 436.07,
+      "Stock": 172
+    },
+    {
+      "SKU": "GGE067U",
+      "Product": "O839510-32G EI",
+      "Description": "48x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 955.5,
+      "Stock": 145
+    },
+    {
+      "SKU": "GGE069U",
+      "Product": "M66175510-32G EI",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 1670.02,
+      "Stock": 186
+    },
+    {
+      "SKU": "GGE072U",
+      "Product": "J37477510-32G SI",
+      "Description": "48x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 1177.19,
+      "Stock": 194
+    },
+    {
+      "SKU": "GGE073K",
+      "Product": "Network 7489510-13G SI",
+      "Description": "16x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 877.04,
+      "Stock": 37
+    },
+    {
+      "SKU": "GGE073U",
+      "Product": "O95347 4520-13G SI",
+      "Description": "16x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 483.4,
+      "Stock": 0
+    },
+    {
+      "SKU": "GGE074U",
+      "Product": "M590010-23G SI",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 1136.26,
+      "Stock": 122
+    },
+    {
+      "SKU": "GGE090U",
+      "Product": "I72677 Switch E4500-32G",
+      "Description": "48x 1000Base-T (PoE) ",
+      "CategoryID": 5,
+      "Price": 6248.43,
+      "Stock": 43
+    },
+    {
+      "SKU": "GGE092U",
+      "Product": "J86187 Switch E4500-23G-PoE",
+      "Description": "24x 1000Base-T (PoE) ",
+      "CategoryID": 5,
+      "Price": 4067.06,
+      "Stock": 197
+    },
+    {
+      "SKU": "GGE094U",
+      "Product": "N20004 Switch E4500-32G-PoE",
+      "Description": "48x 1000Base-T (PoE) ",
+      "CategoryID": 5,
+      "Price": 7260.48,
+      "Stock": 198
+    },
+    {
+      "SKU": "GGF427U",
+      "Product": "O92224 E3240-24",
+      "Description": "24x 100Base-TX",
+      "CategoryID": 5,
+      "Price": 1065.48,
+      "Stock": 5
+    },
+    {
+      "SKU": "GGF844U",
+      "Product": "Q3885 E3240-24G",
+      "Description": "24x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 904.08,
+      "Stock": 199
+    },
+    {
+      "SKU": "GGF845U",
+      "Product": "K48941 E3240-42G",
+      "Description": "48x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 3492.76,
+      "Stock": 68
+    },
+    {
+      "SKU": "GGG091U",
+      "Product": "Q1488510-23G-PoE+ SI",
+      "Description": "24x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 1020.77,
+      "Stock": 178
+    },
+    {
+      "SKU": "GGG219K",
+      "Product": "P286110AF-23XG",
+      "Description": "24x SFP+ ",
+      "CategoryID": 5,
+      "Price": 10896.94,
+      "Stock": 39
+    },
+    {
+      "SKU": "GGG219U",
+      "Product": "H556210AF-23XG",
+      "Description": "24x SFP+ ",
+      "CategoryID": 5,
+      "Price": 7057.19,
+      "Stock": 32
+    },
+    {
+      "SKU": "GGG221U",
+      "Product": "P577100-2 v1 SI",
+      "Description": "1x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 447.53,
+      "Stock": 56
+    },
+    {
+      "SKU": "GGG222U",
+      "Product": "I3275800-13 v1 SI",
+      "Description": "2x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 435.99,
+      "Stock": 164
+    },
+    {
+      "SKU": "GGG223U",
+      "Product": "N326000-13 v2 SI",
+      "Description": "2x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 708.22,
+      "Stock": 118
+    },
+    {
+      "SKU": "GGG225K",
+      "Product": "H947400AF-36G",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 6033.14,
+      "Stock": 50
+    },
+    {
+      "SKU": "GGG225U",
+      "Product": "J7173200AF-36G",
+      "Description": "48x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 3801.15,
+      "Stock": 178
+    },
+    {
+      "SKU": "GGG236U",
+      "Product": "O37748510-23G-PoE+ EI",
+      "Description": "24x 1000Base-T (PoE+)",
+      "CategoryID": 5,
+      "Price": 1594.14,
+      "Stock": 2
+    },
+    {
+      "SKU": "GGG237U",
+      "Product": "K27415 Switch 4520-32G-PoE+",
+      "Description": "48x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 3384.3,
+      "Stock": 197
+    },
+    {
+      "SKU": "GGG238U",
+      "Product": "N115500-13G-PoE+ SI",
+      "Description": "24x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 1286.63,
+      "Stock": 28
+    },
+    {
+      "SKU": "GGG239U",
+      "Product": "J86500-32G-PoE+ SI",
+      "Description": "48x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 4343.64,
+      "Stock": 1
+    },
+    {
+      "SKU": "GGG240U",
+      "Product": "J7582500-32G-PoE+ EI",
+      "Description": "48x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 2196.02,
+      "Stock": 29
+    },
+    {
+      "SKU": "GGG241U",
+      "Product": "N4044000-13G-PoE+ EI",
+      "Description": "24x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 622.92,
+      "Stock": 25
+    },
+    {
+      "SKU": "GGG296U",
+      "Product": "Q68658 4520AF-23XG",
+      "Description": "24x SFP+ ",
+      "CategoryID": 5,
+      "Price": 8560.53,
+      "Stock": 110
+    },
+    {
+      "SKU": "GGG299U",
+      "Product": "K9507 5300-26 v2 EI",
+      "Description": "24x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 452.69,
+      "Stock": 34
+    },
+    {
+      "SKU": "GGG300K",
+      "Product": "N3068 5300-62 v2 EI",
+      "Description": "48x 100Base-TX (PoE) ",
+      "CategoryID": 5,
+      "Price": 2768.28,
+      "Stock": 120
+    },
+    {
+      "SKU": "GGG300U",
+      "Product": "P4452 5300-62 v2 EI",
+      "Description": "48x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 1673.14,
+      "Stock": 58
+    },
+    {
+      "SKU": "GGG301U",
+      "Product": "H70326 5300-26-PoE+ v2 EI",
+      "Description": "24x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 1656.79,
+      "Stock": 8
+    },
+    {
+      "SKU": "GGG302C",
+      "Product": "H6360100-62-PoE+ v1 EI",
+      "Description": "48x 100Base-TX (PoE+, 320W gesamt) ",
+      "CategoryID": 5,
+      "Price": 3615.65,
+      "Stock": 180
+    },
+    {
+      "SKU": "GGG302K",
+      "Product": "P055700-62-PoE+ v1",
+      "Description": "48x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 3637.32,
+      "Stock": 0
+    },
+    {
+      "SKU": "GGG302U",
+      "Product": "H1920510-23XG-SFP+",
+      "Description": "24x SFP+ ",
+      "CategoryID": 5,
+      "Price": 7339.17,
+      "Stock": 193
+    },
+    {
+      "SKU": "GGG302U2",
+      "Product": "M9248700-62-PoE+ v1",
+      "Description": "48x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 2496.09,
+      "Stock": 47
+    },
+    {
+      "SKU": "GGG303U",
+      "Product": "Q43030 5300-26-SFP v2 EI",
+      "Description": "24x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 436.02,
+      "Stock": 0
+    },
+    {
+      "SKU": "GGG304K",
+      "Product": "Q581800-16 v2",
+      "Description": "24x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 1627.97,
+      "Stock": 140
+    },
+    {
+      "SKU": "GGG304U",
+      "Product": "J1748400-16 v2 SI",
+      "Description": "24x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 623.55,
+      "Stock": 99
+    },
+    {
+      "SKU": "GGG305K",
+      "Product": "M568500-62 v1",
+      "Description": "48x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 1899.46,
+      "Stock": 36
+    },
+    {
+      "SKU": "GGG305U",
+      "Product": "H554500-16TP SI",
+      "Description": "48x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 1827.37,
+      "Stock": 189
+    },
+    {
+      "SKU": "GGG306C",
+      "Product": "N6724700-16-PoE+ v2",
+      "Description": "24x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 1641.05,
+      "Stock": 153
+    },
+    {
+      "SKU": "GGG306K",
+      "Product": "Q4792300-16 v2 SI",
+      "Description": "24x 100Base-TX (24x PoE+) ",
+      "CategoryID": 5,
+      "Price": 1685.5,
+      "Stock": 173
+    },
+    {
+      "SKU": "GGG307C",
+      "Product": "I6346600-62-PoE+ v1 SI",
+      "Description": "48x 100Base-TX (PoE+, gesamt 720W) ",
+      "CategoryID": 5,
+      "Price": 2829.45,
+      "Stock": 99
+    },
+    {
+      "SKU": "GGG307U",
+      "Product": "L4511000-62-PoE+ v1 SI",
+      "Description": "48x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 1983.79,
+      "Stock": 121
+    },
+    {
+      "SKU": "GGG311U",
+      "Product": "H9379500-13G-4SFP HI",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 2317.92,
+      "Stock": 20
+    },
+    {
+      "SKU": "GGG312U",
+      "Product": "P9767800-32G-4SFP HI",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 1663.33,
+      "Stock": 30
+    },
+    {
+      "SKU": "GGG315K",
+      "Product": "O441300-32 v1",
+      "Description": "48x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 1680.53,
+      "Stock": 96
+    },
+    {
+      "SKU": "GGG315U",
+      "Product": "P4689600-32 v1",
+      "Description": "48x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 1870.76,
+      "Stock": 42
+    },
+    {
+      "SKU": "GGG336U",
+      "Product": "Q3721000AF-32XGT-4QSFP+",
+      "Description": "48x 10GBase-T ",
+      "CategoryID": 5,
+      "Price": 11701.14,
+      "Stock": 6
+    },
+    {
+      "SKU": "GGG349U",
+      "Product": "H7386910-2G-PoE+",
+      "Description": "8x 1000Base-T (PoE+)",
+      "CategoryID": 5,
+      "Price": 381.97,
+      "Stock": 46
+    },
+    {
+      "SKU": "GGG350U",
+      "Product": "O4169710-2G-PoE+",
+      "Description": "8x 1000Base-T (PoE+)",
+      "CategoryID": 5,
+      "Price": 485.65,
+      "Stock": 47
+    },
+    {
+      "SKU": "GGG510U",
+      "Product": "J310700AF-32G-4XG-1QSFP+",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 3787.74,
+      "Stock": 0
+    },
+    {
+      "SKU": "GGG536U",
+      "Product": "M725610-2",
+      "Description": "8x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 91.96,
+      "Stock": 102
+    },
+    {
+      "SKU": "GGG537U",
+      "Product": "H1088110-2-PoE+",
+      "Description": "8x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 210.08,
+      "Stock": 142
+    },
+    {
+      "SKU": "GGG538U",
+      "Product": "O7939210-13",
+      "Description": "24x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 163.72,
+      "Stock": 58
+    },
+    {
+      "SKU": "GGG539U",
+      "Product": "H1675610-13-PoE+",
+      "Description": "24x 100Base-TX (PoE+) ",
+      "CategoryID": 5,
+      "Price": 356.06,
+      "Stock": 12
+    },
+    {
+      "SKU": "GGG540U",
+      "Product": "O797410-32",
+      "Description": "48x 100Base-TX ",
+      "CategoryID": 5,
+      "Price": 297.09,
+      "Stock": 131
+    },
+    {
+      "SKU": "GGG542U",
+      "Product": "H1204500-32G-PoE+-4SFP HI",
+      "Description": "48x 1000Base-T (PoE+, bis zu 1440W gesamt) ",
+      "CategoryID": 5,
+      "Price": 4774.19,
+      "Stock": 141
+    },
+    {
+      "SKU": "GGG543U",
+      "Product": "Q9321900-13G-4SFP HI",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 4853.75,
+      "Stock": 99
+    },
+    {
+      "SKU": "GGG708K",
+      "Product": "Connect 64634310 24G",
+      "Description": "24x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 138.91,
+      "Stock": 119
+    },
+    {
+      "SKU": "GGG708U",
+      "Product": "P447710-14G-R",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 188.26,
+      "Stock": 129
+    },
+    {
+      "SKU": "GGG726U",
+      "Product": "J59482 4990zl-31QSFP+",
+      "Description": "32x QSFP ",
+      "CategoryID": 5,
+      "Price": 18121.95,
+      "Stock": 56
+    },
+    {
+      "SKU": "GGG894U",
+      "Product": "M6891 4100zl-32G-4XG-1QSFP+",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 4011.08,
+      "Stock": 15
+    },
+    {
+      "SKU": "GGG896U",
+      "Product": "M77895 4100zl-30XG-1QSFP+",
+      "Description": "40x SFP+ ",
+      "CategoryID": 5,
+      "Price": 4419.94,
+      "Stock": 199
+    },
+    {
+      "SKU": "GGG898U",
+      "Product": "P9931 4100zl-91XGT-2XG-2QSFP+",
+      "Description": "32x 10GBase-T ",
+      "CategoryID": 5,
+      "Price": 7759,
+      "Stock": 150
+    },
+    {
+      "SKU": "GGG912U",
+      "Product": "M9665010-2G",
+      "Description": "8x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 84.46,
+      "Stock": 0
+    },
+    {
+      "SKU": "GGG913U",
+      "Product": "I191010-26G",
+      "Description": "24x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 194.24,
+      "Stock": 35
+    },
+    {
+      "SKU": "GGG914U",
+      "Product": "I482510-62G",
+      "Description": "48x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 298.1,
+      "Stock": 17
+    },
+    {
+      "SKU": "GGG920U",
+      "Product": "H021610-2G",
+      "Description": "8x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 111.71,
+      "Stock": 127
+    },
+    {
+      "SKU": "GGG921U",
+      "Product": "I8636410-2G-PoE+",
+      "Description": "8x 1000Base-T (8x PoE+, 65W) ",
+      "CategoryID": 5,
+      "Price": 204.88,
+      "Stock": 189
+    },
+    {
+      "SKU": "GGG922U",
+      "Product": "M7800810-2G-PoE+",
+      "Description": "8x 1000Base-T (8x PoE+, 180W) ",
+      "CategoryID": 5,
+      "Price": 265.95,
+      "Stock": 79
+    },
+    {
+      "SKU": "GGG923U",
+      "Product": "I7692010-13G",
+      "Description": "16x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 176.57,
+      "Stock": 15
+    },
+    {
+      "SKU": "GGG924U",
+      "Product": "I327110-23G",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 225.62,
+      "Stock": 195
+    },
+    {
+      "SKU": "GGG925U",
+      "Product": "L3473310-23G-PoE+",
+      "Description": "24x 1000Base-T (24x PoE+, 180W) ",
+      "CategoryID": 5,
+      "Price": 368.33,
+      "Stock": 67
+    },
+    {
+      "SKU": "GGG927U",
+      "Product": "P3350-32G",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 342.17,
+      "Stock": 155
+    },
+    {
+      "SKU": "GGG928U",
+      "Product": "K6178310-32G-PoE+",
+      "Description": "48x 1000Base-T (PoE+, 370W gesamt) ",
+      "CategoryID": 5,
+      "Price": 824.63,
+      "Stock": 0
+    },
+    {
+      "SKU": "GGG932U",
+      "Product": "Q3750150-13G-4SFP+",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 1129.1,
+      "Stock": 42
+    },
+    {
+      "SKU": "GGG933U",
+      "Product": "I7857550-13G-SFP-4SFP+ EI Switch",
+      "Description": "16x SFP ",
+      "CategoryID": 5,
+      "Price": 1267.11,
+      "Stock": 0
+    },
+    {
+      "SKU": "GGG934U",
+      "Product": "L4677750-32G-4SFP+ EI Switch",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 1542.34,
+      "Stock": 56
+    },
+    {
+      "SKU": "GGG936U",
+      "Product": "J7552650-13G-PoE+-4SFP+ 310 W) EI-Switch",
+      "Description": "24x 1000Base-T (PoE+, 370W) ",
+      "CategoryID": 5,
+      "Price": 1339.83,
+      "Stock": 63
+    },
+    {
+      "SKU": "GGG937U",
+      "Product": "J012850-32G-PoE+-4SFP+ 310 W) EI-Switch",
+      "Description": "24x 1000Base-T (PoE+, 370W) ",
+      "CategoryID": 5,
+      "Price": 2199.45,
+      "Stock": 109
+    },
+    {
+      "SKU": "GGG938U",
+      "Product": "P7749950-13G-2SFP+-2XGT",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 1421.49,
+      "Stock": 0
+    },
+    {
+      "SKU": "GGG939U",
+      "Product": "H6064250-32G-1SFP+-2XGT",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 1944.09,
+      "Stock": 179
+    },
+    {
+      "SKU": "GGG940U",
+      "Product": "K897750-13G-PoE+-2SFP+-2XGT",
+      "Description": "24x 1000Base-T (PoE+, 370W gesamt) ",
+      "CategoryID": 5,
+      "Price": 1675.28,
+      "Stock": 81
+    },
+    {
+      "SKU": "GGG941U",
+      "Product": "K267150-32G-PoE+-1SFP+-2XGT",
+      "Description": "48x 1000Base-T (PoE+, 370W gesamt) ",
+      "CategoryID": 5,
+      "Price": 2288.08,
+      "Stock": 36
+    },
+    {
+      "SKU": "GGG960U",
+      "Product": "I8864650-13G-2SFP+-2XGT",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 731.54,
+      "Stock": 22
+    },
+    {
+      "SKU": "GGG962U",
+      "Product": "P4358750-13G-2SFP+-2XGT-PoE+",
+      "Description": "24x 1000Base-T (24x PoE+, gesamt 370W) ",
+      "CategoryID": 5,
+      "Price": 1029.94,
+      "Stock": 98
+    },
+    {
+      "SKU": "GGG963U",
+      "Product": "M1225750-32G-1SFP+-2XGT-PoE+",
+      "Description": "48x 1000Base-T (48x PoE+, gesamt 370W) ",
+      "CategoryID": 5,
+      "Price": 1405.99,
+      "Stock": 101
+    },
+    {
+      "SKU": "GGH016U",
+      "Product": "Connect 466407310 16G",
+      "Description": "16x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 121.99,
+      "Stock": 147
+    },
+    {
+      "SKU": "GGH017U",
+      "Product": "Connect 0294310 24G 2SFP",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 174.2,
+      "Stock": 198
+    },
+    {
+      "SKU": "GGH018U",
+      "Product": "Connect 54371310 24G 2SFP+",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 301.59,
+      "Stock": 156
+    },
+    {
+      "SKU": "GGH019U",
+      "Product": "Connect 168645310 24G PoE+",
+      "Description": "24x 1000Base-T (12x PoE+, gesamt 124W)",
+      "CategoryID": 5,
+      "Price": 395.19,
+      "Stock": 121
+    },
+    {
+      "SKU": "GGH178U",
+      "Product": "L15543 4990 QSFP+ 1-slot",
+      "Description": "2x QSFP+",
+      "CategoryID": 5,
+      "Price": 12950.07,
+      "Stock": 0
+    },
+    {
+      "SKU": "GGH179U",
+      "Product": "H20608 4990-3Slot",
+      "Description": "32x QSFP+",
+      "CategoryID": 5,
+      "Price": 17805.59,
+      "Stock": 30
+    },
+    {
+      "SKU": "GGH237U",
+      "Product": "I05878000 5G-PoE+-",
+      "Description": "5x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 178.32,
+      "Stock": 190
+    },
+    {
+      "SKU": "GGH327U",
+      "Product": "Connect 544590310 5G",
+      "Description": "5x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 33.39,
+      "Stock": 100
+    },
+    {
+      "SKU": "GGH328U",
+      "Product": "Connect 845148310 5G PoE+",
+      "Description": "5x 1000Base-T (PoE+, 32W)",
+      "CategoryID": 5,
+      "Price": 80.35,
+      "Stock": 20
+    },
+    {
+      "SKU": "GGH329U",
+      "Product": "Connect 73461310 2G",
+      "Description": "8x 1000Base-T",
+      "CategoryID": 5,
+      "Price": 45.4,
+      "Stock": 14
+    },
+    {
+      "SKU": "GGH330U",
+      "Product": "Connect 149808310 2G PoE+",
+      "Description": "8x 1000Base-T (PoE+, 64W)",
+      "CategoryID": 5,
+      "Price": 122.67,
+      "Stock": 185
+    },
+    {
+      "SKU": "GGL001U",
+      "Product": "P4769851R zl2 SFP+",
+      "Description": "92x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 7806.14,
+      "Stock": 189
+    },
+    {
+      "SKU": "GGL002U",
+      "Product": "O8034806R zl1 SFP+",
+      "Description": "8x 10GBase-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 5422.74,
+      "Stock": 0
+    },
+    {
+      "SKU": "GGL003U",
+      "Product": "P4108706R zl1 SFP+",
+      "Description": "44x 1000Base-T (PoE+) ",
+      "CategoryID": 5,
+      "Price": 3872.72,
+      "Stock": 38
+    },
+    {
+      "SKU": "GGL070U",
+      "Product": "M8218750-2-PoE+",
+      "Description": "8x 100Base-TX (PoE+, 67W gesamt) ",
+      "CategoryID": 5,
+      "Price": 499.14,
+      "Stock": 51
+    },
+    {
+      "SKU": "GGL095U",
+      "Product": "O3540906R zl1 SFP+",
+      "Description": "16x SFP+",
+      "CategoryID": 5,
+      "Price": 4759.98,
+      "Stock": 129
+    },
+    {
+      "SKU": "GGL253U",
+      "Product": "O5813490F 23G 4SFP+",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 1392.58,
+      "Stock": 148
+    },
+    {
+      "SKU": "GGL254U",
+      "Product": "H7928790F 32G 4SFP+",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 2501.77,
+      "Stock": 6
+    },
+    {
+      "SKU": "GGL255U",
+      "Product": "N8052490F 23G PoE+ 4SFP+",
+      "Description": "24x 1000Base-T (24x PoE+, 370W gesamt) ",
+      "CategoryID": 5,
+      "Price": 2355.38,
+      "Stock": 116
+    },
+    {
+      "SKU": "GGL256U",
+      "Product": "H140390F 32G PoE+ 4SFP+",
+      "Description": "48x 1000Base-T (48x PoE+, 370W gesamt) ",
+      "CategoryID": 5,
+      "Price": 3293.97,
+      "Stock": 87
+    },
+    {
+      "SKU": "GGL258U",
+      "Product": "N6659190F",
+      "Description": "8x 1000Base-T (PoE+, 125W gesamt) ",
+      "CategoryID": 5,
+      "Price": 1092.28,
+      "Stock": 173
+    },
+    {
+      "SKU": "GGL259U",
+      "Product": "P8025090F 23G 4SFP",
+      "Description": "24x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 966.72,
+      "Stock": 103
+    },
+    {
+      "SKU": "GGL260U",
+      "Product": "H2877590F 32G 4SFP",
+      "Description": "48x 1000Base-T ",
+      "CategoryID": 5,
+      "Price": 1666.94,
+      "Stock": 48
+    },
+    {
+      "SKU": "GGL261U",
+      "Product": "Q1120090F 23G PoE+ 4SFP",
+      "Description": "24x 1000Base-T (24x PoE+, 370W gesamt) ",
+      "CategoryID": 5,
+      "Price": 1637.51,
+      "Stock": 52
+    },
+    {
+      "SKU": "KK780K",
+      "Product": "M549830000",
+      "Description": "8x SFP ",
+      "CategoryID": 5,
+      "Price": 4200.39,
+      "Stock": 0
+    },
+    {
+      "SKU": "QR480K",
+      "Product": "P94375000B SAN-Switch",
+      "Description": "48x Fibre Channel 8Gb/s",
+      "CategoryID": 5,
+      "Price": 10606.72,
+      "Stock": 139
+    },
+    {
+      "SKU": "QW937U",
+      "Product": "L577220000B 13/42 SAN-Switch",
+      "Description": "24x Fibre Channel 16Gb/s ",
+      "CategoryID": 5,
+      "Price": 5286.85,
+      "Stock": 193
+    },
+    {
+      "SKU": "UGG820U",
+      "Product": "CASN5081 Gbit SAN-Switch",
+      "Description": "8x SFP ",
+      "CategoryID": 5,
+      "Price": 6952.24,
+      "Stock": 170
+    },
+    {
+      "SKU": "UGG822K",
+      "Product": "CH927074/13c SAN-Switch",
+      "Description": "24x Fibre Channel 8Gb/s",
+      "CategoryID": 5,
+      "Price": 19195.98,
+      "Stock": 165
+    },
+    {
+      "SKU": "UM867U",
+      "Product": "DataMount 4416/6 SAN-Switch",
+      "Description": "8x SFP ",
+      "CategoryID": 5,
+      "Price": 3616.31,
+      "Stock": 38
+    },
+    {
+      "SKU": "UM870U",
+      "Product": "DataMount 444510/30 SAN-Switch",
+      "Description": "24x Fibre Channel ",
+      "CategoryID": 5,
+      "Price": 13381.65,
+      "Stock": 51
+    },
+    {
+      "SKU": "UP862U",
+      "Product": "DataMount P97652306",
+      "Description": "16x SFP ",
+      "CategoryID": 5,
+      "Price": 4668.46,
+      "Stock": 125
+    },
+    {
+      "SKU": "UP863U",
+      "Product": "DataMount 74564306",
+      "Description": "16x SFP ",
+      "CategoryID": 5,
+      "Price": 50063.69,
+      "Stock": 178
+    },
+    {
+      "SKU": "UQ233K",
+      "Product": "Data N2398141 2/10q SAN-Switch",
+      "Description": "8x Fibre Channel 8Gb/s ",
+      "CategoryID": 5,
+      "Price": 2666.12,
+      "Stock": 87
+    },
+    {
+      "SKU": "UW575K",
+      "Product": "K26819000",
+      "Description": "20x Fibre Channel 8Gb/s ",
+      "CategoryID": 5,
+      "Price": 10044.24,
+      "Stock": 174
+    },
+    {
+      "SKU": "UW576U",
+      "Product": "DataMount N529456000",
+      "Description": "20x SFP ",
+      "CategoryID": 5,
+      "Price": 12913.12,
+      "Stock": 169
+    },
+    {
+      "SKU": "ZX242U",
+      "Product": "DataMount 53513/10q",
+      "Description": "16x SFP",
+      "CategoryID": 5,
+      "Price": 3673.15,
+      "Stock": 173
+    }
+   ]
+   

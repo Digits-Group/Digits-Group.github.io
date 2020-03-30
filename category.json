@@ -1,0 +1,26 @@
+[
+    {
+      "Category": "Desktop-PC",
+      "CategoryID": 0
+    },
+    {
+      "Category": "Notebook",
+      "CategoryID": 2
+    },
+    {
+      "Category": "Server",
+      "CategoryID": 3
+    },
+    {
+      "Category": "Switch",
+      "CategoryID": 5
+    },
+    {
+      "Category": "Display",
+      "CategoryID": 1
+    },
+    {
+      "Category": "Streamer",
+      "CategoryID": 4
+    }
+]

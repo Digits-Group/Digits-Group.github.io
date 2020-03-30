@@ -1,0 +1,611 @@
+[
+    {
+      "SKU": "7P53U4",
+      "Product": "JDisplay Zt",
+      "Description": "Diagonale 2, 61cm \"",
+      "CategoryID": 1,
+      "Price": 263.27,
+      "Stock": 138
+    },
+    {
+      "SKU": "7P72UX",
+      "Product": "Display Et",
+      "Description": "Diagonale 2, 686cm \"",
+      "CategoryID": 1,
+      "Price": 260.06,
+      "Stock": 172
+    },
+    {
+      "SKU": "7P94U4",
+      "Product": "JDisplay Zt",
+      "Description": "Diagonale 3, 762cm \"",
+      "CategoryID": 1,
+      "Price": 935.72,
+      "Stock": 198
+    },
+    {
+      "SKU": "7Q13UX",
+      "Product": "JDisplay ZtN904923",
+      "Description": "Diagonale 2, 584cm \"",
+      "CategoryID": 1,
+      "Price": 324.56,
+      "Stock": 43
+    },
+    {
+      "SKU": "7Q14U4",
+      "Product": "JDisplay Zt",
+      "Description": "Diagonale 21, 54.6cm \"",
+      "CategoryID": 1,
+      "Price": 211.6,
+      "Stock": 99
+    },
+    {
+      "SKU": "7R00UX",
+      "Product": "DCol Q2018011x",
+      "Description": "Diagonale 2, 686cm \"",
+      "CategoryID": 1,
+      "Price": 1000.4,
+      "Stock": 116
+    },
+    {
+      "SKU": "9E49UU",
+      "Product": "Display N5199124c",
+      "Description": "Diagonale 21, 54.6cm \"",
+      "CategoryID": 1,
+      "Price": 269.24,
+      "Stock": 28
+    },
+    {
+      "SKU": "C427UU",
+      "Product": "Q84023xw",
+      "Description": "Diagonale 2, 686cm \"",
+      "CategoryID": 1,
+      "Price": 286.59,
+      "Stock": 173
+    },
+    {
+      "SKU": "C6Q18U4",
+      "Product": "JDisplay O3673572530w",
+      "Description": "Diagonale 2, 584cm \"",
+      "CategoryID": 1,
+      "Price": 193.56,
+      "Stock": 102
+    },
+    {
+      "SKU": "C9E49UU",
+      "Product": "N99297 Display P224",
+      "Description": "Diagonale 21, 54.6cm \"",
+      "CategoryID": 1,
+      "Price": 170.24,
+      "Stock": 127
+    },
+    {
+      "SKU": "C9F26UU",
+      "Product": "J29184 Display P204",
+      "Description": "Diagonale 2, 508cm \"",
+      "CategoryID": 1,
+      "Price": 130.69,
+      "Stock": 0
+    },
+    {
+      "SKU": "C9V73UX",
+      "Product": "Display Q5651104",
+      "Description": "Diagonale 2, 508cm \"",
+      "CategoryID": 1,
+      "Price": 152.49,
+      "Stock": 96
+    },
+    {
+      "SKU": "C9V75UX",
+      "Product": "Display J77162354",
+      "Description": "Diagonale 2, 584cm \"",
+      "CategoryID": 1,
+      "Price": 273.71,
+      "Stock": 122
+    },
+    {
+      "SKU": "E4U30UU",
+      "Product": "Display Et",
+      "Description": "Diagonale 1, 483cm \"",
+      "CategoryID": 1,
+      "Price": 147.98,
+      "Stock": 107
+    },
+    {
+      "SKU": "E5P95UX",
+      "Product": "O4974034a ",
+      "Description": "Diagonale 23, 59.9cm \"",
+      "CategoryID": 1,
+      "Price": 180.53,
+      "Stock": 167
+    },
+    {
+      "SKU": "E9Q82U4",
+      "Product": "DCol 23280753x",
+      "Description": "Diagonale 2, 61cm \"",
+      "CategoryID": 1,
+      "Price": 470.31,
+      "Stock": 98
+    },
+    {
+      "SKU": "EF224UX",
+      "Product": "I804698364",
+      "Description": "Diagonale 2, 61cm \"",
+      "CategoryID": 1,
+      "Price": 1018.82,
+      "Stock": 15
+    },
+    {
+      "SKU": "EM886UX",
+      "Product": "LN17886111",
+      "Description": "Diagonale 1, 432cm \"",
+      "CategoryID": 1,
+      "Price": 128.64,
+      "Stock": 23
+    },
+    {
+      "SKU": "F3GG72UX",
+      "Product": "Display H5631354d",
+      "Description": "Diagonale 2, 584cm \"",
+      "CategoryID": 1,
+      "Price": 285.74,
+      "Stock": 90
+    },
+    {
+      "SKU": "F4M97UX",
+      "Product": "Q13129 Display P41A",
+      "Description": "Diagonale 1, 432cm \"",
+      "CategoryID": 1,
+      "Price": 130.78,
+      "Stock": 169
+    },
+    {
+      "SKU": "F8C55UU",
+      "Product": "L7864204a",
+      "Description": "Diagonale 2, 508cm \"",
+      "CategoryID": 1,
+      "Price": 146.98,
+      "Stock": 194
+    },
+    {
+      "SKU": "G9W86UX",
+      "Product": "P9530159 ",
+      "Description": "Diagonale 18, 47cm \"",
+      "CategoryID": 1,
+      "Price": 110.17,
+      "Stock": 71
+    },
+    {
+      "SKU": "GG2W50U4",
+      "Product": "JDisplay I7389743s",
+      "Description": "Diagonale 2, 61cm \"",
+      "CategoryID": 1,
+      "Price": 403.01,
+      "Stock": 91
+    },
+    {
+      "SKU": "GG3G07U4",
+      "Product": "JDisplay M8722361s",
+      "Description": "Diagonale 2, 686cm \"",
+      "CategoryID": 1,
+      "Price": 765.49,
+      "Stock": 174
+    },
+    {
+      "SKU": "GG3G14U4",
+      "Product": "JDisplay I43553131q",
+      "Description": "Diagonale 2, 686cm \"",
+      "CategoryID": 1,
+      "Price": 1105.62,
+      "Stock": 41
+    },
+    {
+      "SKU": "GG7Q66US",
+      "Product": "L81466cw",
+      "Description": "Diagonale 21, 54.6cm \"",
+      "CategoryID": 1,
+      "Price": 147.11,
+      "Stock": 113
+    },
+    {
+      "SKU": "GG7Q74UU",
+      "Product": "H81935cw",
+      "Description": "Diagonale 2, 584cm \"",
+      "CategoryID": 1,
+      "Price": 195.1,
+      "Stock": 98
+    },
+    {
+      "SKU": "GG7Q75UU",
+      "Product": "H3662xw",
+      "Description": "Diagonale 23, 60.5cm \"",
+      "CategoryID": 1,
+      "Price": 202.63,
+      "Stock": 199
+    },
+    {
+      "SKU": "GG9G67UU",
+      "Product": "I52735c",
+      "Description": "Diagonale 2, 686cm \"",
+      "CategoryID": 1,
+      "Price": 479.59,
+      "Stock": 87
+    },
+    {
+      "SKU": "GS917UX",
+      "Product": "K50549110",
+      "Description": "Diagonale 1, 432cm \"",
+      "CategoryID": 1,
+      "Price": 257.55,
+      "Stock": 159
+    },
+    {
+      "SKU": "K0Q34UU",
+      "Product": "Value Q77320234p",
+      "Description": "Diagonale 23, 59.9cm \"",
+      "CategoryID": 1,
+      "Price": 174.97,
+      "Stock": 4
+    },
+    {
+      "SKU": "K1M38UU",
+      "Product": "Display L75578510c",
+      "Description": "Diagonale 2, 686cm \"",
+      "CategoryID": 1,
+      "Price": 318.43,
+      "Stock": 146
+    },
+    {
+      "SKU": "K1U77U4",
+      "Product": "JDisplay M6053133c",
+      "Description": "Diagonale 3, 864cm \"",
+      "CategoryID": 1,
+      "Price": 912.45,
+      "Stock": 45
+    },
+    {
+      "SKU": "K5H59U4",
+      "Product": "Jvr Virtual Reality Display",
+      "Description": "Diagonale 23, 59.9cm \"",
+      "CategoryID": 1,
+      "Price": 6000.44,
+      "Stock": 61
+    },
+    {
+      "SKU": "K5M13UU",
+      "Product": "Q91182012A",
+      "Description": "Diagonale 2, 508cm \"",
+      "CategoryID": 1,
+      "Price": 155.06,
+      "Stock": 96
+    },
+    {
+      "SKU": "K5U38UU",
+      "Product": "K2493uh",
+      "Description": "Diagonale 2, 61cm \"",
+      "CategoryID": 1,
+      "Price": 142.68,
+      "Stock": 116
+    },
+    {
+      "SKU": "K7C09U4",
+      "Product": "JDisplay P679291n",
+      "Description": "Diagonale 2, 686cm \"",
+      "CategoryID": 1,
+      "Price": 596.47,
+      "Stock": 0
+    },
+    {
+      "SKU": "K7K99U4",
+      "Product": "JDisplay 859103n",
+      "Description": "Diagonale 2, 61cm \"",
+      "CategoryID": 1,
+      "Price": 315.54,
+      "Stock": 179
+    },
+    {
+      "SKU": "K7M13UU",
+      "Product": "L78540511a",
+      "Description": "Diagonale 18, 47cm \"",
+      "CategoryID": 1,
+      "Price": 102.6,
+      "Stock": 0
+    },
+    {
+      "SKU": "K7X26UX",
+      "Product": "Q4962 Display P202va",
+      "Description": "Diagonale 19, 49.5cm \"",
+      "CategoryID": 1,
+      "Price": 109.76,
+      "Stock": 0
+    },
+    {
+      "SKU": "K7X27UX",
+      "Product": "I63750 Display P202",
+      "Description": "Diagonale 2, 508cm \"",
+      "CategoryID": 1,
+      "Price": 97.99,
+      "Stock": 105
+    },
+    {
+      "SKU": "K7X30UX",
+      "Product": "O54855 Display P222va",
+      "Description": "Diagonale 21, 54.6cm \"",
+      "CategoryID": 1,
+      "Price": 124.21,
+      "Stock": 76
+    },
+    {
+      "SKU": "K7X32UU",
+      "Product": "M96029 Display P232va",
+      "Description": "Diagonale 2, 61cm \"",
+      "CategoryID": 1,
+      "Price": 177.33,
+      "Stock": 8
+    },
+    {
+      "SKU": "L5N90UU",
+      "Product": "J43718cw",
+      "Description": "Diagonale 23, 60.5cm \"",
+      "CategoryID": 1,
+      "Price": 164.49,
+      "Stock": 184
+    },
+    {
+      "SKU": "L5N91UU",
+      "Product": "K63246xw",
+      "Description": "Diagonale 23, 60.5cm \"",
+      "CategoryID": 1,
+      "Price": 225.2,
+      "Stock": 148
+    },
+    {
+      "SKU": "LL543UU",
+      "Product": "J191503x",
+      "Description": "Diagonale 1, 381cm \"",
+      "CategoryID": 1,
+      "Price": 261.03,
+      "Stock": 107
+    },
+    {
+      "SKU": "M1F41UU",
+      "Product": "Display J7837102",
+      "Description": "Diagonale 2, 508cm \"",
+      "CategoryID": 1,
+      "Price": 156.42,
+      "Stock": 0
+    },
+    {
+      "SKU": "M1N96UU",
+      "Product": "Display 222286322",
+      "Description": "Diagonale 21, 54.6cm \"",
+      "CategoryID": 1,
+      "Price": 161.67,
+      "Stock": 138
+    },
+    {
+      "SKU": "M1N98UX",
+      "Product": "Display P905352",
+      "Description": "Diagonale 2, 584cm \"",
+      "CategoryID": 1,
+      "Price": 185.19,
+      "Stock": 20
+    },
+    {
+      "SKU": "M1N99UX",
+      "Product": "Display K0273930",
+      "Description": "Diagonale 23, 60.5cm \"",
+      "CategoryID": 1,
+      "Price": 189.53,
+      "Stock": 172
+    },
+    {
+      "SKU": "M1P00UU",
+      "Product": "Display N4272530c",
+      "Description": "Diagonale 23, 60.5cm \"",
+      "CategoryID": 1,
+      "Price": 227.04,
+      "Stock": 88
+    },
+    {
+      "SKU": "M1P02UU",
+      "Product": "Display L13323532 ",
+      "Description": "Diagonale 2, 61cm \"",
+      "CategoryID": 1,
+      "Price": 249.59,
+      "Stock": 193
+    },
+    {
+      "SKU": "M1P04UX",
+      "Product": "Display L468112q",
+      "Description": "Diagonale 2, 686cm \"",
+      "CategoryID": 1,
+      "Price": 398.82,
+      "Stock": 195
+    },
+    {
+      "SKU": "M246U4",
+      "Product": "DCol 94146591x",
+      "Description": "Diagonale 3, 813cm \"",
+      "CategoryID": 1,
+      "Price": 1347.25,
+      "Stock": 5
+    },
+    {
+      "SKU": "M2GG71UX",
+      "Product": "JDisplay J349412562n",
+      "Description": "Diagonale 21, 54.6cm \"",
+      "CategoryID": 1,
+      "Price": 143.92,
+      "Stock": 112
+    },
+    {
+      "SKU": "M2GG79UX",
+      "Product": "JDisplay K2317115n",
+      "Description": "Diagonale 2, 584cm \"",
+      "CategoryID": 1,
+      "Price": 181.37,
+      "Stock": 175
+    },
+    {
+      "SKU": "M6F38UU",
+      "Product": "O6100142a",
+      "Description": "Diagonale 20, 52.6cm \"",
+      "CategoryID": 1,
+      "Price": 92.21,
+      "Stock": 115
+    },
+    {
+      "SKU": "N3C01UX",
+      "Product": "Display 225724032",
+      "Description": "Diagonale 2, 61cm \"",
+      "CategoryID": 1,
+      "Price": 252.03,
+      "Stock": 7
+    },
+    {
+      "SKU": "N3C09UU",
+      "Product": "Display K3889952e",
+      "Description": "Diagonale 2, 584cm \"",
+      "CategoryID": 1,
+      "Price": 205.77,
+      "Stock": 17
+    },
+    {
+      "SKU": "N9C43UU",
+      "Product": "K31499",
+      "Description": "Diagonale 3, 813cm \"",
+      "CategoryID": 1,
+      "Price": 483.95,
+      "Stock": 125
+    },
+    {
+      "SKU": "NK033UU",
+      "Product": "LO68303251w",
+      "Description": "Diagonale 18, 47cm \"",
+      "CategoryID": 1,
+      "Price": 208.58,
+      "Stock": 14
+    },
+    {
+      "SKU": "U1W80UU",
+      "Product": "AQ K71349541c",
+      "Description": "Diagonale 2, 584cm \"",
+      "CategoryID": 1,
+      "Price": 307.41,
+      "Stock": 106
+    },
+    {
+      "SKU": "U1X76UU",
+      "Product": "I2077040",
+      "Description": "Diagonale 10, 26.4cm \"",
+      "CategoryID": 1,
+      "Price": 434.41,
+      "Stock": 63
+    },
+    {
+      "SKU": "U9S75UU",
+      "Product": "LJ18739553x",
+      "Description": "Diagonale 1, 483cm \"",
+      "CategoryID": 1,
+      "Price": 177.58,
+      "Stock": 5
+    },
+    {
+      "SKU": "V5GG61UU",
+      "Product": "L1741751 ",
+      "Description": "Diagonale 18, 47cm \"",
+      "CategoryID": 1,
+      "Price": 88.01,
+      "Stock": 154
+    },
+    {
+      "SKU": "VM617U4",
+      "Product": "JDisplay ZI8650w",
+      "Description": "Diagonale 3, 762cm \"",
+      "CategoryID": 1,
+      "Price": 1022.68,
+      "Stock": 0
+    },
+    {
+      "SKU": "W3L13UU",
+      "Product": "H198945a",
+      "Description": "Diagonale 20, 52.6cm \"",
+      "CategoryID": 1,
+      "Price": 100.81,
+      "Stock": 0
+    },
+    {
+      "SKU": "X0N05UU",
+      "Product": "Value Q3691022",
+      "Description": "Diagonale 21, 54.6cm \"",
+      "CategoryID": 1,
+      "Price": 128.64,
+      "Stock": 121
+    },
+    {
+      "SKU": "X3M70UU",
+      "Product": "O8247es",
+      "Description": "Diagonale 21, 54.6cm \"",
+      "CategoryID": 1,
+      "Price": 142.78,
+      "Stock": 49
+    },
+    {
+      "SKU": "X3M78UU",
+      "Product": "O0683es",
+      "Description": "Diagonale 23, 60.5cm \"",
+      "CategoryID": 1,
+      "Price": 161.31,
+      "Stock": 24
+    },
+    {
+      "SKU": "X3M86UU",
+      "Product": "N6577es",
+      "Description": "Diagonale 2, 686cm \"",
+      "CategoryID": 1,
+      "Price": 220.07,
+      "Stock": 160
+    },
+    {
+      "SKU": "X3M88UU",
+      "Product": "Q36808er",
+      "Description": "Diagonale 2, 686cm \"",
+      "CategoryID": 1,
+      "Price": 228.79,
+      "Stock": 83
+    },
+    {
+      "SKU": "X3U87UU",
+      "Product": "Value 2783242kd",
+      "Description": "Diagonale 21, 54.6cm \"",
+      "CategoryID": 1,
+      "Price": 98.09,
+      "Stock": 79
+    },
+    {
+      "SKU": "X7K66UX",
+      "Product": "Display J90847030uj",
+      "Description": "Diagonale 23, 60.5cm \"",
+      "CategoryID": 1,
+      "Price": 356.38,
+      "Stock": 131
+    },
+    {
+      "SKU": "XN375UU",
+      "Product": "LQ86748503x",
+      "Description": "Diagonale 2, 584cm \"",
+      "CategoryID": 1,
+      "Price": 113.77,
+      "Stock": 83
+    },
+    {
+      "SKU": "XW476U4",
+      "Product": "JDisplay H219472130w",
+      "Description": "Diagonale 2, 686cm \"",
+      "CategoryID": 1,
+      "Price": 545.02,
+      "Stock": 90
+    }
+   ]
+   
